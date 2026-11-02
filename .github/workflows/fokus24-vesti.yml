@@ -1,4 +1,4 @@
-name: FOKUS 24 - raspored vesti
+name: FOKUS 24 - provera rasporeda
 
 on:
   workflow_dispatch:
@@ -13,5 +13,5 @@ jobs:
   provera:
     runs-on: ubuntu-latest
     steps:
-      - name: Provera rasporeda
-        run: echo "FOKUS 24 - zakazano pokretanje"
+      - name: Provera automatizacije
+        run: echo "FOKUS 24 - automatizacija je pokrenuta"
