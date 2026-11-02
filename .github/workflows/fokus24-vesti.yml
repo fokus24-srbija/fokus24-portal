@@ -1,4 +1,4 @@
-name: FOKUS 24 - provera rasporeda
+name: FOKUS name: FOKUS 24 - automatske vesti
 
 on:
   workflow_dispatch:
@@ -7,11 +7,30 @@ on:
       timezone: 'Europe/Belgrade'
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: fokus24-vesti
+  cancel-in-progress: false
 
 jobs:
-  provera:
+  objavljivanje:
     runs-on: ubuntu-latest
     steps:
-      - name: Provera automatizacije
-        run: echo "FOKUS 24 - automatizacija je pokrenuta"
+      - name: Preuzmi repozitorijum
+        uses: actions/checkout@v4
+      - name: Podesi Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Pokreni prikupljanje vesti
+        run: python scripts/update_news.py
+      - name: Sacuvaj nove vesti
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "FOKUS 24: azuriranje vesti"
+            git push
+          fi
