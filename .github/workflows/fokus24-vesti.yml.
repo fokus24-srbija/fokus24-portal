@@ -1,0 +1,17 @@
+name: FOKUS 24 - raspored vesti
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7,15,20 * * *'
+      timezone: 'Europe/Belgrade'
+
+permissions:
+  contents: read
+
+jobs:
+  provera:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Provera rasporeda
+        run: echo "FOKUS 24 - zakazano pokretanje"
