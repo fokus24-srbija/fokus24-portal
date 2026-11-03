@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-11-03T14:54:32.042336+00:00",
+  "updated_at": "2026-11-03T15:47:02.012330+00:00",
   "articles": [
+    {
+      "id": "f2b1468e6820bd6b06ed",
+      "title": "Demokrate u uzletu: Šta bi moglo da odluči američke međuizbore?",
+      "summary": "Prema objavi medija Danas: Demokrate u uzletu: Šta bi moglo da odluči američke međuizbore?. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/demokrate-u-uzletu-sta-bi-moglo-da-odluci-americke-medjuizbore/",
+      "published_at": "2026-11-03T15:33+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4d513992190010e7d605",
+      "title": "Policija dostavila tužilaštvu oko 10.000 fotografija dokumentacije iz Fonda PIO u Boru",
+      "summary": "Prema objavi medija N1: Policija dostavila tužilaštvu oko 10.000 fotografija dokumentacije iz Fonda PIO u Boru. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/policija-dostavila-tuzilastvu-oko-10000-fotografija-dokumentacije-iz-fonda-pio-u-boru/",
+      "published_at": "2026-11-03T15:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "5a7744104e9addffe32a",
+      "title": "„Bićete moj gost u Mar-a-Lagu, problem je što ćete za 5.000 dolara moći da kupite najviše jedan hamburger“: Šta je obeležilo Trampovu kampanju za izbore za Kongres?",
+      "summary": "Prema objavi medija Danas: „Bićete moj gost u Mar-a-Lagu, problem je što ćete za 5.000 dolara moći da kupite najviše jedan hamburger“: Šta je obeležilo Trampovu kampanju za izbore za Kongres?. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/trampizam-kampanje/",
+      "published_at": "2026-11-03T15:17+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "78d79ecd76ab74a0b262",
+      "title": "Crno-beli istakli da su odbili Alta banku: „KK Partizan čeka formiranje nove Vlade i spreman je za razgovore na temu razvoja“",
+      "summary": "Prema objavi medija Danas: Crno-beli istakli da su odbili Alta banku: „KK Partizan čeka formiranje nove Vlade i spreman je za razgovore na temu razvoja“. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/sport/kosarkaski-klub-partizan-alta-banka/",
+      "published_at": "2026-11-03T15:07+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8458133cb8a50c106057",
+      "title": "Ministarstvo pravde objavilo spisak svih pomilovanih",
+      "summary": "Prema objavi medija N1: Ministarstvo pravde objavilo spisak svih pomilovanih. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/ministarstvo-pravde-objavilo-spisak-pomilovanih/",
+      "published_at": "2026-11-03T15:06+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0e74e1bf4f20595c0258",
+      "title": "Milić tvrdi da je 200.000 evra iz budžeta Niša dato „momcima u crnom“, gradonačelnik i bivši većnik demantuju",
+      "summary": "Prema objavi medija Danas: Milić tvrdi da je 200.000 evra iz budžeta Niša dato „momcima u crnom“, gradonačelnik i bivši većnik demantuju. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/200-000-nis-momci-u-crnom/",
+      "published_at": "2026-11-03T15:05+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "7bcab918321f6830feb3",
+      "title": "Ministarstvo pravde objavilo spisak 49 osoba koje je Vučić pomilovao",
+      "summary": "Prema objavi medija Danas: Ministarstvo pravde objavilo spisak 49 osoba koje je Vučić pomilovao. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/spisak-ministarstvo-pravde-aleksandar-vucic-spisak-pomilovanja/",
+      "published_at": "2026-11-03T15:02+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f9ae837e091cff3b0d6d",
+      "title": "Ministarstvo pravde: Odluke o pomilovanju dostavljene nadležnim sudovima u skladu sa zakonom i procedurama",
+      "summary": "Prema objavi medija N1: Ministarstvo pravde: Odluke o pomilovanju dostavljene nadležnim sudovima u skladu sa zakonom i procedurama. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/ministarstvo-pravde-odluke-o-pomilovanju-dostavljene-nadleznim-sudovima-u-skladu-sa-zakonom-i-procedurama/",
+      "published_at": "2026-11-03T15:01+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "71a031471b22ec6d595e",
+      "title": "SDA, SBiH i DF ne žele stranke Trojke u novoj vlasti BiH i Federacije BiH",
+      "summary": "Prema objavi medija Danas: SDA, SBiH i DF ne žele stranke Trojke u novoj vlasti BiH i Federacije BiH. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/sda-sbih-i-df-ne-zele-stranke-trojke-u-novoj-vlasti-bih-i-federacije-bih/",
+      "published_at": "2026-11-03T15:01+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "6b2d72dd97db92f91112",
+      "title": "„Imam dva dana dok ne potrošim hranu“: Hiljade Rusa u Srbiji u bezizlaznoj situaciji nakon zatvaranja Alta banke",
+      "summary": "Prema objavi medija Danas: „Imam dva dana dok ne potrošim hranu“: Hiljade Rusa u Srbiji u bezizlaznoj situaciji nakon zatvaranja Alta banke. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/rusi-srbija-alta-banka-novac-bezilzlazna-situacija/",
+      "published_at": "2026-11-03T15:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "98610f41ec2e7649ca7e",
       "title": "Policija dostavila tužilaštvu oko 10.000 fotografija dokumentacije iz Fonda PIO u Boru",
