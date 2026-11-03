@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-03T19:48:33.548658+00:00",
+  "updated_at": "2026-11-03T20:42:36.920710+00:00",
   "articles": [
+    {
+      "id": "6792ec093eda7f8f60b4",
+      "title": "Advokatica Radović: Pomilovanje optuženog za pokušaj ubistva studentkinje sporno",
+      "summary": "Prema objavi medija Danas: Advokatica Radović: Pomilovanje optuženog za pokušaj ubistva studentkinje sporno. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/advokatica-radovic-pomilovanje-optuzenog-za-pokusaj-ubistva-studentkinje-sporno/",
+      "published_at": "2026-11-03T20:40+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a1b7632ba8491d094b75",
+      "title": "Rob Ković: Ovaj Trampov mandat veoma se razlikuje od prvog, rezultati izbora će svakako odražavati stav prema njemu",
+      "summary": "Prema objavi medija N1: Rob Ković: Ovaj Trampov mandat veoma se razlikuje od prvog, rezultati izbora će svakako odražavati stav prema njemu. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/kovic-ovaj-trampov-mandat-veoma-se-razlikuje-od-prvog-rezultati-izbora-ce-svakako-odrazavati-stav-prema-njemu/",
+      "published_at": "2026-11-03T20:34+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f22c1bb81653f4d5e2d0",
+      "title": "N1 u Izraelu: Međuizbori u SAD se pomno prate",
+      "summary": "Prema objavi medija N1: N1 u Izraelu: Međuizbori u SAD se pomno prate. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/izrael-sad-medjuizbori-vojna-pomoc/",
+      "published_at": "2026-11-03T20:33+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4bedd9af292e246f517e",
+      "title": "Ponoš podneo ostavku na mesto predsednika stranke, Predsedništvo SRCE je prihvatilo",
+      "summary": "Prema objavi medija Danas: Ponoš podneo ostavku na mesto predsednika stranke, Predsedništvo SRCE je prihvatilo. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/ponos-podneo-ostavku/",
+      "published_at": "2026-11-03T20:09+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9aaa4681d3d16f2e159b",
+      "title": "Studenti u blokadi: Pripadnici romske zajednice posebno su bili izloženi izbornoj manipulaciji",
+      "summary": "Prema objavi medija N1: Studenti u blokadi: Pripadnici romske zajednice posebno su bili izloženi izbornoj manipulaciji. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/studenti-u-blokadi-pripadnici-romske-zajednice-posebno-su-bili-izlozeni-izbornoj-manipulaciji/",
+      "published_at": "2026-11-03T20:06+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "fa1211dcba1e32203b0a",
+      "title": "Ponoš podneo ostavku na mesto predsednika stranke SRCE, Predsedništvo je prihvatilo",
+      "summary": "Prema objavi medija N1: Ponoš podneo ostavku na mesto predsednika stranke SRCE, Predsedništvo je prihvatilo. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/predsednistvo-stranke-srce-konstatovalo-ostavku-zdravka-ponosa/",
+      "published_at": "2026-11-03T20:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e0ea384de7327d8505b8",
+      "title": "Ruski poslanik i delegat koji je pratio izbore u Srbiji otkrio šta očekuje od novih vlasti u Beogradu: „Poraz Vučića bio predvidiv“",
+      "summary": "Prema objavi medija Danas: Ruski poslanik i delegat koji je pratio izbore u Srbiji otkrio šta očekuje od novih vlasti u Beogradu: „Poraz Vučića bio predvidiv“. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/konstantin-zatulin-srbija-izbori/",
+      "published_at": "2026-11-03T19:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "3acd65d2a55128bffdae",
+      "title": "Slaveski: Nije bilo milionskih transakcija iz Alta banke Bitolj nakon 26. oktobra",
+      "summary": "Prema objavi medija N1: Slaveski: Nije bilo milionskih transakcija iz Alta banke Bitolj nakon 26. oktobra. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "N1",
+      "source_url": "https://n1info.rs/region/slaveski-nije-bilo-milionskih-transakcija-iz-alta-banke-bitolj-nakon-26-oktobra/",
+      "published_at": "2026-11-03T19:51+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8963c35e17dd2df12855",
+      "title": "Tužilac Danilović: Odluka o pomilovanju optuženog za pokušaj ubistva studentkinje pravno nevažeća",
+      "summary": "Prema objavi medija Danas: Tužilac Danilović: Odluka o pomilovanju optuženog za pokušaj ubistva studentkinje pravno nevažeća. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/tuzilac-danilovic-odluka-o-pomilovanju/",
+      "published_at": "2026-11-03T19:50+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "8b0833f10afb07adf73d",
       "title": "“Serbian Sovereigntists” stage protest in support of Informer TV",
