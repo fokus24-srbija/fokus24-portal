@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-03T21:36:46.030798+00:00",
+  "updated_at": "2026-11-03T21:39:44.649306+00:00",
   "articles": [
+    {
+      "id": "a685951d7b301b7c4dc1",
+      "title": "Advokati Davora Macure u Tužilaštvu za organizovani kriminal - saslušanja u slučaju \"Alta banka\"",
+      "summary": "Prema objavi medija N1: Advokati Davora Macure u Tužilaštvu za organizovani kriminal - saslušanja u slučaju \"Alta banka\". Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Hronika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/advokati-davora-macure-u-tuzilastvu-za-organizovani-kriminal-saslusanja-u-slucaju-alta-banka/",
+      "published_at": "2026-11-03T21:38+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b490384680aa76d7254e",
+      "title": "Srpski glumac se zaposlio u supermarketu: Nakon što je izbačen iz serije odselio se iz zemlje",
+      "summary": "Prema objavi medija Telegraf: Srpski glumac se zaposlio u supermarketu: Nakon što je izbačen iz serije odselio se iz zemlje. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Zabava",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/jetset/vesti-jetset/4426375-srpski-glumac-se-zaposlio-u-supermarketu-nakon-sto-je-izbacen-iz-serije-odselio-se-iz-zemlje",
+      "published_at": "2026-11-03T21:36+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "cb4dfe1c3939646a5276",
+      "title": "Kada Rus izdominira: Zbog briljantnog Batrakova grmela \"Kaljinka\" usred Istanbula",
+      "summary": "Prema objavi medija Telegraf: Kada Rus izdominira: Zbog briljantnog Batrakova grmela \"Kaljinka\" usred Istanbula. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/fudbal/4426370-kada-rus-izdominira-zbog-briljantnog-batrakova-grmela-kaljinka-usred-istanbula",
+      "published_at": "2026-11-03T21:36+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "3ebfbbd6fd409a1e4f2f",
       "title": "Jamal ispisao istoriju Lige šampiona, golom nadmašio Kilijana Mbapea",
@@ -29,6 +59,36 @@
       "source": "Telegraf",
       "source_url": "https://www.telegraf.rs/vesti/svet/4426379-legendarni-brus-springstin-se-oglasio-u-vezi-medjuizbora-nas-glas-je-nas-glas-a-na-vama-je-da",
       "published_at": "2026-11-03T21:34+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a2a993be64f344a48b97",
+      "title": "JAMAL ISPISAO ISTORIJU LIGE ŠAMPIONA: Srušio Mbapeov rekord!",
+      "summary": "Prema objavi medija Kurir: JAMAL ISPISAO ISTORIJU LIGE ŠAMPIONA: Srušio Mbapeov rekord!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/fudbal/10152662/lamin-jamal-srusio-mbapeov-rekord-u-ligi-sampiona",
+      "published_at": "2026-11-03T21:34+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9469da66b5f9f1676a85",
+      "title": "SIN ZORANE MIHAJLOVIĆ SE OGLASIO POSLE BROJNIH PROZIVKI NA NJEGOV RAČUN: \"Nema nikakvog luksuza, glamura ni raskošnog načina života\"",
+      "summary": "Prema objavi medija Kurir: SIN ZORANE MIHAJLOVIĆ SE OGLASIO POSLE BROJNIH PROZIVKI NA NJEGOV RAČUN: \"Nema nikakvog luksuza, glamura ni raskošnog načina života\". Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/politika/10152660/oglasio-se-sin-zorane-mihajlovic",
+      "published_at": "2026-11-03T21:33+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ea1948b6038d8ded6698",
+      "title": "DINO MERLIN JE VODIO NAJTEŽU ŽIVOTNU BITKU! Pevač sve priznao: Ne bih poželeo nikome",
+      "summary": "Prema objavi medija Kurir: DINO MERLIN JE VODIO NAJTEŽU ŽIVOTNU BITKU! Pevač sve priznao: Ne bih poželeo nikome. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Zabava",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/stars/10152658/dino-merlin-o-borbi-sa-depresijom",
+      "published_at": "2026-11-03T21:32+00:00",
       "verification_status": "preneto_iz_izvora"
     },
     {
@@ -2939,66 +2999,6 @@
       "source": "Kurir",
       "source_url": "https://www.kurir.rs/sport/kosarka/10152437/satoranski-se-vratio-u-tim-posle-jezivog-pada",
       "published_at": "2026-11-03T15:50+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "93004028560e53e8f1f2",
-      "title": "POTPUNI KOLAPS NA IZLAZU IZ SRBIJE Čeka se i do 4 SATA, formirane se kilometarske kolone, obratite pažnju na ovaj prelaz",
-      "summary": "Prema objavi medija Kurir: POTPUNI KOLAPS NA IZLAZU IZ SRBIJE Čeka se i do 4 SATA, formirane se kilometarske kolone, obratite pažnju na ovaj prelaz. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/srbija/10152435/guzve-na-granicama-srbije-sid-najgori-prelaz",
-      "published_at": "2026-11-03T15:48+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "552c038faf7491e7140a",
-      "title": "PARTIZAN SE OGLASIO SAOPŠTENJEM: Crno-beli objavili važne informacije! Burno je ovih dana u Humskoj...",
-      "summary": "Prema objavi medija Kurir: PARTIZAN SE OGLASIO SAOPŠTENJEM: Crno-beli objavili važne informacije! Burno je ovih dana u Humskoj.... Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Sport",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/fudbal/10152433/fk-partizan-saopstenje-milija-babovic",
-      "published_at": "2026-11-03T15:48+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "54fda3954c77f094a474",
-      "title": "RATNI ZLOČINAC HAŠIM TAČI SE VRAĆA NA DRUŠTVENE MREŽE! Njegov medijski tim objavljivaće arhivski materijal iz političkog delovanja",
-      "summary": "Prema objavi medija Kurir: RATNI ZLOČINAC HAŠIM TAČI SE VRAĆA NA DRUŠTVENE MREŽE! Njegov medijski tim objavljivaće arhivski materijal iz političkog delovanja. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10152413/medijski-tim-hasima-tacija-aktivira-njegove-naloge-na-drustvenim-mrezama",
-      "published_at": "2026-11-03T15:46+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "ff932fe67c4dac4aef06",
-      "title": "(VIDEO) HITNO UPOZORENJE ZA VOZAČE Sneg okovao srpske planine, saobraćaj u kolapsu: Prizori kao iz bajke, ali ove deonice su kritične",
-      "summary": "Prema objavi medija Kurir: (VIDEO) HITNO UPOZORENJE ZA VOZAČE Sneg okovao srpske planine, saobraćaj u kolapsu: Prizori kao iz bajke, ali ove deonice su kritične. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/srbija/10152431/sneg-na-goliji-uslovi-za-voznju-otezani",
-      "published_at": "2026-11-03T15:42+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "f2b1468e6820bd6b06ed",
-      "title": "Demokrate u uzletu: Šta bi moglo da odluči američke međuizbore?",
-      "summary": "Prema objavi medija Danas: Demokrate u uzletu: Šta bi moglo da odluči američke međuizbore?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/svet/demokrate-u-uzletu-sta-bi-moglo-da-odluci-americke-medjuizbore/",
-      "published_at": "2026-11-03T15:33+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "4d513992190010e7d605",
-      "title": "Policija dostavila tužilaštvu oko 10.000 fotografija dokumentacije iz Fonda PIO u Boru",
-      "summary": "Prema objavi medija N1: Policija dostavila tužilaštvu oko 10.000 fotografija dokumentacije iz Fonda PIO u Boru. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Hronika",
-      "source": "N1",
-      "source_url": "https://n1info.rs/vesti/policija-dostavila-tuzilastvu-oko-10000-fotografija-dokumentacije-iz-fonda-pio-u-boru/",
-      "published_at": "2026-11-03T15:30+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
