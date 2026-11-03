@@ -3,7 +3,7 @@ name: FOKUS 24 - automatske vesti
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 6,14,19 * * *'
+  - cron: '0 * * * *'
 
 permissions:
   contents: write
