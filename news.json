@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-03T22:30:57.169031+00:00",
+  "updated_at": "2026-11-03T22:38:21.232250+00:00",
   "articles": [
+    {
+      "id": "2046beef929ff921dd58",
+      "title": "Tužilac na beogradskom aerodromu čeka Aleksandra Vulina čiji je let vraćen dok je bio na putu za Moskvu",
+      "summary": "Prema objavi medija Nova.rs: Tužilac na beogradskom aerodromu čeka Aleksandra Vulina čiji je let vraćen dok je bio na putu za Moskvu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Hronika",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/vesti/hronika/tuzilac-na-beogradskom-aerodromu-ceka-aleksandra-vulina-ciji-je-let-vracen-dok-je-bio-na-putu-za-moskvu/",
+      "published_at": "2026-11-03T22:37+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "23ebcfd8fb74771c6b63",
+      "title": "Studentski pokret: Odlazeći režim bi mogao da inscenira incidente i predstavi nas kao neprijatelje romske zajednice",
+      "summary": "Prema objavi medija Nova.rs: Studentski pokret: Odlazeći režim bi mogao da inscenira incidente i predstavi nas kao neprijatelje romske zajednice. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/vesti/politika/studentski-pokret-odlazeci-rezim-bi-mogao-da-inscenira-incidente-i-predstavi-nas-kao-neprijatelje-romske-zajednice/",
+      "published_at": "2026-11-03T22:36+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "3ce9a8818e304ca2d633",
+      "title": "Ovih 11 navika tiho nam oduzima gotovo svu sreću: Radimo ih svakog dana i mislimo da su normalne",
+      "summary": "Prema objavi medija Telegraf: Ovih 11 navika tiho nam oduzima gotovo svu sreću: Radimo ih svakog dana i mislimo da su normalne. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://ona.telegraf.rs/porodica-deca/4425718-ovih-11-navika-tiho-nam-oduzima-gotovo-svu-srecu-radimo-ih-svakog-dana-i-mislimo-da-su-normalne",
+      "published_at": "2026-11-03T22:35+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "351153f0aac4ae121ec0",
+      "title": "Председник израелског ЦИК-а: Званични резултати избора морају бити објављени што пре",
+      "summary": "Prema objavi medija Politika: Председник израелског ЦИК-а: Званични резултати избора морају бити објављени што пре. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799552/predsednik-izraelskog-cik-a-zvanicni-rezultati-izbora-moraju-biti-objavljeni-sto-pre",
+      "published_at": "2026-11-03T22:34+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4a89a1bb3b3ddcedc7fa",
+      "title": "Donald Tramp: Evropa dala Americi najveći poklon u istoriji - Grenland",
+      "summary": "Prema objavi medija N1: Donald Tramp: Evropa dala Americi najveći poklon u istoriji - Grenland. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/donald-tramp-evropa-amerika-najveci-poklon-grenland/",
+      "published_at": "2026-11-03T22:31+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "97e5577c32c8215d8f6f",
+      "title": "HAOS NA BLISKOM ISTOKU POMERIO FUDBALSKI SPEKTAKL: Azijski kup odložen za skoro godinu dana!",
+      "summary": "Prema objavi medija Kurir: HAOS NA BLISKOM ISTOKU POMERIO FUDBALSKI SPEKTAKL: Azijski kup odložen za skoro godinu dana!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Sport",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/fudbal/10152424/azijski-kup-odlozen-za-gotovo-godinu-dana-zbog-sukoba-na-bliskom-istoku",
+      "published_at": "2026-11-03T22:31+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "a23dbb37344f796b0e2d",
       "title": "Moćna poruka Đakovca pred duel sa Zvezdom: Vojvodina uvek igra da pobedi",
@@ -28,6 +88,26 @@
       "category": "Društvo",
       "source": "Kurir",
       "source_url": "https://www.kurir.rs/vesti/srbija/10152539/zadrzavanje-kamiona-na-granicama-srbije",
+      "published_at": "2026-11-03T22:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "42358948501f2be6970c",
+      "title": "Uskoro N1 UŽIVO na Aerodromu \"Nikola Tesla\" posle vraćanja aviona sa leta za Moskvu",
+      "summary": "Prema objavi medija N1: Uskoro N1 UŽIVO na Aerodromu \"Nikola Tesla\" posle vraćanja aviona sa leta za Moskvu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/n1-uzivo-na-aerodromu-nikola-tesla/",
+      "published_at": "2026-11-03T22:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f75aa66c4cd0862bb46f",
+      "title": "Pajić (PSG): Potrebna hitna reforma ministarstva kulture, zaustaviti nezakonito trošenje novca građana za Ekspo",
+      "summary": "Prema objavi medija Danas: Pajić (PSG): Potrebna hitna reforma ministarstva kulture, zaustaviti nezakonito trošenje novca građana za Ekspo. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/kultura/pajic-psg-reforma-ministarstva-kulture/",
       "published_at": "2026-11-03T22:30+00:00",
       "verification_status": "preneto_iz_izvora"
     },
@@ -2919,86 +2999,6 @@
       "source": "Kurir",
       "source_url": "https://www.kurir.rs/stars/10152487/ispovest-mirke-vasiljevic",
       "published_at": "2026-11-03T17:30+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "d2781cbd31a0b9c4e1a3",
-      "title": "NEMAČKA PRED NOVIM ENERGETSKIM IZAZOVOM?! Potrošnja struje mogla bi drastično da poraste, stručnjaci upozoravaju šta se sprema do 2035. godine",
-      "summary": "Prema objavi medija Kurir: NEMAČKA PRED NOVIM ENERGETSKIM IZAZOVOM?! Potrošnja struje mogla bi drastično da poraste, stručnjaci upozoravaju šta se sprema do 2035. godine. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/planeta/10152531/nemacka-potrosnja-struje-data-centara-mogla-bi-da-se-utrostruci-do-2035",
-      "published_at": "2026-11-03T17:29+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "36326c26d3d988eff3cf",
-      "title": "„Alta je primer da je NBS izgubila nezavisnost u odnosu na vlast“: Kolika je odgovornost Jorgovanke Tabaković u propasti banke?",
-      "summary": "Prema objavi medija Danas: „Alta je primer da je NBS izgubila nezavisnost u odnosu na vlast“: Kolika je odgovornost Jorgovanke Tabaković u propasti banke?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Ekonomija",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/ekonomija/jorgovanka-tabakovic-alta-banka-nbs-odgovornost/",
-      "published_at": "2026-11-03T17:25+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5246189c28543f907d18",
-      "title": "Zvezda po dobrom pamti 5. novembar: Da li će tako biti i ovog puta u Evropi?",
-      "summary": "Prema objavi medija Nova.rs: Zvezda po dobrom pamti 5. novembar: Da li će tako biti i ovog puta u Evropi?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Sport",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/sport/fudbal/zvezda-po-dobrom-pamti-5-novembar-da-li-ce-tako-biti-i-ovog-puta-u-evropi/",
-      "published_at": "2026-11-03T17:20+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "395fc28e4a5b1e031240",
-      "title": "Vučić pomilovao i bivšeg rukovodioca „Namenske“ iz Lučana, osuđenog zbog smrti dvojice radnika: Porodica Milivojević se godinama borila za pravdu",
-      "summary": "Prema objavi medija Nova.rs: Vučić pomilovao i bivšeg rukovodioca „Namenske“ iz Lučana, osuđenog zbog smrti dvojice radnika: Porodica Milivojević se godinama borila za pravdu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/vesti/hronika/vucic-pomilovao-i-bivseg-rukovodioca-namenske-iz-lucana-osudjenog-zbog-smrti-dvojice-radnika-porodica-milivojevic-se-godinama-borila-za-pravdu/",
-      "published_at": "2026-11-03T17:19+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "99cc3b93ed04d123b4b1",
-      "title": "PROTEST U SAVSKOJ ULICI Grupa građana okupila se ispred policijske stanice",
-      "summary": "Prema objavi medija Kurir: PROTEST U SAVSKOJ ULICI Grupa građana okupila se ispred policijske stanice. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Hronika",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10152526/protest-gradjana-ispred-policijske-stanice-savski-venac",
-      "published_at": "2026-11-03T17:18+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6f73d12573c8a99ef4fb",
-      "title": "ŠPANIJA ZAVIJENA U CRNO: Smrt fudbalera zaustavila fudbal, Savez doneo hitnu odluku",
-      "summary": "Prema objavi medija Kurir: ŠPANIJA ZAVIJENA U CRNO: Smrt fudbalera zaustavila fudbal, Savez doneo hitnu odluku. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Sport",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/fudbal/10152525/fudbalski-savez-spanije-odlozio-sve-meceve-do-vikenda-zbog-smrti-hesusa-de-migela",
-      "published_at": "2026-11-03T17:18+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "9a1566eca436e09cdcf1",
-      "title": "Borović o Vučićevim pomilovanjima: Direktno mešanje u rad pravosuđa, odluke su skandalozne, ali narod ne treba da brine",
-      "summary": "Prema objavi medija N1: Borović o Vučićevim pomilovanjima: Direktno mešanje u rad pravosuđa, odluke su skandalozne, ali narod ne treba da brine. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "N1",
-      "source_url": "https://n1info.rs/vesti/borovic-o-vucicevim-pomilovanjima-direktno-mesanje-u-rad-pravosudja-odluke-su-skandalozne-ali-narod-ne-treba-da-brine/",
-      "published_at": "2026-11-03T17:17+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "e22ec35695025778f2ba",
-      "title": "Fond PIO objavio gde i kada će biti isplaćene penzije licima koja su imala tekući račun u Alta banci",
-      "summary": "Prema objavi medija Danas: Fond PIO objavio gde i kada će biti isplaćene penzije licima koja su imala tekući račun u Alta banci. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Ekonomija",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/ekonomija/fond-pio-penzije-racun-alta-banka/",
-      "published_at": "2026-11-03T17:17+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
