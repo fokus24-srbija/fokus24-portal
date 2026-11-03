@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-11-03T16:51:21.652943+00:00",
+  "updated_at": "2026-11-03T17:45:36.248661+00:00",
   "articles": [
+    {
+      "id": "61881484ada4502b9ccb",
+      "title": "Šta je uhapšeni direktor RHMZ-a prijavio od imovine: Imovinska karta Jugoslava Nikolića - plata od 370.000 dinara",
+      "summary": "Prema objavi medija N1: Šta je uhapšeni direktor RHMZ-a prijavio od imovine: Imovinska karta Jugoslava Nikolića - plata od 370.000 dinara. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/uhapseni-direktor-rhmz-jugoslav-nikolic-imovina-imovinska-karta/",
+      "published_at": "2026-11-03T17:36+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ecb077d6b851f74a8caa",
+      "title": "Studentska lista: Nismo podržali nijednu listu na izborima za savete nacionalnih manjina",
+      "summary": "Prema objavi medija N1: Studentska lista: Nismo podržali nijednu listu na izborima za savete nacionalnih manjina. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/studentska-lista-nismo-podrzali-nijednu-listu-na-izborima-za-savete-nacionalnih-manjina/",
+      "published_at": "2026-11-03T17:36+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "36326c26d3d988eff3cf",
+      "title": "„Alta je primer da je NBS izgubila nezavisnost u odnosu na vlast“: Kolika je odgovornost Jorgovanke Tabaković u propasti banke?",
+      "summary": "Prema objavi medija Danas: „Alta je primer da je NBS izgubila nezavisnost u odnosu na vlast“: Kolika je odgovornost Jorgovanke Tabaković u propasti banke?. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/ekonomija/jorgovanka-tabakovic-alta-banka-nbs-odgovornost/",
+      "published_at": "2026-11-03T17:25+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "131023a590d2781ff9ad",
+      "title": "Studentska lista: Nismo podržali nijednu listu na izborima za savete nacionalnih manjina",
+      "summary": "Prema objavi medija Danas: Studentska lista: Nismo podržali nijednu listu na izborima za savete nacionalnih manjina. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/studentska-lista-nismo-podrzali-nijednu-listu/",
+      "published_at": "2026-11-03T17:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "bb2d63bc957d15cb0dcf",
+      "title": "Španska policija pokrenula istragu zbog smrti fudbalera Tenerifa",
+      "summary": "Prema objavi medija Danas: Španska policija pokrenula istragu zbog smrti fudbalera Tenerifa. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/sport/spanska-policija-pokrenula-istragu-zbog-smrti-fudbalera-tenerifa/",
+      "published_at": "2026-11-03T17:07+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4c65608fc3913f9a7f88",
+      "title": "Izbori za Kongres u SAD biće još jedan test pouzdanosti tržišta predviđanja: Kako su prognoze omašile u slučaju Boslonara i Vučića",
+      "summary": "Prema objavi medija Danas: Izbori za Kongres u SAD biće još jedan test pouzdanosti tržišta predviđanja: Kako su prognoze omašile u slučaju Boslonara i Vučića. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/trzista-predvidjanja-izbori-pouzdanost/",
+      "published_at": "2026-11-03T17:03+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e1a50d75df47d565dea0",
+      "title": "VJT: Uhapšen direktor RHMZ Jugoslav Nikolić",
+      "summary": "Prema objavi medija Danas: VJT: Uhapšen direktor RHMZ Jugoslav Nikolić. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/uhapsen-direktor-rhmz-jugoslav-nikolic/",
+      "published_at": "2026-11-03T17:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "780a734adc75fc0d8a45",
+      "title": "\"Pratili su nas 24 sata, špijunirali\": Policija vratila deo oduzetih stvari sa splava u Zemunu u kojem se nalazio studentski štab",
+      "summary": "Prema objavi medija N1: \"Pratili su nas 24 sata, špijunirali\": Policija vratila deo oduzetih stvari sa splava u Zemunu u kojem se nalazio studentski štab. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/pratili-su-nas-24-sata-spijunirali-policija-vratila-deo-oduzetih-stvari-sa-splava-u-zemunu-u-kojem-se-nalazio-studentski-stab/",
+      "published_at": "2026-11-03T16:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "9c4055cdf35ebf833043",
       "title": "Uhapšen direktor RHMZ-a zbog sumnje na pranje novca",
