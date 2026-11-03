@@ -11,14 +11,14 @@ from urllib.parse import urlparse
 
 FILE = Path(__file__).resolve().parent.parent / 'news.json'
 FEEDS = {
-    'RTS': 'https://www.rts.rs/rss/vesti.html',
+    'RTS': 'https://www.rts.rs/vesti/rss.html',
     'N1': 'https://n1info.rs/feed/',
     'Danas': 'https://www.danas.rs/feed/',
-    'Blic': 'https://www.blic.rs/rss',
+    'Blic': 'https://www.blic.rs/rss/danasnje-vesti',
     'Nova.rs': 'https://nova.rs/feed/',
     'Telegraf': 'https://www.telegraf.rs/rss',
     'Kurir': 'https://www.kurir.rs/rss',
-    'Novosti': 'https://www.novosti.rs/rss',
+    'Novosti': 'https://www.novosti.rs/rss/57%7C25%7C49%7C56%7C33%7C19%7C34%7C20%7C18%7C32%7C58%7C45%7C16%7C31%7C50%7C5%7C1%7C3%7C26%7C52%7C2%7C6%7C55%7C35%7C4%7C9%7C8%7C7%7C51%7C12%7C47%7C46%7C30%7C53%7C14%7C13%7C11%7C15%7C10%7C48%7C36%7C54%7C61-Sve%20vesti',
     'Politika': 'https://www.politika.rs/rss',
 }
 
@@ -54,6 +54,9 @@ def safe_xml(data):
     """Repair invalid XML control characters and unescaped ampersands."""
     # XML feeds are expected to be UTF-8; preserve XML declaration for standard parser.
     text = data.decode('utf-8-sig', errors='replace')
+    # HTML pages are not RSS feeds; do not invent articles from them.
+    if re.search(r'<!doctype\s+html|<html(?:\s|>)', text[:1500], flags=re.I):
+        return ''
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\ufffe\uffff]', '', text)
     text = re.sub(r'&(?!#\d+;|#x[0-9a-fA-F]+;|[a-zA-Z][a-zA-Z0-9._:-]*;)', '&amp;', text)
     return text
@@ -61,6 +64,8 @@ def safe_xml(data):
 
 def parse_entries(data):
     text = safe_xml(data)
+    if not text:
+        return [], 'adresa vraća HTML stranicu umesto RSS-a'
     try:
         root = ET.fromstring(text)
         entries = root.findall('.//item') or root.findall('{http://www.w3.org/2005/Atom}entry')
@@ -100,7 +105,7 @@ def main():
                 data = resp.read(2_000_000)
             entries, mode = parse_entries(data)
             if not entries:
-                print(f'{source}: nema čitljivih RSS/Atom stavki')
+                print(f'{source}: nema čitljivih RSS/Atom stavki ({mode}); proveriti zvaničnu RSS adresu')
                 continue
             success += 1
             count = 0
