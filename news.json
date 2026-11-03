@@ -1,6 +1,346 @@
 {
-  "updated_at": "2026-11-03T06:57:17.977356+00:00",
+  "updated_at": "2026-11-03T14:54:32.042336+00:00",
   "articles": [
+    {
+      "id": "98610f41ec2e7649ca7e",
+      "title": "Policija dostavila tužilaštvu oko 10.000 fotografija dokumentacije iz Fonda PIO u Boru",
+      "summary": "Prema objavi medija Danas: Policija dostavila tužilaštvu oko 10.000 fotografija dokumentacije iz Fonda PIO u Boru. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/pio-fond-bor-dokumentacija/",
+      "published_at": "2026-11-03T14:51+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b832b3cd728030176ee0",
+      "title": "Kandidati Studentske liste potpisali izjavu o odgovornosti: U slučaju kršenja - smatraće se da su podneli ostavku",
+      "summary": "Prema objavi medija N1: Kandidati Studentske liste potpisali izjavu o odgovornosti: U slučaju kršenja - smatraće se da su podneli ostavku. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/kandidati-studentske-liste-potpisali-izjavu-o-odgovornosti/",
+      "published_at": "2026-11-03T14:50+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0661ce5250bc218d9320",
+      "title": "Opozicione stranke u Izraelu postigle dogovor, Ajzenkot mandatar za sastav nove Vlade: „Što pre smena Netanjahua“",
+      "summary": "Prema objavi medija Danas: Opozicione stranke u Izraelu postigle dogovor, Ajzenkot mandatar za sastav nove Vlade: „Što pre smena Netanjahua“. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/izrael-benjamin-netanjahu-opozicija-dogovor-vlada/",
+      "published_at": "2026-11-03T14:44+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "85fc59910c5756a25a9d",
+      "title": "Tužilac Danilović za \"Novu\": Stalni pritisci da ublažim delo protiv vozača koji je pregazio Sonju, potvrdili su mi sumnju da je stvarni počinilac dela - Aleksandar Vučić",
+      "summary": "Prema objavi medija N1: Tužilac Danilović za \"Novu\": Stalni pritisci da ublažim delo protiv vozača koji je pregazio Sonju, potvrdili su mi sumnju da je stvarni počinilac dela - Aleksandar Vučić. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/tuzilac-danilovic-za-novu-stalni-pritisci-da-ublazim-delo-protiv-vozaca-koji-je-pregazio-sonju-potvrdili-su-mi-sumnju-da-je-stvarni-pocinilac-dela-aleksandar-vucic/",
+      "published_at": "2026-11-03T14:43+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "dc61a7aa16e260e3c7c4",
+      "title": "Nekadašnji inspektor o pomilovanju Dijane Hrkalović: Ozbiljan šamar građanima i državi - predsednik se nasmejao narodu tim potezom",
+      "summary": "Prema objavi medija N1: Nekadašnji inspektor o pomilovanju Dijane Hrkalović: Ozbiljan šamar građanima i državi - predsednik se nasmejao narodu tim potezom. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/predrag-simonovic-pomilovanje-dijane-hrkalovic-ozbiljan-samar-gradjanima/",
+      "published_at": "2026-11-03T14:41+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e82dfaf70eb2685ae16a",
+      "title": "UNS: UO RTS odložio odluku o izboru v.d. generalnog direktora",
+      "summary": "Prema objavi medija N1: UNS: UO RTS odložio odluku o izboru v.d. generalnog direktora. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/uns-uo-rts-odlozio-odluku-o-izboru-vd-generalnog-direktora/",
+      "published_at": "2026-11-03T14:39+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "054664039d71c648435f",
+      "title": "Slučaj Alta i investicioni fondovi: Vrednost jedinica kod Vista Rica pala i do 22 odsto",
+      "summary": "Prema objavi medija N1: Slučaj Alta i investicioni fondovi: Vrednost jedinica kod Vista Rica pala i do 22 odsto. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/biznis/draft-zvanicna/",
+      "published_at": "2026-11-03T14:35+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4b33ec17da12446034b0",
+      "title": "Iz Studentske liste najavljena konferencija za novinare",
+      "summary": "Prema objavi medija Danas: Iz Studentske liste najavljena konferencija za novinare. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/iz-studentske-liste-najavljena-konferencija-za-novinare/",
+      "published_at": "2026-11-03T14:26+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "eefeb1c83c8fcb6004ce",
+      "title": "Alta banka i zvanično u stečaju, vlasnik se sumnjiči za proneveru više od 380 miliona evra",
+      "summary": "Prema objavi medija Danas: Alta banka i zvanično u stečaju, vlasnik se sumnjiči za proneveru više od 380 miliona evra. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/bbc-news-serbian/alta-banka-i-zvanicno-u-stecaju-vlasnik-se-sumnjici-za-proneveru-vise-od-380-miliona-evra/",
+      "published_at": "2026-11-03T14:26+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "72c2606843238dbec97a",
+      "title": "Plenković: Ne znamo stavove Studentske liste, upada u oči da tokom izbora nije bilo baš nijedne evropske zastave",
+      "summary": "Prema objavi medija N1: Plenković: Ne znamo stavove Studentske liste, upada u oči da tokom izbora nije bilo baš nijedne evropske zastave. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/region/plenkovic-ne-znamo-stavove-studentske-liste/",
+      "published_at": "2026-11-03T14:21+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "fe983199be370df4d390",
+      "title": "Odbijena kandidatura predsednice stranke Centar za premijerku Švedske",
+      "summary": "Prema objavi medija Danas: Odbijena kandidatura predsednice stranke Centar za premijerku Švedske. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/odbijena-kandidatura-predsednice-stranke-centar-za-premijerku-svedske/",
+      "published_at": "2026-11-03T14:21+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "6341222e74adc4408d64",
+      "title": "Dobrica Veselinović: Stranke treba da ponude svoje kandidate za naredne izbore - Srbija zaslužuje predsednicu",
+      "summary": "Prema objavi medija N1: Dobrica Veselinović: Stranke treba da ponude svoje kandidate za naredne izbore - Srbija zaslužuje predsednicu. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/dobrica-veselinovic-stranke-predsednicki-izbori-srbija-zasluzuje-predsednicu/",
+      "published_at": "2026-11-03T14:20+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "85360621067b2eae5000",
+      "title": "Tužilačka komisija ispituje krivične prijave protiv Krička i njegovih podređenih",
+      "summary": "Prema objavi medija Danas: Tužilačka komisija ispituje krivične prijave protiv Krička i njegovih podređenih. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/bbc-news-serbian/tuzilacka-komisija-ispituje-krivicne-prijave-protiv-kricka-i-njegovih-podredjenih/",
+      "published_at": "2026-11-03T14:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "7edaa948484a9561d3a3",
+      "title": "Načelnik policije u Čačku pozvao građane da prijave sumnje na uništavanje dokaza i korupciju",
+      "summary": "Prema objavi medija N1: Načelnik policije u Čačku pozvao građane da prijave sumnje na uništavanje dokaza i korupciju. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/nacelnik-policije-cacak-prijave-sumnje-unistavanje-dokaza/",
+      "published_at": "2026-11-03T14:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "665467dd608381f2ecbb",
+      "title": "Prvo osnovno tužilaštvo dobilo uputstvo za slučaj „Garaža“",
+      "summary": "Prema objavi medija Danas: Prvo osnovno tužilaštvo dobilo uputstvo za slučaj „Garaža“. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-uputstvo-slucaj-garaza/",
+      "published_at": "2026-11-03T14:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b7ca8b524a7d4dd6adcf",
+      "title": "Press: Ekonomista Božo Drašković (3. 11. 2026)",
+      "summary": "Prema objavi medija N1: Press: Ekonomista Božo Drašković (3. 11. 2026). Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/video/novi-dan/press-ekonomista-bozo-draskovic-3-11-2026/",
+      "published_at": "2026-11-03T13:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "05dc91bafd647234cbc7",
+      "title": "Španska policija pokrenula istragu zbog smrti fudbalera Tenerifa",
+      "summary": "Prema objavi medija N1: Španska policija pokrenula istragu zbog smrti fudbalera Tenerifa. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/spanska-policija-pokrenula-istragu-zbog-smrti-fudbalera-tenerifa/",
+      "published_at": "2026-11-03T13:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9b8f36bea82c0a4416ce",
+      "title": "Đorđe Tomić za Danas: Ljajić više neće biti predsednik Partizana, odlazak Saše Ilića je kap koja je prelila čašu",
+      "summary": "Prema objavi medija Danas: Đorđe Tomić za Danas: Ljajić više neće biti predsednik Partizana, odlazak Saše Ilića je kap koja je prelila čašu. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/sport/djordje-tomic-partizan-apel-za-spas-ljajic/",
+      "published_at": "2026-11-03T13:37+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "c26c65b62658dde6693c",
+      "title": "Oglasilo je Više javno tužilaštvo o uništavanju dokumentacije u Domu zdravlja Smederevo",
+      "summary": "Prema objavi medija Danas: Oglasilo je Više javno tužilaštvo o uništavanju dokumentacije u Domu zdravlja Smederevo. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/dom-zdravlja-smederevo-unistavanje-dokumentacije/",
+      "published_at": "2026-11-03T13:29+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ad83a1282065c2d54930",
+      "title": "Hrvatski premijer Plenković: U izbornoj noći u Srbiji nije bilo nijedne zastave EU",
+      "summary": "Prema objavi medija Danas: Hrvatski premijer Plenković: U izbornoj noći u Srbiji nije bilo nijedne zastave EU. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/hrvatski-premijer-plenkovic-u-izbornoj-noci-u-srbiji-nije-bilo-nijedne-zastave-eu/",
+      "published_at": "2026-11-03T13:12+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e50bebd2420fc979cc57",
+      "title": "AP o Srbiji nakon pobede Studentske liste: Sistem se ruši kao kula od karata, Vučić kaže da se ne plaši",
+      "summary": "Prema objavi medija Danas: AP o Srbiji nakon pobede Studentske liste: Sistem se ruši kao kula od karata, Vučić kaže da se ne plaši. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/ap-sisitem-vucic-rusenje/",
+      "published_at": "2026-11-03T13:11+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "c9c8e67d1b2df50b0d64",
+      "title": "Profesori protiv povratka smenjene dekanke Medicinskog fakulteta: Ne treba nam jurišna politika, već izbori",
+      "summary": "Prema objavi medija N1: Profesori protiv povratka smenjene dekanke Medicinskog fakulteta: Ne treba nam jurišna politika, već izbori. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/medicinski-fakultet-simic-dugalic-stojanovic-protiv-povratka-dekanke/",
+      "published_at": "2026-11-03T13:10+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "5d4a7c24d8cf17b0a615",
+      "title": "Prvo osnovno tužilaštvo dobilo obavezno uputstvo za pustupanje u slučaju Nikoline Sinđelić i studenata koji su Krička optužili za brutalnost",
+      "summary": "Prema objavi medija N1: Prvo osnovno tužilaštvo dobilo obavezno uputstvo za pustupanje u slučaju Nikoline Sinđelić i studenata koji su Krička optužili za brutalnost. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/prvo-osnovno-tuzilastvo-slucaj-nikoline-sindjelic-marko-kricak/",
+      "published_at": "2026-11-03T12:52+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "bb30022db3e2cbbd08da",
+      "title": "Bankruptcy proceedings started against Alta Bank",
+      "summary": "Prema objavi medija N1: Bankruptcy proceedings started against Alta Bank. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "N1",
+      "source_url": "https://n1info.rs/english/news/bankruptcy-proceedings-started-against-alta-bank/",
+      "published_at": "2026-11-03T12:43+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "6ae96538f09e49b376e1",
+      "title": "Šta je potpisao svaki kandidat Studentske liste: Tekst izjave",
+      "summary": "Prema objavi medija Danas: Šta je potpisao svaki kandidat Studentske liste: Tekst izjave. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/tekst-izjave-kandidata-studentske-liste/",
+      "published_at": "2026-11-03T12:38+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d29b4d2091aa4a858735",
+      "title": "AP: Pritvaranja, ostavke i pokušaji uništavanja dokaza posle izbora u Srbiji",
+      "summary": "Prema objavi medija N1: AP: Pritvaranja, ostavke i pokušaji uništavanja dokaza posle izbora u Srbiji. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/ap-pritvaranja-ostavke-i-pokusaji-unistavanja-dokaza-posle-izbora-u-srbiji/",
+      "published_at": "2026-11-03T12:27+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "1ed8464e5337b98205db",
+      "title": "Romski akademski krug upozorava na rizik od kupovine glasova na izborima za Nacionalni savet",
+      "summary": "Prema objavi medija N1: Romski akademski krug upozorava na rizik od kupovine glasova na izborima za Nacionalni savet. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/romski-akademski-krug-upozorava-na-rizik-od-kupovine-glasova-na-izborima-za-nacionalni-savet/",
+      "published_at": "2026-11-03T12:26+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "58841f3e479220816913",
+      "title": "Izgubili izbore, a tri dana kasnije bi da dele vode Srbije na 10 godina",
+      "summary": "Prema objavi medija N1: Izgubili izbore, a tri dana kasnije bi da dele vode Srbije na 10 godina. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/zeleni-kutak/peticija-protiv-poziva-za-desetogodisnje-ustupanje-ribarskih-podrucja/",
+      "published_at": "2026-11-03T12:20+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "3fea84d6163cf86a009d",
+      "title": "SAD izvele napade na iransko ostrvo uoči izbora za Kongres",
+      "summary": "Prema objavi medija N1: SAD izvele napade na iransko ostrvo uoči izbora za Kongres. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/sad-izvele-napade-na-iransko-ostrvo-uoci-izbora-za-kongres/",
+      "published_at": "2026-11-03T12:05+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "12d10a8641979e1a8750",
+      "title": "„Veći rizik od novih nesuglasica“: Trampov izborni poraz možda ne bi trebalo da bude povod za slavlje u Evropi",
+      "summary": "Prema objavi medija Danas: „Veći rizik od novih nesuglasica“: Trampov izborni poraz možda ne bi trebalo da bude povod za slavlje u Evropi. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/evropa-tramp-izborni-poraz-kongres/",
+      "published_at": "2026-11-03T12:04+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f609761322715779e048",
+      "title": "Kompanija Belgrade Waterfront: Poslujemo preko Erste banke, izloženost prema Alta banci ograničena",
+      "summary": "Prema objavi medija Danas: Kompanija Belgrade Waterfront: Poslujemo preko Erste banke, izloženost prema Alta banci ograničena. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/ekonomija/kompanija-belgrade-waterfront-poslujemo-preko-erste-banke-izlozenost-prema-alta-banci-ogranicena/",
+      "published_at": "2026-11-03T11:59+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b757ab83890ea1659202",
+      "title": "Deo zaposlenih u Ministarstvu kulture upozorava na ubrzanu raspodelu stotina miliona dinara: Selaković da objasni po kom osnovu se troši javni novac",
+      "summary": "Prema objavi medija Danas: Deo zaposlenih u Ministarstvu kulture upozorava na ubrzanu raspodelu stotina miliona dinara: Selaković da objasni po kom osnovu se troši javni novac. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/kultura/deo-zaposlenih-ministarstva-kulture-upozorava-na-raspodelu-miliona-selakovic-konkursi/",
+      "published_at": "2026-11-03T11:54+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4d7fa384a4bf02416cca",
+      "title": "Guverner Severne Makedonije: Nema milionskog odliva novca iz Alta banke, transakcije su rutinske",
+      "summary": "Prema objavi medija Danas: Guverner Severne Makedonije: Nema milionskog odliva novca iz Alta banke, transakcije su rutinske. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/ekonomija/guverner-severne-makedonije-nema-milionskog-odliva-novca-iz-alta-banke-transakcije-su-rutinske/",
+      "published_at": "2026-11-03T11:49+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d40ded894abbb894178a",
+      "title": "Vučić nastavio da se oglašava, promenio kancelariju, optužio „crnogorski kriminalni klan“ za slanje pretnji",
+      "summary": "Prema objavi medija Danas: Vučić nastavio da se oglašava, promenio kancelariju, optužio „crnogorski kriminalni klan“ za slanje pretnji. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/vucic-nastavio-da-se-oglasava-promenio-kancelariju/",
+      "published_at": "2026-11-03T11:44+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "7001daf509ff7b3aff1c",
       "title": "Letela su jaja, bilo je sukoba s policijom: N1 u selu koje je postalo simbol otpora naprednjačkoj vlasti",
