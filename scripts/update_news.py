@@ -10,7 +10,6 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 FILE = Path(__file__).resolve().parent.parent / 'news.json'
-# Izvori su kandidati; dostupnost se proverava pri svakom pokretanju.
 FEEDS = {
     'RTS': 'https://www.rts.rs/rss/vesti.html',
     'N1': 'https://n1info.rs/feed/',
@@ -23,7 +22,6 @@ FEEDS = {
     'Politika': 'https://www.politika.rs/rss',
 }
 
-CATEGORIES = ('Politika', 'Hronika', 'Društvo', 'Sport', 'Ekonomija', 'Zabava')
 
 def category(title):
     s = title.casefold()
@@ -39,8 +37,10 @@ def category(title):
         return 'Politika'
     return 'Društvo'
 
+
 def clean(value):
     return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]*>', ' ', value or ''))).strip()
+
 
 def get_text(node, names):
     for name in names:
@@ -48,6 +48,39 @@ def get_text(node, names):
         if v:
             return v
     return ''
+
+
+def safe_xml(data):
+    """Repair invalid XML control characters and unescaped ampersands."""
+    # XML feeds are expected to be UTF-8; preserve XML declaration for standard parser.
+    text = data.decode('utf-8-sig', errors='replace')
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\ufffe\uffff]', '', text)
+    text = re.sub(r'&(?!#\d+;|#x[0-9a-fA-F]+;|[a-zA-Z][a-zA-Z0-9._:-]*;)', '&amp;', text)
+    return text
+
+
+def parse_entries(data):
+    text = safe_xml(data)
+    try:
+        root = ET.fromstring(text)
+        entries = root.findall('.//item') or root.findall('{http://www.w3.org/2005/Atom}entry')
+        if entries:
+            return entries, 'XML'
+    except ET.ParseError as exc:
+        print(f'  XML nije potpuno ispravan ({exc}); pokušavam oporavak pojedinačnih stavki')
+    # A broken item must not invalidate the entire feed. Parse RSS items separately.
+    entries = []
+    for raw in re.findall(r'<item(?:\s[^>]*)?>.*?</item\s*>', text, flags=re.I | re.S):
+        try:
+            entries.append(ET.fromstring(raw))
+        except ET.ParseError:
+            # Some providers include undeclared namespace prefixes inside an item.
+            # Drop only invalid item rather than inventing data.
+            continue
+    if entries:
+        return entries, 'oporavljeno'
+    return [], 'nema čitljivih stavki'
+
 
 def main():
     now = dt.datetime.now(dt.timezone.utc)
@@ -59,14 +92,15 @@ def main():
     success, added = 0, 0
     for source, url in FEEDS.items():
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 TRAG24News/1.0', 'Accept': 'application/rss+xml,application/atom+xml,application/xml,text/xml,*/*'})
+            req = urllib.request.Request(url, headers={
+                'User-Agent': 'Mozilla/5.0 TRAG24News/1.0',
+                'Accept': 'application/rss+xml,application/atom+xml,application/xml,text/xml,*/*',
+            })
             with urllib.request.urlopen(req, timeout=15) as resp:
-                root = ET.fromstring(resp.read(2000000))
-            entries = root.findall('.//item')
+                data = resp.read(2_000_000)
+            entries, mode = parse_entries(data)
             if not entries:
-                entries = root.findall('{http://www.w3.org/2005/Atom}entry')
-            if not entries:
-                print(f'{source}: nema prepoznatih RSS/Atom stavki')
+                print(f'{source}: nema čitljivih RSS/Atom stavki')
                 continue
             success += 1
             count = 0
@@ -99,17 +133,17 @@ def main():
                     'id': uid, 'title': title[:220],
                     'summary': f'Prema objavi medija {source}: {title[:240]}. Navodi nisu nezavisno potvrđeni od strane TRAG 24.',
                     'category': category(title), 'source': source, 'source_url': link,
-                    'published_at': date.isoformat(timespec='minutes'), 'verification_status': 'preneto_iz_izvora'
+                    'published_at': date.isoformat(timespec='minutes'),
+                    'verification_status': 'preneto_iz_izvora',
                 }
                 added += 1
                 count += 1
-            print(f'{source}: učitano, dodato {count}')
+            print(f'{source}: učitano ({mode}), dodato {count}')
         except (OSError, ValueError, ET.ParseError) as exc:
             print(f'{source}: greška: {exc}')
     if not success:
         print('Nijedan izvor nije uspešno učitan; postojeće vesti ostaju netaknute.')
         return
-    # Osvežava i stare tekstove u zadržanim vestima.
     for x in items.values():
         if isinstance(x.get('summary'), str):
             x['summary'] = x['summary'].replace('FOKUS 24', 'TRAG 24')
@@ -122,6 +156,7 @@ def main():
     articles = sorted(items.values(), key=lambda x: x.get('published_at', ''), reverse=True)[:300]
     FILE.write_text(json.dumps({'updated_at': now.isoformat(), 'articles': articles}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'Ukupno dodato {added}; sačuvano {len(articles)} vesti.')
+
 
 if __name__ == '__main__':
     main()
