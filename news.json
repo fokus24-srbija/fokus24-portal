@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-11-03T17:45:36.248661+00:00",
+  "updated_at": "2026-11-03T18:45:25.138472+00:00",
   "articles": [
+    {
+      "id": "b52bee45fe624371583b",
+      "title": "RSE: Državna preduzeća tvrde da im nije ugroženo poslovanje nakon stečaja Alta banke",
+      "summary": "Prema objavi medija Danas: RSE: Državna preduzeća tvrde da im nije ugroženo poslovanje nakon stečaja Alta banke. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/ekonomija/drzavna-preduzeca-alta-banka-stecaj/",
+      "published_at": "2026-11-03T18:43+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8341ba8e9c6706640d76",
+      "title": "Ko je Jugoslav Nikolić, uhapšeni direktor Republičkog hidrometeorološkog zavoda",
+      "summary": "Prema objavi medija Danas: Ko je Jugoslav Nikolić, uhapšeni direktor Republičkog hidrometeorološkog zavoda. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/bbc-news-serbian/ko-je-jugoslav-nikolic-uhapseni-direktor-republickog-hidrometeoroloskog-zavoda/",
+      "published_at": "2026-11-03T18:36+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ff7bb475445583b83afa",
+      "title": "Državna preduzeća kažu da im nije ugroženo poslovanje nakon stečaja Alta banke",
+      "summary": "Prema objavi medija N1: Državna preduzeća kažu da im nije ugroženo poslovanje nakon stečaja Alta banke. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "N1",
+      "source_url": "https://n1info.rs/biznis/drzavna-preduzeca-kazu-da-im-nije-ugrozeno-poslovanje-nakon-stecaja-alta-banke/",
+      "published_at": "2026-11-03T18:35+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "39dcc33219181a1b3556",
+      "title": "Roditelji učenika Jovine gimnazije: U školi vlada bezvlašće, hitno razrešiti direktora",
+      "summary": "Prema objavi medija Danas: Roditelji učenika Jovine gimnazije: U školi vlada bezvlašće, hitno razrešiti direktora. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/roditelji-jovine-gimnazije-bezvlasce-vada-u-skoli-hitno-razresiti-direktora/",
+      "published_at": "2026-11-03T18:32+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "fdfcdaf106b8c8b74155",
+      "title": "\"Više od zločina protiv Ustava\": Navrocki optužio Tuska za haos u Ustavnom sudu",
+      "summary": "Prema objavi medija N1: \"Više od zločina protiv Ustava\": Navrocki optužio Tuska za haos u Ustavnom sudu. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/karol-navrocki-donald-tusk-poljska-ustavni-sud/",
+      "published_at": "2026-11-03T18:23+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4511ebef2c6cb14e0d6b",
+      "title": "Pajić: Ministarstvo kulture ispumpava novac za EXPO, privatnim firmama sredstva dodeljivana mimo zakona",
+      "summary": "Prema objavi medija N1: Pajić: Ministarstvo kulture ispumpava novac za EXPO, privatnim firmama sredstva dodeljivana mimo zakona. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/pajic-ministarstvo-kulture-ispumpava-novac-za-expo-privatnim-firmama-sredstva-dodeljivana-mimo-zakona/",
+      "published_at": "2026-11-03T18:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ffc6b117d3696e4a5f39",
+      "title": "Poljski predsednik optužio premijera za haos u Ustavnom sudu a nije mu dao da odgovori pred kamerama",
+      "summary": "Prema objavi medija Danas: Poljski predsednik optužio premijera za haos u Ustavnom sudu a nije mu dao da odgovori pred kamerama. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/poljski-predsednik-premijer-ustavni-sud/",
+      "published_at": "2026-11-03T18:09+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "edfa765a55ecf3799611",
+      "title": "Ko je Jugoslav Nikolić, uhapšeni direktor Republičkog hidrometeorološkog zavoda?",
+      "summary": "Prema objavi medija Danas: Ko je Jugoslav Nikolić, uhapšeni direktor Republičkog hidrometeorološkog zavoda?. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/ko-je-jugoslav-nikolic-biografija/",
+      "published_at": "2026-11-03T18:04+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "61881484ada4502b9ccb",
       "title": "Šta je uhapšeni direktor RHMZ-a prijavio od imovine: Imovinska karta Jugoslava Nikolića - plata od 370.000 dinara",
