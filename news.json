@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-03T15:47:02.012330+00:00",
+  "updated_at": "2026-11-03T16:51:21.652943+00:00",
   "articles": [
+    {
+      "id": "9c4055cdf35ebf833043",
+      "title": "Uhapšen direktor RHMZ-a zbog sumnje na pranje novca",
+      "summary": "Prema objavi medija N1: Uhapšen direktor RHMZ-a zbog sumnje na pranje novca. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/uhapsen-direktor-rhmz-a/",
+      "published_at": "2026-11-03T16:44+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "fb3f4754007d0d7f0271",
+      "title": "Politiko: Zašto Evropa ne bi trebalo da slavi pobedu demokrata na izborima za Kongres SAD",
+      "summary": "Prema objavi medija N1: Politiko: Zašto Evropa ne bi trebalo da slavi pobedu demokrata na izborima za Kongres SAD. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/politiko-zasto-evropa-ne-bi-trebalo-da-slavi-pobedu-demokrata-na-izborima-za-kongres-sad/",
+      "published_at": "2026-11-03T16:33+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "843ef4ce093dee06f69e",
+      "title": "Pokret Bravo: Šest milijardi dinara novosadskog budžeta ostalo zarobljeno u Alta banci",
+      "summary": "Prema objavi medija N1: Pokret Bravo: Šest milijardi dinara novosadskog budžeta ostalo zarobljeno u Alta banci. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/pokret-bravo-sest-milijardi-dinara-novosadskog-budzeta-ostalo-zarobljeno-u-alta-banci/",
+      "published_at": "2026-11-03T16:02+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "4862c3f3c37505e67aa7",
+      "title": "‘Kriminalistička policija bila u Partizanu, poželeli smo im dobrodošlicu’: Ljajić za BBC",
+      "summary": "Prema objavi medija Danas: ‘Kriminalistička policija bila u Partizanu, poželeli smo im dobrodošlicu’: Ljajić za BBC. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/bbc-news-serbian/kriminalisticka-policija-bila-u-partizanu-pozeleli-smo-im-dobrodoslicu-ljajic-za-bbc/",
+      "published_at": "2026-11-03T15:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "f2b1468e6820bd6b06ed",
       "title": "Demokrate u uzletu: Šta bi moglo da odluči američke međuizbore?",
