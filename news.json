@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-03T21:35:44.973270+00:00",
+  "updated_at": "2026-11-03T21:36:46.030798+00:00",
   "articles": [
+    {
+      "id": "3ebfbbd6fd409a1e4f2f",
+      "title": "Jamal ispisao istoriju Lige šampiona, golom nadmašio Kilijana Mbapea",
+      "summary": "Prema objavi medija Nova.rs: Jamal ispisao istoriju Lige šampiona, golom nadmašio Kilijana Mbapea. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/sport/fudbal/jamal-ispisao-istoriju-lige-sampiona-golom-nadmasio-kilijana-mbapea/",
+      "published_at": "2026-11-03T21:35+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "ec636a1be2d4770ca64a",
       "title": "Fotografije direktora Srbijevode i njegove supruge na kojima nose stvari od 5.000 evra, a on prima platu od 186.000 dinara, a tek da im vidite sina: \"Živeli kao diktatori afričke republike\"",
@@ -72,6 +82,16 @@
       "verification_status": "preneto_iz_izvora"
     },
     {
+      "id": "ee6d3107110c1e479256",
+      "title": "ALKARAZ SPREMAN ZA PARIZ: Motivisan sam i željan da nastavim da napredujem",
+      "summary": "Prema objavi medija Kurir: ALKARAZ SPREMAN ZA PARIZ: Motivisan sam i željan da nastavim da napredujem. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/tenis/10152656/alkaraz-se-oseca-sveze-uoci-pocetka-takmicenja-na-mastersu-u-parizu",
+      "published_at": "2026-11-03T21:27+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
       "id": "c48e25cb0859b86f7990",
       "title": "Gosti N1: Tramp izgubio MAGA glasače, jer nije bio mirotvorac, ali svet se promenio i neće se vratiti na staro",
       "summary": "Prema objavi medija N1: Gosti N1: Tramp izgubio MAGA glasače, jer nije bio mirotvorac, ali svet se promenio i neće se vratiti na staro. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
@@ -79,6 +99,16 @@
       "source": "N1",
       "source_url": "https://n1info.rs/svet/ognjen-pribicevic-mihajlo-kopanja-global-fokus-medjuizbori-sad/",
       "published_at": "2026-11-03T21:25+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a53819902247f95395f6",
+      "title": "SRBIJA GA JE IZGUBILA, SLOVENIJA DOBILA: Beograđanin neće igrati za našu reprezentaciju!",
+      "summary": "Prema objavi medija Kurir: SRBIJA GA JE IZGUBILA, SLOVENIJA DOBILA: Beograđanin neće igrati za našu reprezentaciju!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/fudbal/10152653/relja-obric-izabrao-sloveniju-umesto-srbije",
+      "published_at": "2026-11-03T21:24+00:00",
       "verification_status": "preneto_iz_izvora"
     },
     {
@@ -2969,36 +2999,6 @@
       "source": "N1",
       "source_url": "https://n1info.rs/vesti/policija-dostavila-tuzilastvu-oko-10000-fotografija-dokumentacije-iz-fonda-pio-u-boru/",
       "published_at": "2026-11-03T15:30+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5a7744104e9addffe32a",
-      "title": "„Bićete moj gost u Mar-a-Lagu, problem je što ćete za 5.000 dolara moći da kupite najviše jedan hamburger“: Šta je obeležilo Trampovu kampanju za izbore za Kongres?",
-      "summary": "Prema objavi medija Danas: „Bićete moj gost u Mar-a-Lagu, problem je što ćete za 5.000 dolara moći da kupite najviše jedan hamburger“: Šta je obeležilo Trampovu kampanju za izbore za Kongres?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/svet/trampizam-kampanje/",
-      "published_at": "2026-11-03T15:17+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "78d79ecd76ab74a0b262",
-      "title": "Crno-beli istakli da su odbili Alta banku: „KK Partizan čeka formiranje nove Vlade i spreman je za razgovore na temu razvoja“",
-      "summary": "Prema objavi medija Danas: Crno-beli istakli da su odbili Alta banku: „KK Partizan čeka formiranje nove Vlade i spreman je za razgovore na temu razvoja“. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Ekonomija",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/sport/kosarkaski-klub-partizan-alta-banka/",
-      "published_at": "2026-11-03T15:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8458133cb8a50c106057",
-      "title": "Ministarstvo pravde objavilo spisak svih pomilovanih",
-      "summary": "Prema objavi medija N1: Ministarstvo pravde objavilo spisak svih pomilovanih. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "N1",
-      "source_url": "https://n1info.rs/vesti/ministarstvo-pravde-objavilo-spisak-pomilovanih/",
-      "published_at": "2026-11-03T15:06+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
