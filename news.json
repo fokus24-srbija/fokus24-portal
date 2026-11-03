@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-03T18:45:25.138472+00:00",
+  "updated_at": "2026-11-03T19:48:33.548658+00:00",
   "articles": [
+    {
+      "id": "8b0833f10afb07adf73d",
+      "title": "“Serbian Sovereigntists” stage protest in support of Informer TV",
+      "summary": "Prema objavi medija N1: “Serbian Sovereigntists” stage protest in support of Informer TV. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/english/news/serbian-sovereigntists-stage-protest-in-support-of-informer-tv/",
+      "published_at": "2026-11-03T19:38+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "2d1fc6f60d34a81804c5",
+      "title": "Međuizbori u SAD: Amerikanci odlučuju kako bi državna politika mogla da izgleda u poslednje dve godine Trampovog mandata",
+      "summary": "Prema objavi medija N1: Međuizbori u SAD: Amerikanci odlučuju kako bi državna politika mogla da izgleda u poslednje dve godine Trampovog mandata. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/medjuizbori-u-sad-amerikanci-odlucuju-kako-bi-drzavna-politika-mogla-da-izgleda-u-poslednje-dve-godine-trampovog-mandata/",
+      "published_at": "2026-11-03T19:04+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "610bf3881c44d77e49ae",
+      "title": "Gledajte UŽIVO Global fokus: Međuizbori u SAD",
+      "summary": "Prema objavi medija N1: Gledajte UŽIVO Global fokus: Međuizbori u SAD. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/najave-emisija/global-fokus-medjuizbori-u-sad/",
+      "published_at": "2026-11-03T19:02+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "031e5993f9e732f924f2",
+      "title": "Građanski pokret Bravo upozorio da je šest milijardi dinara novosadskog budžeta ostalo zarobljeno u Alta banci, gradonačelnik demantuje",
+      "summary": "Prema objavi medija Danas: Građanski pokret Bravo upozorio da je šest milijardi dinara novosadskog budžeta ostalo zarobljeno u Alta banci, gradonačelnik demantuje. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/ekonomija/gradjanski-pokret-bravo-alta-gradonacelnik/",
+      "published_at": "2026-11-03T18:57+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "b52bee45fe624371583b",
       "title": "RSE: Državna preduzeća tvrde da im nije ugroženo poslovanje nakon stečaja Alta banke",
