@@ -1,4 +1,225 @@
 {
-  "updated_at": null,
-  "articles": []
+  "updated_at": "2026-11-03T05:11:08.825116+00:00",
+  "articles": [
+    {
+      "id": "bba5ccf6396959ca03aa",
+      "title": "Trampov rejting blizu istorijskog minimuma: Demokrate u prednosti pred izbore za Kongres",
+      "summary": "Prema objavi medija Danas: Trampov rejting blizu istorijskog minimuma: Demokrate u prednosti pred izbore za Kongres. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/trampov-rejting-blizu-istorijskog-minimuma-demokrate-u-prednosti-pred-izbore-za-kongres/",
+      "published_at": "2026-11-02T23:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f022c5536ffc9bff3a6e",
+      "title": "Direktor Rajanera: Cene avionskih karata bi sledeće godine mogle da porastu i do 20 odsto",
+      "summary": "Prema objavi medija Danas: Direktor Rajanera: Cene avionskih karata bi sledeće godine mogle da porastu i do 20 odsto. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/ekonomija/rajaner-cene-avionskih-karata/",
+      "published_at": "2026-11-02T22:14+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f19f2fc0fd50a9027c6a",
+      "title": "N1 u Izraelu: Ko bi mogao da formira novu vladu i koliku ulogu u tome imaju izbori u SAD",
+      "summary": "Prema objavi medija N1: N1 u Izraelu: Ko bi mogao da formira novu vladu i koliku ulogu u tome imaju izbori u SAD. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/n1-u-izraelu-ko-bi-mogao-da-formira-novu-vladu-i-koliku-ulogu-u-tome-imaju-izbori-u-sad/",
+      "published_at": "2026-11-02T21:49+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "1121527c97f15660fd58",
+      "title": "Kreni promeni: Tehnička Vlada Beogradu prebacila 6 milijardi dinara, bez te uplate grad bi stao",
+      "summary": "Prema objavi medija Danas: Kreni promeni: Tehnička Vlada Beogradu prebacila 6 milijardi dinara, bez te uplate grad bi stao. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/kreni-promeni-vlada-beograd-6-milijardu/",
+      "published_at": "2026-11-02T21:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0d4b436af5699f6f259d",
+      "title": "Prisluškivanje tužilaca TOK-a i uređaji na Pravnom fakultetu: Ko je odobrio tajni nadzor i da li je BIA prekršila zakon?",
+      "summary": "Prema objavi medija Danas: Prisluškivanje tužilaca TOK-a i uređaji na Pravnom fakultetu: Ko je odobrio tajni nadzor i da li je BIA prekršila zakon?. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/prisluskivanje-bia-tok-na-merama-pravni-fakultet/",
+      "published_at": "2026-11-02T20:58+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0d0b04a906aae4cd3468",
+      "title": "Komisija Vrhovnog tužilaštva preuzela predmete o postupanju Krička prema studentima",
+      "summary": "Prema objavi medija Danas: Komisija Vrhovnog tužilaštva preuzela predmete o postupanju Krička prema studentima. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/komisija-vrhovnog-tuzilastva-kricak/",
+      "published_at": "2026-11-02T20:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e17bccaf9dc6d470e66c",
+      "title": "Stamenković: Komisija Vrhovnog tužilaštva preuzela predmete o postupanju Krička prema studentima",
+      "summary": "Prema objavi medija N1: Stamenković: Komisija Vrhovnog tužilaštva preuzela predmete o postupanju Krička prema studentima. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/stamenkovic-komisija-vrhovnog-tuzilastva-preuzela-predmete-o-postupanju-kricka-prema-studentima/",
+      "published_at": "2026-11-02T20:54+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d6e6c91e535d9e3ee1f3",
+      "title": "Tramp traži izdvajanje 20.000 glasova iz Kalifornije - dan uoči izbora",
+      "summary": "Prema objavi medija N1: Tramp traži izdvajanje 20.000 glasova iz Kalifornije - dan uoči izbora. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/tramp-trazi-izdvajanje-20000-glasova-iz-kalifornije-dan-uoci-izbora/",
+      "published_at": "2026-11-02T20:12+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "2a0824e3e00381b6a5cd",
+      "title": "Od Vučićevog \"borca bez straha i mane\" do hapšenja: Da li je Krička iza rešetaka odveo pad režima ili osveta u MUP-u?",
+      "summary": "Prema objavi medija N1: Od Vučićevog \"borca bez straha i mane\" do hapšenja: Da li je Krička iza rešetaka odveo pad režima ili osveta u MUP-u?. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/policija-repac-kricak-mup/",
+      "published_at": "2026-11-02T20:12+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "014404ac54fb2fea9bcd",
+      "title": "Desetine miliona dinara iz budžeta novosadskim medijima naklonjenim vlasti",
+      "summary": "Prema objavi medija Danas: Desetine miliona dinara iz budžeta novosadskim medijima naklonjenim vlasti. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/drustvo/desetine-milione-dinara-iz-budzeta-novosadskim-medijima-naklonjenim-vlasti/",
+      "published_at": "2026-11-02T19:33+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "5558322c3e2a568816ef",
+      "title": "Portal 021: Desetine miliona iz budžeta ove godine za novosadske medije bliske bivšoj vlasti",
+      "summary": "Prema objavi medija N1: Portal 021: Desetine miliona iz budžeta ove godine za novosadske medije bliske bivšoj vlasti. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Ekonomija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/desetine-miliona-iz-budzeta-za-novosadske-medije-bliske-bivsoj-vlasti/",
+      "published_at": "2026-11-02T19:22+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "95a65a6c79bdef03b740",
+      "title": "Ilić: Vučićeva pomilovanja suprotna Ustavu, tužilaštvo da ispita njegovu krivičnu odgovornost",
+      "summary": "Prema objavi medija N1: Ilić: Vučićeva pomilovanja suprotna Ustavu, tužilaštvo da ispita njegovu krivičnu odgovornost. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/ilic-vuciceva-pomilovanja-suprotna-ustavu-tuzilastvo-da-ispita-njegovu-krivicnu-odgovornost/",
+      "published_at": "2026-11-02T19:18+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "eed62a5e08734d3ee24d",
+      "title": "„Direktno prebacivanje lopte na konsiljerea režima, Sinišu Malog“: O Vučićevoj izjavi da se ne plaši hapšenja i da oko novca ništa nije potpisivao",
+      "summary": "Prema objavi medija Danas: „Direktno prebacivanje lopte na konsiljerea režima, Sinišu Malog“: O Vučićevoj izjavi da se ne plaši hapšenja i da oko novca ništa nije potpisivao. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/vucic-hapsenje-prebacivanje-odgovornosti/",
+      "published_at": "2026-11-02T19:17+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "526f3070443d6b7f5ab9",
+      "title": "Kuzmanović (Studentska lista): Preduzete sve mere da se spreči uništavanje dokaza",
+      "summary": "Prema objavi medija N1: Kuzmanović (Studentska lista): Preduzete sve mere da se spreči uništavanje dokaza. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Opozicija",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/kuzmanovic-studentska-lista-utvrdicemo-svako-nezakonito-ponasanje/",
+      "published_at": "2026-11-02T19:05+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "bd24ca16b5ffe3624b79",
+      "title": "Na međuizborima u SAD već glasalo 54 miliona birača",
+      "summary": "Prema objavi medija Danas: Na međuizborima u SAD već glasalo 54 miliona birača. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/sad-medjuizbori-54-miliona-biraca/",
+      "published_at": "2026-11-02T19:03+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d106edce3e6a70ded27b",
+      "title": "Savo Manojlović: Ispitati zašto su informacije o pomilovanjima postale javne tek nakon izbora",
+      "summary": "Prema objavi medija N1: Savo Manojlović: Ispitati zašto su informacije o pomilovanjima postale javne tek nakon izbora. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/manojlovic-ispitati-zasto-su-informacije-o-pomilovanjima-postale-javne-tek-nakon-izbora/",
+      "published_at": "2026-11-02T18:49+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "6260ec7ddff944330ad2",
+      "title": "Slučaj \"ALTA banka\": Šta će biti sa novcem državnih preduzeća, ali i depozitima građana",
+      "summary": "Prema objavi medija N1: Slučaj \"ALTA banka\": Šta će biti sa novcem državnih preduzeća, ali i depozitima građana. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "N1",
+      "source_url": "https://n1info.rs/biznis/slucaj-alta-banka-novac-gradjana-depoziti/",
+      "published_at": "2026-11-02T18:32+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "7c15be0b31bcc89694aa",
+      "title": "Da li se može ući u trag novcu iznesenom iz Alta banke? Profesor Đukić kaže da je moguće, ali da je skeptičan zbog jedne stvari",
+      "summary": "Prema objavi medija N1: Da li se može ući u trag novcu iznesenom iz Alta banke? Profesor Đukić kaže da je moguće, ali da je skeptičan zbog jedne stvari. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Alta banka",
+      "source": "N1",
+      "source_url": "https://n1info.rs/biznis/da-li-je-moguce-uci-u-trag-novcu-iznesenom-iz-alta-banke-profesor-djukic-otkriva-da-je-skeptican-zbog-jedne-stvari/",
+      "published_at": "2026-11-02T18:26+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b5cef443af1f012d27b8",
+      "title": "Savo Manojlović: Ispitati zašto su informacije o pomilovanjima postale javne tek nakon izbora",
+      "summary": "Prema objavi medija Danas: Savo Manojlović: Ispitati zašto su informacije o pomilovanjima postale javne tek nakon izbora. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/manojlovic-informacije-o-pomilovanjima/",
+      "published_at": "2026-11-02T18:25+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "669a9872e8b031cd34ca",
+      "title": "Lazić: Nisu još počela \"prava hapšenja\", pomilovanje Hrkalović - šamar državi i narodu",
+      "summary": "Prema objavi medija N1: Lazić: Nisu još počela \"prava hapšenja\", pomilovanje Hrkalović - šamar državi i narodu. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Hapšenja i istrage",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/lazic-nisu-jos-pocela-prava-hapsenja/",
+      "published_at": "2026-11-02T17:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ee3884a4c05c0d0091b5",
+      "title": "RIK: Na izborima za savete nacionalnih manjina 204 posmatrača, predaja izbornog materijala od sutra",
+      "summary": "Prema objavi medija Danas: RIK: Na izborima za savete nacionalnih manjina 204 posmatrača, predaja izbornog materijala od sutra. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/rik-izbori-za-savete-nacionalnih-manjina-posmatraci/",
+      "published_at": "2026-11-02T17:55+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e37c8c20604b54ec7d69",
+      "title": "RIK: Na izborima za savete nacionalnih manjina 204 posmatrača, predaja izbornog materijala od sutra",
+      "summary": "Prema objavi medija N1: RIK: Na izborima za savete nacionalnih manjina 204 posmatrača, predaja izbornog materijala od sutra. Navodi nisu nezavisno potvrđeni od strane FOKUS 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/na-izborima-za-savete-nacionalnih-manjina-204-posmatraca/",
+      "published_at": "2026-11-02T17:44+00:00",
+      "verification_status": "preneto_iz_izvora"
+    }
+  ]
 }
