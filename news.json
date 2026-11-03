@@ -1,6 +1,386 @@
 {
-  "updated_at": "2026-11-03T22:42:14.253400+00:00",
+  "updated_at": "2026-11-03T23:36:48.128618+00:00",
   "articles": [
+    {
+      "id": "fb5587a3f2c748aa0aa0",
+      "title": "Туск: Навроцки и ја пробаћемо да смиримо тензије",
+      "summary": "Prema objavi medija Politika: Туск: Навроцки и ја пробаћемо да смиримо тензије. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799559/tusk-navrocki-i-ja-probacemo-da-smirimo-tenzije",
+      "published_at": "2026-11-03T23:34+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "384b41d74eba30fa95d0",
+      "title": "Vulin: Putovao sam u Moskvu poslovno, spavao sam tokom leta, probudili me u Beogradu",
+      "summary": "Prema objavi medija N1: Vulin: Putovao sam u Moskvu poslovno, spavao sam tokom leta, probudili me u Beogradu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/vulin-putovao-sam-u-moskvu-poslovno-spavao-sam-tokom-leta-probudili-me-u-beogradu/",
+      "published_at": "2026-11-03T23:32+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e576cd2e95f426be2c7e",
+      "title": "Slaveski: Nije bilo milionskih transakcija iz Alta banke Bitolj nakon 26. oktobra",
+      "summary": "Prema objavi medija Danas: Slaveski: Nije bilo milionskih transakcija iz Alta banke Bitolj nakon 26. oktobra. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/ekonomija/slaveski-nije-bilo-milionskih-transakcija-iz-alta-banke-bitolj-nakon-26-oktobra/",
+      "published_at": "2026-11-03T23:32+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "5cf6d58d52dc469f25fc",
+      "title": "Oglasio se Vulin: \"Spavao sam, čekamo da ponovo uđemo u avion\"",
+      "summary": "Prema objavi medija Telegraf: Oglasio se Vulin: \"Spavao sam, čekamo da ponovo uđemo u avion\". Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4426407-oglasio-se-vulin-spavao-sam-cekamo-da-ponovo-udjemo-u-avion",
+      "published_at": "2026-11-03T23:32+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e5e158827789755a98b4",
+      "title": "EPIDEMIJA ŠUGE HARA U BLACU I PROKUPLJU! Zaraženo sedmoro dece u osnovnoj školi: Svrab počinje noću, broj obolelih 4 puta veći od zvaničnog!",
+      "summary": "Prema objavi medija Kurir: EPIDEMIJA ŠUGE HARA U BLACU I PROKUPLJU! Zaraženo sedmoro dece u osnovnoj školi: Svrab počinje noću, broj obolelih 4 puta veći od zvaničnog!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/srbija/10152477/epidemija-suge-u-blacu-i-prokuplju-zarazeni-djaci-u-osnovnoj-skoli-lekari-upozoravaju",
+      "published_at": "2026-11-03T23:31+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "839a8c738bff7a2e06a3",
+      "title": "Vojinović: Očigledno reč o drastičnom kršenju pravila bezbednosti - ali ne mogu ni putnik, ni prtljag da ne prođu kontrolu, sve i da je VIP",
+      "summary": "Prema objavi medija N1: Vojinović: Očigledno reč o drastičnom kršenju pravila bezbednosti - ali ne mogu ni putnik, ni prtljag da ne prođu kontrolu, sve i da je VIP. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "N1",
+      "source_url": "https://n1info.rs/vesti/petar-vojinovic-preusmeren-let-avion-aleksadar-vulin/",
+      "published_at": "2026-11-03T23:27+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "36bc4c6a47c0316046a4",
+      "title": "\"SPAVAO SAM, BUDIM SE, KAŽU MI 'U BEOGRADU SMO'\" Aleksandar Vulin o vraćanju aviona u kome je putovao za Moskvu: Ništa nelegalno nije nađeno kod mene",
+      "summary": "Prema objavi medija Kurir: \"SPAVAO SAM, BUDIM SE, KAŽU MI 'U BEOGRADU SMO'\" Aleksandar Vulin o vraćanju aviona u kome je putovao za Moskvu: Ništa nelegalno nije nađeno kod mene. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/politika/10152680/obracanje-vulina-posle-povratka-aviona-u-beograd",
+      "published_at": "2026-11-03T23:27+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d427f97a050ebbc6447c",
+      "title": "Tokom noći oblačno i hladno: Samo na severu suvo, u ostalim predelima s kišom",
+      "summary": "Prema objavi medija Telegraf: Tokom noći oblačno i hladno: Samo na severu suvo, u ostalim predelima s kišom. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4426402-tokom-noci-oblacno-i-hladno-samo-na-severu-suvo-u-ostalim-predelima-s-kisom",
+      "published_at": "2026-11-03T23:26+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "70e58fcbdc0da6473e98",
+      "title": "28 GODINA PEŠAČIO OKO SVETA A ONDA SE VRATIO KUĆI! Majka ga dočekala na kapiji a njihov susret rasplakao je svet: \"Gde si bio, sine?\" (VIDEO)",
+      "summary": "Prema objavi medija Blic: 28 GODINA PEŠAČIO OKO SVETA A ONDA SE VRATIO KUĆI! Majka ga dočekala na kapiji a njihov susret rasplakao je svet: \"Gde si bio, sine?\" (VIDEO). Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/slobodno-vreme/posle-28-godina-pesacenja-oko-sveta-vratio-se-kuci-susret-sa-majkom-rasplakao-svet/68jjvm3",
+      "published_at": "2026-11-03T23:24+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "6e428006b26921824706",
+      "title": "Трамп извређао коментаторку Фокс њуза",
+      "summary": "Prema objavi medija Politika: Трамп извређао коментаторку Фокс њуза. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799558/tramp-izvredao-komentatorku-foks-njuza",
+      "published_at": "2026-11-03T23:23+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "58d503bbcce7860c6f58",
+      "title": "Srbija sa 10 boksera ide u Banjaluku",
+      "summary": "Prema objavi medija Telegraf: Srbija sa 10 boksera ide u Banjaluku. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/fight-club/4426213-srbija-sa-10-boksera-ide-u-banjaluku",
+      "published_at": "2026-11-03T23:21+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "6c7ebe75dd23b4057a62",
+      "title": "Dok su budni ne mogu da zamisle lice majke ili deteta, ali kad zaspe - dešava se čudo! Šta je afantazija i kako ljudi bez mašte vide svet u snovima!",
+      "summary": "Prema objavi medija Kurir: Dok su budni ne mogu da zamisle lice majke ili deteta, ali kad zaspe - dešava se čudo! Šta je afantazija i kako ljudi bez mašte vide svet u snovima!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/drustvo/10152395/sta-je-afantazija-zasto-ljudi-bez-maste-sanjaju",
+      "published_at": "2026-11-03T23:21+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "946e00b9882073896283",
+      "title": "Alkaraz uoči početka takmičenja u Parizu: Do sada nisam uspevao da pronađem pravu formu i ritam na ovom turniru",
+      "summary": "Prema objavi medija Danas: Alkaraz uoči početka takmičenja u Parizu: Do sada nisam uspevao da pronađem pravu formu i ritam na ovom turniru. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/sport/karlos-alkaraz-masters-u-parizu-tenis/",
+      "published_at": "2026-11-03T23:20+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8dc49d55d935b89d71dd",
+      "title": "SAZNAJEMO Vulin izveden iz aviona, u toku pretres prtljaga",
+      "summary": "Prema objavi medija Nova.rs: SAZNAJEMO Vulin izveden iz aviona, u toku pretres prtljaga. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/vesti/hronika/saznajemo-vulin-izveden-iz-aviona-u-toku-pretres-prtljaga/",
+      "published_at": "2026-11-03T23:20+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9140828f87eb349c6bf4",
+      "title": "Merc ugostio Zelenskog, pa poslao oštru poruku Putinu: Nemački kancelar o kraju rata u Ukrajini",
+      "summary": "Prema objavi medija Telegraf: Merc ugostio Zelenskog, pa poslao oštru poruku Putinu: Nemački kancelar o kraju rata u Ukrajini. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/svet/4426274-merc-ugostio-zelenskog-pa-poslao-ostru-poruku-putinu-nemacki-kancelar-o-kraju-rata-u-ukrajini",
+      "published_at": "2026-11-03T23:16+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "202df5646a315098f7f0",
+      "title": "DODIK STIGAO U AMERIKU Objavio fotografiju sa aerodroma, prisustvovaće konferenciji u okviru republikanskog MAGA projekta",
+      "summary": "Prema objavi medija Blic: DODIK STIGAO U AMERIKU Objavio fotografiju sa aerodroma, prisustvovaće konferenciji u okviru republikanskog MAGA projekta. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/politika/dodik-stigao-u-ameriku-objavio-fotografiju-sa-aerodroma/r8nhjf1",
+      "published_at": "2026-11-03T23:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d71d01614dfb04bef9dc",
+      "title": "\"Poslali su mi poruku da im uplatim nekoliko hiljada evra\": Šejla bila meta ucene, progovorila o koleginicama",
+      "summary": "Prema objavi medija Telegraf: \"Poslali su mi poruku da im uplatim nekoliko hiljada evra\": Šejla bila meta ucene, progovorila o koleginicama. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/jetset/vesti-jetset/4426397-poslali-su-mi-poruku-da-im-uplatim-nekoliko-hiljada-evra-sejla-bila-meta-ucene-progovorila-o-koleginicama",
+      "published_at": "2026-11-03T23:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "03b6b6269ac908a2072f",
+      "title": "Devet interaktivnih radionica za kraljevačke đake iz seoskih škola",
+      "summary": "Prema objavi medija Telegraf: Devet interaktivnih radionica za kraljevačke đake iz seoskih škola. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4426366-devet-interaktivnih-radionica-za-kraljevacke-djake-iz-seoskih-skola",
+      "published_at": "2026-11-03T23:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b3db7672b34e9251d312",
+      "title": "Авион на лету Београд-Москва враћен на аеродром \"Никола Тесла\"",
+      "summary": "Prema objavi medija RTS: Авион на лету Београд-Москва враћен на аеродром \"Никола Тесла\". Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "RTS",
+      "source_url": "https://www.rts.rs/vesti/drustvo/6075790/avion-na-letu-beograd-moskva-vracen-na-aerodrom-nikola-tesla.html",
+      "published_at": "2026-11-03T23:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b7c817c95541b3b7cc3b",
+      "title": "PRILIKA ZA BESPLATAN PREGLED DOJKE: Mobilni mamograf postavljen u Vrnjačkoj Banji i Užicu, ovo su brojevi za zakazivanje",
+      "summary": "Prema objavi medija Kurir: PRILIKA ZA BESPLATAN PREGLED DOJKE: Mobilni mamograf postavljen u Vrnjačkoj Banji i Užicu, ovo su brojevi za zakazivanje. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/drustvo/10151801/mobilni-mamograf-do-15-novembra-u-vrnjackoj-banji-od-sutra-u-uzicu",
+      "published_at": "2026-11-03T23:11+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "6130a8c56de908041dbc",
+      "title": "Додик стигао у САД",
+      "summary": "Prema objavi medija Politika: Додик стигао у САД. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799557/dodik-stigao-u-sad",
+      "published_at": "2026-11-03T23:07+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8784dad9b685a4a00a64",
+      "title": "U osnovnoj školi u Inđiji časovi skraćeni zbog pukotina na zgradi",
+      "summary": "Prema objavi medija Telegraf: U osnovnoj školi u Inđiji časovi skraćeni zbog pukotina na zgradi. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4426399-u-osnovnoj-skoli-u-indjiji-casovi-skraceni-zbog-pukotina-na-zgradi",
+      "published_at": "2026-11-03T23:05+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "599ef3e755240a285143",
+      "title": "Besplatni pregled dojki na ABUS ultrazvučnom uređaju od 5. novembra na Petrovaradinu",
+      "summary": "Prema objavi medija Blic: Besplatni pregled dojki na ABUS ultrazvučnom uređaju od 5. novembra na Petrovaradinu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/drustvo/besplatni-pregled-dojki-na-abus-ultrazvucnom-uredjaju-od-5-novembra-na-petrovaradinu/rrvkvn4",
+      "published_at": "2026-11-03T23:03+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9a1db7990a9e3a77d2ce",
+      "title": "UZBUNA U EVROPI! Više aviona hitno prizemljeno zbog dojava o bombi",
+      "summary": "Prema objavi medija Kurir: UZBUNA U EVROPI! Više aviona hitno prizemljeno zbog dojava o bombi. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10152315/vise-aviona-neplanirano-sletelo-zbog-laznih-dojava-o-bombi",
+      "published_at": "2026-11-03T23:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "41aa328a25b8277fb0ca",
+      "title": "PSŽ i Barselona demonstrirali silu u Ligi šampiona",
+      "summary": "Prema objavi medija Nova.rs: PSŽ i Barselona demonstrirali silu u Ligi šampiona. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/sport/fudbal/psz-i-barselona-demonstrirali-silu-u-ligi-sampiona/",
+      "published_at": "2026-11-03T22:59+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "bab38fe8915f31640e1e",
+      "title": "SRBIJA NA KORAK OD MEDALJE: Devojke zablistale u Dohi, muškarci ostali bez finala",
+      "summary": "Prema objavi medija Kurir: SRBIJA NA KORAK OD MEDALJE: Devojke zablistale u Dohi, muškarci ostali bez finala. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/ostali-sportovi/10152392/srbija-peta-u-zenskoj-i-osma-u-muskoj-konkurenciji-na-svetskom-prvenstvu-u-streljastvu",
+      "published_at": "2026-11-03T22:57+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "1f7c62ce45b1476266a8",
+      "title": "Muslimanima u Libiji zabranjeno da kupuju, prodaju i nose odeću kompanije „Najki”",
+      "summary": "Prema objavi medija Danas: Muslimanima u Libiji zabranjeno da kupuju, prodaju i nose odeću kompanije „Najki”. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/svet/muslimanima-u-libiji-zabranjeno-da-kupuju-prodaju-i-nose-odecu-kompanije-najki/",
+      "published_at": "2026-11-03T22:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "bde85d38b0812469ef0b",
+      "title": "Заказани тродневни протести у седам земаља због скупог живота и наоружавања",
+      "summary": "Prema objavi medija Politika: Заказани тродневни протести у седам земаља због скупог живота и наоружавања. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799555/zakazani-trodnevni-protesti-u-sedam-zemalja-zbog-skupog-zivota-i-naoruzavanja",
+      "published_at": "2026-11-03T22:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "7f028aaf8602e2d04667",
+      "title": "Pokrenuta hitna istraga zbog smrti fudbalera, FS Španije otkazao sve utakmice",
+      "summary": "Prema objavi medija Telegraf: Pokrenuta hitna istraga zbog smrti fudbalera, FS Španije otkazao sve utakmice. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Hronika",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/fudbal/4426395-pokrenuta-hitna-istraga-zbog-smrti-fudbalera-fs-spanije-otkazao-sve-utakmice",
+      "published_at": "2026-11-03T22:52+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "3dc8eacfff1d0c6a5df4",
+      "title": "VELJKO JE MLAĐI OD SEKE, A NJIHOVA LJUBAV TRAJE GODINAMA: \"Treći dan smo se već poljubili...\", evo koliko je pevačica starija od supruga",
+      "summary": "Prema objavi medija Kurir: VELJKO JE MLAĐI OD SEKE, A NJIHOVA LJUBAV TRAJE GODINAMA: \"Treći dan smo se već poljubili...\", evo koliko je pevačica starija od supruga. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Zabava",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/stars/10152606/evo-koliko-je-seka-starija-od-veljka",
+      "published_at": "2026-11-03T22:51+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "cde000a8e7a2dbffcd0f",
+      "title": "Otac Megan Markl pod istragom zbog jezivih optužbi: Policija pronašla sporne snimke na njegovim uređajima",
+      "summary": "Prema objavi medija Telegraf: Otac Megan Markl pod istragom zbog jezivih optužbi: Policija pronašla sporne snimke na njegovim uređajima. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Hronika",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/svet/4426139-otac-megan-markl-pod-istragom-zbog-jezivih-optuzbi-policija-pronasla-sporne-snimke-na-njegovim-uredjajima",
+      "published_at": "2026-11-03T22:50+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9c3edce46e548421d53b",
+      "title": "\"JEDVA SAM PRETEKLA\" Zorana Pavić progovorila o pokušaju da je UBIJU: \"To su mi sipali u piće\"",
+      "summary": "Prema objavi medija Blic: \"JEDVA SAM PRETEKLA\" Zorana Pavić progovorila o pokušaju da je UBIJU: \"To su mi sipali u piće\". Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/zabava/zorana-pavic-progovorila-o-pokusaju-da-je-ubiju-jedva-sam-pretekla/tdej7zx",
+      "published_at": "2026-11-03T22:49+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "eb06b077ce07a06be544",
+      "title": "Američki milijarder predvodi plan za preuzimanje inostrane imovine kompanije Lukoil",
+      "summary": "Prema objavi medija Blic: Američki milijarder predvodi plan za preuzimanje inostrane imovine kompanije Lukoil. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/biznis/americki-milijarder-kupuje-medjunarodnu-imovinu-ruske-naftne-kompanije-lukoil/79jn2l4",
+      "published_at": "2026-11-03T22:48+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8a27aa2e992a7ed0a6d4",
+      "title": "IZBORI ZA NACIONALNE SAVETE NACIONALNIH MANJINA: U Vranju glasanje na sedam biračkih mesta",
+      "summary": "Prema objavi medija Kurir: IZBORI ZA NACIONALNE SAVETE NACIONALNIH MANJINA: U Vranju glasanje na sedam biračkih mesta. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Politika",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/politika/10152002/u-vranju-izbori-za-nacionalne-savete-na-sedam-birackih-mesta",
+      "published_at": "2026-11-03T22:46+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "529b815a30c846f369ce",
+      "title": "\"DUGO SAM RAZMIŠLJALA O SVEMU...\" Dvostruka olimpijska šampionka šokirala navijače! Otkrila je zbog čega je primorana da završi karijeru!",
+      "summary": "Prema objavi medija Kurir: \"DUGO SAM RAZMIŠLJALA O SVEMU...\" Dvostruka olimpijska šampionka šokirala navijače! Otkrila je zbog čega je primorana da završi karijeru!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Sport",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/ostali-sportovi/10152466/skijasica-misel-gizin-zavrsila-karijeru",
+      "published_at": "2026-11-03T22:45+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "64e3d858e877bd4207f4",
+      "title": "ŠOK U PARIZU! Đoković dobio neočekivan poklon, sada može da se domogne Torina",
+      "summary": "Prema objavi medija Novosti: ŠOK U PARIZU! Đoković dobio neočekivan poklon, sada može da se domogne Torina. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Sport",
+      "source": "Novosti",
+      "source_url": "https://www.novosti.rs/sport/tenis/1667640/sok-parizu-djokovic-dobio-neocekivan-poklon-sada-moze-domogne-torina",
+      "published_at": "2026-11-03T22:45+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8dbbfb861dd091b19f53",
+      "title": "Kurti: Identifikovani posmrtni ostaci još tri osobe u grobnicama kod Zubinog Potoka",
+      "summary": "Prema objavi medija Danas: Kurti: Identifikovani posmrtni ostaci još tri osobe u grobnicama kod Zubinog Potoka. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Danas",
+      "source_url": "https://www.danas.rs/vesti/politika/kurti-identifikovani-posmrtni-ostaci-jos-tri-osobe-u-grobnicama-kod-zubinog-potoka/",
+      "published_at": "2026-11-03T22:44+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b4a9203dd7643986f75a",
+      "title": "Centar Dubaija dobio nagradu za MVP kola u ABA ligi!",
+      "summary": "Prema objavi medija Telegraf: Centar Dubaija dobio nagradu za MVP kola u ABA ligi!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/kosarka/4426250-centar-dubaija-dobio-nagradu-za-mvp-kola-u-aba-ligi",
+      "published_at": "2026-11-03T22:42+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "4277680c7eaed22c38a8",
       "title": "Bajern iskoristio smušenost Atletika, ovako ne može protiv Bavaraca",
@@ -18,6 +398,16 @@
       "category": "Društvo",
       "source": "Telegraf",
       "source_url": "https://www.telegraf.rs/jetset/vesti-jetset/4426358-nesto-su-mi-sipali-u-pice-zorana-prvi-put-o-pokusaju-da-je-ubiju-pomenula-koleginicu-oprostila-sam",
+      "published_at": "2026-11-03T22:38+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "aa363376a27a0ea343b6",
+      "title": "Klavir i gudači pred 200 ljudi: Alex Solely stiže u salu BGF",
+      "summary": "Prema objavi medija Kurir: Klavir i gudači pred 200 ljudi: Alex Solely stiže u salu BGF. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/zabava/kultura/10151977/koncert-alexa-solelyja-u-beogradu-klavir-i-gudaci",
       "published_at": "2026-11-03T22:38+00:00",
       "verification_status": "preneto_iz_izvora"
     },
@@ -272,6 +662,16 @@
       "verification_status": "preneto_iz_izvora"
     },
     {
+      "id": "d118cc43af2dd7cc8a2f",
+      "title": "UPRAVO SMO DOBILI GRENLAND! Tramp: Evropa je SAD poklonila Grenland, najveći poklon koji smo ikada dobili",
+      "summary": "Prema objavi medija Novosti: UPRAVO SMO DOBILI GRENLAND! Tramp: Evropa je SAD poklonila Grenland, najveći poklon koji smo ikada dobili. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Novosti",
+      "source_url": "https://www.novosti.rs/planeta/svet/1667633/donald-tramp-grenland-evropa-danska",
+      "published_at": "2026-11-03T22:22+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
       "id": "83ff06645fb457d28086",
       "title": "Tusk: Predsednik Navrocki i ja probaćemo da smirimo tenzije u haosu oko Ustavnog suda Poljske",
       "summary": "Prema objavi medija Danas: Tusk: Predsednik Navrocki i ja probaćemo da smirimo tenzije u haosu oko Ustavnog suda Poljske. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
@@ -419,6 +819,16 @@
       "source": "Novosti",
       "source_url": "https://www.novosti.rs/sport/fudbal/1667638/najnovije-sportske-vesti-fudbal-liga-sampiona-mancester-junajted-roma-preokret-izvestaj-rezultat-golovi",
       "published_at": "2026-11-03T22:10+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "c4c4da8cb8080b29fb32",
+      "title": "POLA ESTRADE U PUBLICI: Poznata imena na drugom rođendanskom koncertu Ace Lukasa (FOTO)",
+      "summary": "Prema objavi medija Novosti: POLA ESTRADE U PUBLICI: Poznata imena na drugom rođendanskom koncertu Ace Lukasa (FOTO). Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Zabava",
+      "source": "Novosti",
+      "source_url": "https://www.novosti.rs/scena/poznati/1667634/aca-lukas-estrada-rodjendan-koncert-novosti",
+      "published_at": "2026-11-03T22:09+00:00",
       "verification_status": "preneto_iz_izvora"
     },
     {
@@ -2589,416 +2999,6 @@
       "source": "Nova.rs",
       "source_url": "https://nova.rs/vesti/hronika/vida-petrovic-skero-objasnjava-kako-jedino-mogu-biti-ponistena-vuciceva-pomilovanja-trebalo-bi-da-odgovara-i-covek-koji-ih-je-potpisao/",
       "published_at": "2026-11-03T19:32+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6898b36ed30a55d54aca",
-      "title": "GLAS MIMO LISTE, SLEDI AUTOMATSKA OSTAVKA: U potpisanoj izjavi kandidati studenata za narodne poslanike predviđen i mehanizam odgovornosti",
-      "summary": "Prema objavi medija Novosti: GLAS MIMO LISTE, SLEDI AUTOMATSKA OSTAVKA: U potpisanoj izjavi kandidati studenata za narodne poslanike predviđen i mehanizam odgovornosti. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/vesti/politika/1667593/glas-mimo-liste-sledi-automatska-ostavka-potpisanoj-izjavi-kandidati-studenata-narodne-poslanike-predvidjen-mehanizam-odgovornosti",
-      "published_at": "2026-11-03T19:32+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "7f0af9d89b2305af77d8",
-      "title": "\"Mnogo je kandidata po kafićima, a niko da dođe u Partizan\": Ljajić za Nova.rs o crno-belima nakon smene vlasti, izborima, FSS, Zvezdi...",
-      "summary": "Prema objavi medija Nova.rs: \"Mnogo je kandidata po kafićima, a niko da dođe u Partizan\": Ljajić za Nova.rs o crno-belima nakon smene vlasti, izborima, FSS, Zvezdi.... Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Sport",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/sport/fudbal/mnogo-je-kandidata-po-kaficima-a-niko-da-dodje-u-partizan-ljajic-za-novars-o-crno-belima-nakon-smene-vlasti-izborima-fss-zvezdi/",
-      "published_at": "2026-11-03T19:31+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5551be583543111c5452",
-      "title": "Gradonačelnik Novog Sada negira navode pokreta Bravo o zarobljenim sredstvima u Alta banci",
-      "summary": "Prema objavi medija Nova.rs: Gradonačelnik Novog Sada negira navode pokreta Bravo o zarobljenim sredstvima u Alta banci. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/vesti/politika/gradonacelnik-novog-sada-negira-navode-pokreta-bravo-o-zarobljenim-sredstvima-u-alta-banci/",
-      "published_at": "2026-11-03T19:30+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "04fa9509ef07cd0e3357",
-      "title": "Dnevnik - Cela emisija - 2.11.2026.",
-      "summary": "Prema objavi medija Nova.rs: Dnevnik - Cela emisija - 2.11.2026.. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/emisije/dnevnik-cela-emisija-2112026/",
-      "published_at": "2026-11-03T19:30+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "84c232b597b287454297",
-      "title": "Kako se pravilno gasi slavska sveća? Mnogi prave grešku, a jedno nikako ne treba da uradite kada gosti odu",
-      "summary": "Prema objavi medija Kurir: Kako se pravilno gasi slavska sveća? Mnogi prave grešku, a jedno nikako ne treba da uradite kada gosti odu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/zabava/zanimljivosti/10150770/kako-se-pravilo-gasi-slavska-sveca",
-      "published_at": "2026-11-03T19:30+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "2f491a957b496c5dade6",
-      "title": "\"REFORME U PRVOM PLANU\" Gosti \"Usijanja\" o mogućem sastavu Vlade Srbije: \"Danas ništa ne znamo, pa ni građani Srbije koji su dali podršku Studentskoj listi\"",
-      "summary": "Prema objavi medija Kurir: \"REFORME U PRVOM PLANU\" Gosti \"Usijanja\" o mogućem sastavu Vlade Srbije: \"Danas ništa ne znamo, pa ni građani Srbije koji su dali podršku Studentskoj listi\". Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10152505/gosti-usijanja-o-mogucem-premijeru-i-ministrima-u-novoj-vladi",
-      "published_at": "2026-11-03T19:30+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5c1618eeac32a5a2b1ea",
-      "title": "Ко ће решити кризу \"Апотека Београд\" – од 123 објекта ради само 39, плате поново касне",
-      "summary": "Prema objavi medija RTS: Ко ће решити кризу \"Апотека Београд\" – од 123 објекта ради само 39, плате поново касне. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "RTS",
-      "source_url": "https://www.rts.rs/vesti/drustvo/6075601/ko-ce-resiti-krizu-apoteka-beograd--od-123-objekta-radi-samo-39-plate-ponovo-kasne.html",
-      "published_at": "2026-11-03T19:28+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "82b6a936f8b03a8a81b7",
-      "title": "UPRAVNI ODBOR RTS-A TRAŽI OD REM-A DA SE HITNO IZJASNI: Neophodan stav o njihovom statusu",
-      "summary": "Prema objavi medija Kurir: UPRAVNI ODBOR RTS-A TRAŽI OD REM-A DA SE HITNO IZJASNI: Neophodan stav o njihovom statusu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10152603/upravni-odbor-rts-a-trazi-izjasnjenje-od-rem-a",
-      "published_at": "2026-11-03T19:27+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "32fa7e6403931e9f8608",
-      "title": "\"LEŽIM U KREVETU U KOJEM JE BILA ZORICA BRUNCLIK\" Pevačica (46) se oglasila pred operaciju: Evo šta joj se dogodilo...",
-      "summary": "Prema objavi medija Kurir: \"LEŽIM U KREVETU U KOJEM JE BILA ZORICA BRUNCLIK\" Pevačica (46) se oglasila pred operaciju: Evo šta joj se dogodilo.... Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Zabava",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/stars/10152600/dusicu-grabovic-ceka-operacija",
-      "published_at": "2026-11-03T19:27+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "526b4982859243d7ded2",
-      "title": "CRVENI ALARM NA NEBU IZNAD EVROPE! Raste broj prizemljenih putničkih aviona, podignuti i BORBENI LOVCI: Ovo je spisak svih letova na kojima je došlo do UZBUNE",
-      "summary": "Prema objavi medija Blic: CRVENI ALARM NA NEBU IZNAD EVROPE! Raste broj prizemljenih putničkih aviona, podignuti i BORBENI LOVCI: Ovo je spisak svih letova na kojima je došlo do UZBUNE. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Ekonomija",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/svet/crveni-alarm-na-nebu-iznad-evrope-raste-broj-prizemljenih-aviona-dignuti-i-borbeni/11m6hb5",
-      "published_at": "2026-11-03T19:27+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "afbf386cf5bb292998ad",
-      "title": "Lekari novopazarskog porodilišta pozvali javnost da sačeka rezultate analize smrti bebe",
-      "summary": "Prema objavi medija Danas: Lekari novopazarskog porodilišta pozvali javnost da sačeka rezultate analize smrti bebe. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/drustvo/lekari-novopazarskog-porodilista-pozvali-javnost-da-saceka-rezultate-analize-smrti-bebe/",
-      "published_at": "2026-11-03T19:24+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5260ec7245a226c15dcd",
-      "title": "NIŽU SE PROBLEMI ZA VLADIMIRA PUTINA Kremlj više ne veruje Trampu, Moskva sprema novi potez",
-      "summary": "Prema objavi medija Kurir: NIŽU SE PROBLEMI ZA VLADIMIRA PUTINA Kremlj više ne veruje Trampu, Moskva sprema novi potez. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/planeta/10152597/blumberg-kremlj-izgubio-poverenje-u-trampa",
-      "published_at": "2026-11-03T19:23+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "a675132ca540528edbee",
-      "title": "MASTERS U PARIZU: Fric i Mikelsen u drugom kolu",
-      "summary": "Prema objavi medija Kurir: MASTERS U PARIZU: Fric i Mikelsen u drugom kolu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/tenis/10152591/fric-i-mikelsen-u-drugom-kolu-mastersa-u-parizu",
-      "published_at": "2026-11-03T19:23+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "2f5f8a29fb0a0142d04a",
-      "title": "KOME PRIPADA STAN NA KREDIT, A KOME LJUBIMAC NAKON RAZVODA Sve zablude o predbračnim ugovorima u Srbiji: Advokatica otkriva šta NIKAKO ne možete staviti na papir",
-      "summary": "Prema objavi medija Blic: KOME PRIPADA STAN NA KREDIT, A KOME LJUBIMAC NAKON RAZVODA Sve zablude o predbračnim ugovorima u Srbiji: Advokatica otkriva šta NIKAKO ne možete staviti na papir. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/drustvo/predbracni-ugovor-u-srbiji-evo-sta-smete-a-sta-ne-smete-da-ugovorite/7tbm58j",
-      "published_at": "2026-11-03T19:20+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "b0dec567b6af75e5b38d",
-      "title": "Odloženi svi mečevi u Španiji zbog tragične smrti fudbalera Tenerifa",
-      "summary": "Prema objavi medija Nova.rs: Odloženi svi mečevi u Španiji zbog tragične smrti fudbalera Tenerifa. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Sport",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/sport/fudbal/odlozeni-svi-mecevi-u-spaniji-zbog-tragicne-smrti-fudbalera-tenerifa/",
-      "published_at": "2026-11-03T19:19+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "2eec397665852ed32ef1",
-      "title": "HOROR: Beba od 20 meseci umrla od gladi - imala samo 4kg, a za taj uzrast je prosek 10-12",
-      "summary": "Prema objavi medija Novosti: HOROR: Beba od 20 meseci umrla od gladi - imala samo 4kg, a za taj uzrast je prosek 10-12. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/planeta/svet/1667592/horor-beba-20-meseci-umrla-gladi-imala-samo-4kg-taj-uzrast-prosek-10-12",
-      "published_at": "2026-11-03T19:19+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8b6b7232f35e1fcd4cf3",
-      "title": "\"To je kao horor film, samo je sve stvarno\": N1 u kibucu koji je pre tri godine bio jedna od prvih meta Hamasa",
-      "summary": "Prema objavi medija N1: \"To je kao horor film, samo je sve stvarno\": N1 u kibucu koji je pre tri godine bio jedna od prvih meta Hamasa. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Zabava",
-      "source": "N1",
-      "source_url": "https://n1info.rs/svet/kibuc-nir-oz-izrael-napad-hamas-tri-godine/",
-      "published_at": "2026-11-03T19:17+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "fa38db0f1736e85aa698",
-      "title": "MLAĐI JE OD NJE, A SVI KAŽU DA SU NAJSKLADNIJI PAR \"Gde da čekam, treći dan po upoznavanju smo ZAVRŠILI U KREVETU\", evo kolika je razlika u godinama između Seke i Veljka",
-      "summary": "Prema objavi medija Blic: MLAĐI JE OD NJE, A SVI KAŽU DA SU NAJSKLADNIJI PAR \"Gde da čekam, treći dan po upoznavanju smo ZAVRŠILI U KREVETU\", evo kolika je razlika u godinama između Seke i Veljka. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/zabava/evo-kolika-je-razlika-u-godinama-izmedju-seke-aleksic-i-muza-mladji-je-od-nje/hclbyww",
-      "published_at": "2026-11-03T19:17+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5ccc17a279a239b678b8",
-      "title": "Đoković: Cilj mi je da pobedim u svakom meču",
-      "summary": "Prema objavi medija Danas: Đoković: Cilj mi je da pobedim u svakom meču. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Sport",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/sport/novak-djokovic-tenis-masters-u-parizu/",
-      "published_at": "2026-11-03T19:16+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "0f259c4bdf54dfe35634",
-      "title": "Nakon što su sinoć dobili nova pravila, pogledajte šta očekuje takmičare \"Najvećeg gubitnika\" u novoj epizodi večeras na TV Nova",
-      "summary": "Prema objavi medija Nova.rs: Nakon što su sinoć dobili nova pravila, pogledajte šta očekuje takmičare \"Najvećeg gubitnika\" u novoj epizodi večeras na TV Nova. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/zabava/showbiz/nakon-sto-su-sinoc-dobili-nova-pravila-pogledajte-sta-ocekuje-takmicare-najveceg-gubitnika-u-novoj-epizodi-veceras-na-tv-nova/",
-      "published_at": "2026-11-03T19:15+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "bc602452ef1d8b9c247f",
-      "title": "Sindikat Pozorišta mladih traži ostavku direktora i razrešenje tri člana Upravnog odbora",
-      "summary": "Prema objavi medija Danas: Sindikat Pozorišta mladih traži ostavku direktora i razrešenje tri člana Upravnog odbora. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/kultura/sindikat-pozorista-mladih-trazi-ostavku/",
-      "published_at": "2026-11-03T19:14+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "34cf6acfd7a6ef9156b7",
-      "title": "Loto rezultati: Koji brojevi su izvučeni u 88. kolu?",
-      "summary": "Prema objavi medija Danas: Loto rezultati: Koji brojevi su izvučeni u 88. kolu?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/zivot/loto-rezultati-koji-brojevi-su-izvuceni-u-88-kolu-2026-godina/",
-      "published_at": "2026-11-03T19:12+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "23df5964a6349278f6cb",
-      "title": "Šta posle gašenja ALTA banke? Ovako bi mogla da izgleda \"raspodela\" njenog duga: \"Jedna kredite, druga privredu\" (VIDEO)",
-      "summary": "Prema objavi medija Blic: Šta posle gašenja ALTA banke? Ovako bi mogla da izgleda \"raspodela\" njenog duga: \"Jedna kredite, druga privredu\" (VIDEO). Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Ekonomija",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/biznis/privreda/oduzeta-dozvola-za-rad-alta-banci-sta-biva-sa-stednjom-i-kreditima-video/cjlnkgj",
-      "published_at": "2026-11-03T19:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "b7d7813f89daf16fe6b0",
-      "title": "Poznato kada Novak Đoković ponovo izlazi na teren u Parizu!",
-      "summary": "Prema objavi medija Novosti: Poznato kada Novak Đoković ponovo izlazi na teren u Parizu!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Sport",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/sport/tenis/1667591/poznato-kada-novak-djokovic-ponovo-izlazi-teren-parizu",
-      "published_at": "2026-11-03T19:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "4516e7c2fce75c6c3a73",
-      "title": "Rusi u Srbiji za BBC: ‘Nekome je u Alti zarobljena životna ušteđevina’",
-      "summary": "Prema objavi medija Danas: Rusi u Srbiji za BBC: ‘Nekome je u Alti zarobljena životna ušteđevina’. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/bbc-news-serbian/rusi-u-srbiji-za-bbc-nekome-je-u-alti-zarobljena-zivotna-ustedjevina/",
-      "published_at": "2026-11-03T19:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "d14d56e04d26e7e05ab0",
-      "title": "Upravni odbor RTS zatražio od Saveta REM da se hitno izjasni o njegovom statusu",
-      "summary": "Prema objavi medija Blic: Upravni odbor RTS zatražio od Saveta REM da se hitno izjasni o njegovom statusu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/drustvo/upravni-odbor-rts-zatrazio-od-saveta-rem-da-se-hitno-izjasni-o-njegovom-statusu/287wtzt",
-      "published_at": "2026-11-03T19:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8b0f6d7f3259b78021cc",
-      "title": "Predstava \"Sećam se samo bliske budućnosti\" 8. novembra u Ložionici: Da li bismo zaista želeli da promenimo prošlost kada bismo za to dobili priliku?",
-      "summary": "Prema objavi medija Kurir: Predstava \"Sećam se samo bliske budućnosti\" 8. novembra u Ložionici: Da li bismo zaista želeli da promenimo prošlost kada bismo za to dobili priliku?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/zabava/kultura/10152563/predstava-secam-se-samo-bliske-buducnosti-u-lozionici",
-      "published_at": "2026-11-03T19:09+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6f9f4e51e2694d2f0059",
-      "title": "ZELENSKI UPOZORIO EVROPU NA VELIKU OPASNOST, PA POMENUO AMERIKU Ukrajinski predsednik poslao dramatičnu poruku Nemačkoj",
-      "summary": "Prema objavi medija Kurir: ZELENSKI UPOZORIO EVROPU NA VELIKU OPASNOST, PA POMENUO AMERIKU Ukrajinski predsednik poslao dramatičnu poruku Nemačkoj. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Ekonomija",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/planeta/10152589/zelenski-uloga-sad-u-svetu-mogla-bi-da-oslabi-evropa-mora-da-preuzme-vecu-odgovornost",
-      "published_at": "2026-11-03T19:09+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6a882d7fa19236a5fad5",
-      "title": "DESIO SE JEDAN OD NAJSMRTONOSNIJIH NAPADA OD POČETKA RATA! Više od 30 mrtvih, traga se za 50 osoba: Zelenski otkrio uznemirujuće detalje",
-      "summary": "Prema objavi medija Blic: DESIO SE JEDAN OD NAJSMRTONOSNIJIH NAPADA OD POČETKA RATA! Više od 30 mrtvih, traga se za 50 osoba: Zelenski otkrio uznemirujuće detalje. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/svet/ovo-je-jedan-od-najsmrtonosnijih-napada-od-pocetka-rata-u-ukrajini/3z1bqpx",
-      "published_at": "2026-11-03T19:08+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6f8a33994adec29d5bf5",
-      "title": "Ko je Gorski Matović, koga je Vučić pomilovao?",
-      "summary": "Prema objavi medija Danas: Ko je Gorski Matović, koga je Vučić pomilovao?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/drustvo/gorski-matovic-biografija-pomilovanje-vucic/",
-      "published_at": "2026-11-03T19:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6fc7c7443c85cac564c3",
-      "title": "ZOA TRAŽI OD TRAMPA: Uvedite sankcije Srbiji ako vladavina rulje ugrozi demokratske institucije",
-      "summary": "Prema objavi medija Novosti: ZOA TRAŽI OD TRAMPA: Uvedite sankcije Srbiji ako vladavina rulje ugrozi demokratske institucije. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/vesti/politika/1667590/zoa-tramp-sankcije-srbiji-demokratija-amerika-jevreji",
-      "published_at": "2026-11-03T19:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "7157f210f7c320da4088",
-      "title": "ALEGRI DIGAO UZBUNU U NAPOLIJU: Priznao šta je veći problem od Lige šampiona",
-      "summary": "Prema objavi medija Kurir: ALEGRI DIGAO UZBUNU U NAPOLIJU: Priznao šta je veći problem od Lige šampiona. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/fudbal/10152581/alegri-sudbina-ekipe-u-ligi-sampiona-je-u-nasim-rukama",
-      "published_at": "2026-11-03T19:06+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "de6d547b361cbabdca0c",
-      "title": "SA DIREKTOROM RHMZ UHAPŠENI SUPRUGA I SIN? Osumnjičeni za \"pranje\" 650.000 EVRA preko nekretnina",
-      "summary": "Prema objavi medija Blic: SA DIREKTOROM RHMZ UHAPŠENI SUPRUGA I SIN? Osumnjičeni za \"pranje\" 650.000 EVRA preko nekretnina. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Hronika",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/hronika/direktor-rhmz-uhapsen-sa-suprugom-i-sinom-zbog-sumnje-na-pranje-novca/5b0r652",
-      "published_at": "2026-11-03T19:06+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "cc96ea2b551ecba26355",
-      "title": "Нишки студенти о помиловањима: Тај чин не искључује политичку и моралну одговорност",
-      "summary": "Prema objavi medija RTS: Нишки студенти о помиловањима: Тај чин не искључује политичку и моралну одговорност. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "RTS",
-      "source_url": "https://www.rts.rs/vesti/politika/6075656/niski-studenti-o-pomilovanjima-taj-cin-ne-iskljucuje-politicku-i-moralnu-odgovornost.html",
-      "published_at": "2026-11-03T19:05+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "f9090bc0c08ebfcc2492",
-      "title": "\"PADALA SAM U DEPRESIJU KADA VIDIM SVOJ NALAZ\": Jelena Rozga se bori sa ozbiljnim zdravstvenim problemima",
-      "summary": "Prema objavi medija Novosti: \"PADALA SAM U DEPRESIJU KADA VIDIM SVOJ NALAZ\": Jelena Rozga se bori sa ozbiljnim zdravstvenim problemima. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/scena/poznati/1667517/padala-sam-depresiju-kada-vidim-svoj-nalaz-jelena-rozga-bori-ozbiljnim-zdravstvenim-problemima",
-      "published_at": "2026-11-03T19:05+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "2d1fc6f60d34a81804c5",
-      "title": "Međuizbori u SAD: Amerikanci odlučuju kako bi državna politika mogla da izgleda u poslednje dve godine Trampovog mandata",
-      "summary": "Prema objavi medija N1: Međuizbori u SAD: Amerikanci odlučuju kako bi državna politika mogla da izgleda u poslednje dve godine Trampovog mandata. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "N1",
-      "source_url": "https://n1info.rs/svet/medjuizbori-u-sad-amerikanci-odlucuju-kako-bi-drzavna-politika-mogla-da-izgleda-u-poslednje-dve-godine-trampovog-mandata/",
-      "published_at": "2026-11-03T19:04+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "610bf3881c44d77e49ae",
-      "title": "Gledajte UŽIVO Global fokus: Međuizbori u SAD",
-      "summary": "Prema objavi medija N1: Gledajte UŽIVO Global fokus: Međuizbori u SAD. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "N1",
-      "source_url": "https://n1info.rs/najave-emisija/global-fokus-medjuizbori-u-sad/",
-      "published_at": "2026-11-03T19:02+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "ba37dd7d33879167e871",
-      "title": "Prvi filmovi velikih autora: 10 najboljih debija devedesetih",
-      "summary": "Prema objavi medija Danas: Prvi filmovi velikih autora: 10 najboljih debija devedesetih. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Zabava",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/kultura/10-najboljih-prvih-filmova-reditelja-90ih/",
-      "published_at": "2026-11-03T19:02+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "345179309a245103d345",
-      "title": "Kako se zove mužjak veverice? Jednostavno pitanje na koje mnogi ne znaju odgovor",
-      "summary": "Prema objavi medija Blic: Kako se zove mužjak veverice? Jednostavno pitanje na koje mnogi ne znaju odgovor. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/slobodno-vreme/kako-se-zove-muzjak-veverice-jednostavno-pitanje-na-koje-mnogi-ne-znaju-odgovor/pjk3hd0",
-      "published_at": "2026-11-03T19:02+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "0dbb6e680d99afd38b75",
-      "title": "Gradonačelnik Novog Sada negira navode pokreta Bravo o zarobljenim sredstvima u Alta banci",
-      "summary": "Prema objavi medija N1: Gradonačelnik Novog Sada negira navode pokreta Bravo o zarobljenim sredstvima u Alta banci. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "N1",
-      "source_url": "https://n1info.rs/vesti/gradonacelnik-novog-sada-negira-navode-pokreta-bravo-o-zarobljenim-sredstvima-u-alta-banci/",
-      "published_at": "2026-11-03T19:01+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "7a4d1ab0250835831783",
-      "title": "Dnevnik u 19 (2.11.2026)",
-      "summary": "Prema objavi medija N1: Dnevnik u 19 (2.11.2026). Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "N1",
-      "source_url": "https://n1info.rs/video/dnevnik/dnevnik-u-19-02112026/",
-      "published_at": "2026-11-03T19:00+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
