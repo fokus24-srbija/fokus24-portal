@@ -3,133 +3,35 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>FOKUS 24 | Srbija. Činjenice. Događaji.</title>
-<meta name="description" content="FOKUS 24 — pregled vesti iz javnih izvora.">
+<title>TRAG 24 | Srbija. Činjenice. Događaji.</title>
+<meta name="description" content="TRAG 24 — najnovije vesti iz Srbije, uz jasno označene izvore.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="sr_RS">
+<meta property="og:site_name" content="TRAG 24">
+<meta property="og:title" content="TRAG 24 | Srbija. Činjenice. Događaji.">
+<meta property="og:description" content="Najnovije vesti iz Srbije — politika, hronika, društvo, sport, ekonomija i zabava.">
+<meta name="twitter:card" content="summary_large_image">
 <style>
-:root{font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#172236;background:#f4f6f9}
-*{box-sizing:border-box}
-body{margin:0}
-header{background:#101d30;color:white;padding:22px max(20px,calc((100vw - 1100px)/2))}
-header strong{font-size:36px;letter-spacing:-2px}
-header strong span{color:#e5b74d}
-header p{margin:0;color:#b4c3d8;font-size:12px;letter-spacing:2px}
-nav{display:flex;gap:8px;flex-wrap:wrap;margin-top:22px}
-nav button{border:1px solid #40516a;background:#1d304a;color:white;padding:10px 14px;border-radius:8px;cursor:pointer}
-nav button.active{background:#e5b74d;color:#101d30;border-color:#e5b74d}
-main{max-width:1100px;margin:auto;padding:28px 18px}
-.hero{background:#15253b;color:white;border-radius:18px;padding:30px}
-.eyebrow{color:#e5b74d;font-weight:700;font-size:12px;letter-spacing:1px}
-.hero h1{font-size:clamp(27px,5vw,44px);margin:12px 0}
-.hero p{color:#c9d5e4;max-width:700px}
-.times{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:20px 0}
-.time{background:white;border:1px solid #e0e6ee;border-radius:12px;padding:18px;text-align:center}
-.time b{font-size:26px;display:block}
-.time small{color:#637084}
-h2{margin-top:35px}
-.notice{padding:18px;border:1px solid #d9e2eb;border-radius:12px;background:#fff;line-height:1.6}
-.articles{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
-.article{background:white;border:1px solid #e0e6ee;border-radius:14px;padding:20px}
-.article small{color:#66788f}
-.article h3{margin:10px 0}
-.article p{line-height:1.55;color:#4b5c72}
-.article a{color:#164c88}
-footer{background:#101d30;color:#b4c3d8;text-align:center;padding:28px;margin-top:40px}
-input{width:100%;padding:13px;border:1px solid #d1dce8;border-radius:9px;font-size:16px}
-@media(max-width:550px){.times{gap:6px}.time{padding:12px 4px}.time b{font-size:21px}}
+:root{font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#18243a;background:#f4f6fa}*{box-sizing:border-box}body{margin:0}header{background:#0c1729;color:white;padding:24px max(18px,calc((100vw - 1120px)/2));border-bottom:3px solid #bb263b}.brand{font-size:38px;letter-spacing:-2px;font-weight:850}.brand span{color:#e13a4e}header p{margin:1px 0 0;color:#b9c8db;font-size:11px;letter-spacing:2px}nav{display:flex;gap:7px;flex-wrap:wrap;margin-top:22px}nav button{border:1px solid #46556d;background:#1a2b45;color:#f4f6fa;padding:10px 12px;border-radius:8px;cursor:pointer;font-weight:600}nav button.active{background:#b52b3b;border-color:#b52b3b}main{max-width:1120px;margin:auto;padding:26px 18px}.hero{background:linear-gradient(120deg,#13253e,#0c1729);color:white;border-radius:16px;padding:26px}.eyebrow{color:#f1bd72;font-size:12px;letter-spacing:1px;font-weight:700}.hero h1{font-size:clamp(25px,4vw,39px);margin:10px 0}.hero p{color:#cad5e2;line-height:1.6}.tools{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:24px 0 14px}.tools input{flex:1;min-width:220px;padding:12px 14px;border:1px solid #d3dce9;border-radius:9px;font-size:15px}.articles{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:15px}.article{background:white;border:1px solid #dfe5ed;border-radius:14px;padding:20px;display:flex;flex-direction:column;gap:10px;box-shadow:0 3px 12px #1529440a}.meta{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:12px;color:#63718a}.category{font-weight:750;color:#a82438;background:#fff0f2;border-radius:6px;padding:5px 8px}.article h3{font-size:19px;line-height:1.35;margin:2px 0}.article p{line-height:1.55;color:#4b5c72;margin:0;flex:1}.source{display:flex;align-items:center;gap:8px;border-top:1px solid #e6eaf0;padding-top:13px;margin-top:5px}.source img{width:25px;height:25px;object-fit:contain;border-radius:5px}.source .name{font-size:13px;color:#33435a;font-weight:700}.source a{margin-left:auto;background:#152b47;color:white;text-decoration:none;border-radius:7px;padding:9px 11px;font-size:12px;font-weight:700}.notice{background:white;border:1px solid #dce4ed;border-radius:10px;padding:15px;line-height:1.6;color:#52627a}footer{background:#0c1729;color:#bbc8d7;text-align:center;padding:26px;margin-top:35px;font-size:13px}@media(max-width:520px){.brand{font-size:34px}nav button{font-size:12px;padding:9px 10px}.hero{padding:22px}.article{padding:16px}}
 </style>
 </head>
 <body>
-<header>
-<strong>FOKUS <span>24</span></strong>
-<p>SRBIJA · ČINJENICE · DOGAĐAJI</p>
-<nav id="nav"></nav>
-</header>
-<main>
-<section class="hero">
-<div class="eyebrow">INFORMATIVNI PORTAL · SRBIJA</div>
-<h1>Šta se zaista dešava?</h1>
-<p>Važne vesti, pouzdani izvori i jasna razlika između potvrđenih činjenica, izjava i sumnji. Bez senzacionalizma.</p>
-</section>
-<section class="times">
-<div class="time"><b>07:00</b><small>Jutarnji pregled</small></div>
-<div class="time"><b>15:00</b><small>Dnevni pregled</small></div>
-<div class="time"><b>20:00</b><small>Večernji pregled</small></div>
-</section>
-<h2>Najnovije vesti</h2>
-<div class="notice" style="margin-bottom:14px">Vesti se preuzimaju iz javnih izvora. Objavljeni navodi nisu nezavisno provereni od strane redakcije FOKUS 24.</div>
-<input id="search" placeholder="Pretraži objavljene vesti…" aria-label="Pretraga vesti">
-<div id="status" class="notice" style="margin:16px 0" role="status">Učitavanje vesti…</div>
-<div id="articles" class="articles"></div>
-<h2>Urednička pravila</h2>
-<div class="notice">Svaka objavljena vest mora imati datum, izvor i jasnu oznaku kada je reč o navodima, sumnjama ili nepotvrđenim informacijama. Ispravke se transparentno označavaju. Automatski prikupljeni navodi predstavljaju informacije izvornog medija i ne podrazumevaju nezavisnu proveru redakcije FOKUS 24.</div>
-</main>
-<footer>© <span id="year"></span> FOKUS 24 · Srbija. Činjenice. Događaji.</footer>
+<header><div class="brand">TRAG <span>24</span></div><p>SRBIJA · ČINJENICE · DOGAĐAJI</p><nav id="nav" aria-label="Kategorije"></nav></header>
+<main><section class="hero"><div class="eyebrow">INFORMATIVNI PORTAL · SRBIJA</div><h1>Važne vesti. Jasni izvori.</h1><p>Najvažnije informacije iz Srbije i sveta na jednom mestu. Uz svaku vest odmah vidite kategoriju, vreme i medij iz kog je informacija preneta.</p></section>
+<div class="tools"><h2>Najnovije vesti</h2><input id="search" type="search" placeholder="Pretraži vesti…" aria-label="Pretraga vesti"></div>
+<div id="status" class="notice" role="status">Učitavanje vesti…</div><div id="articles" class="articles"></div>
+<h2>Urednička pravila</h2><div class="notice">TRAG 24 prikazuje informacije iz javno dostupnih medijskih izvora. Ime i logo izvora vidljivi su uz svaku vest. Navodi preneti iz drugih medija nisu nezavisno potvrđeni od strane redakcije TRAG 24. Klikom na „Originalna vest“ čitalac otvara izvorni članak.</div>
+</main><footer>© <span id="year"></span> TRAG 24 · Srbija. Činjenice. Događaji.</footer>
 <script>
-const cats=['Sve','Politika','Opozicija','Hapšenja i istrage','Ekonomija','Alta banka'];
+const cats=['Sve','Politika','Hronika','Društvo','Sport','Ekonomija','Zabava'];
+const domains={'RTS':'www.rts.rs','N1':'n1info.rs','Danas':'www.danas.rs','Blic':'www.blic.rs','Nova.rs':'nova.rs','Telegraf':'www.telegraf.rs','Kurir':'www.kurir.rs','Novosti':'www.novosti.rs','Politika':'www.politika.rs'};
 let active='Sve',items=[];
 document.getElementById('year').textContent=new Date().getFullYear();
 const nav=document.getElementById('nav');
-cats.forEach(c=>{
- const b=document.createElement('button');
- b.textContent=c;
- b.onclick=()=>{
-  active=c;
-  document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('active',x===b));
-  render();
- };
- if(c==='Sve')b.className='active';
- nav.append(b);
-});
+for(const c of cats){const b=document.createElement('button');b.textContent=c;b.className=c==='Sve'?'active':'';b.onclick=()=>{active=c;nav.querySelectorAll('button').forEach(x=>x.classList.toggle('active',x===b));render()};nav.append(b)}
 document.getElementById('search').addEventListener('input',render);
-function formatDate(value){
- if(!value)return '';
- const d=new Date(value);
- if(Number.isNaN(d.getTime()))return '';
- return new Intl.DateTimeFormat('sr-RS',{timeZone:'Europe/Belgrade',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(d);
-}
-function render(){
- const q=document.getElementById('search').value.toLocaleLowerCase('sr');
- const arr=items.filter(x=>(active==='Sve'||x.category===active)&&[x.title,x.summary].join(' ').toLocaleLowerCase('sr').includes(q));
- const box=document.getElementById('articles');
- box.replaceChildren();
- for(const x of arr){
-  const el=document.createElement('article');
-  el.className='article';
-  const sm=document.createElement('small');
-  sm.textContent=[x.category,formatDate(x.published_at)].filter(Boolean).join(' · ');
-  const h=document.createElement('h3');
-  h.textContent=x.title;
-  const p=document.createElement('p');
-  p.textContent=x.summary;
-  el.append(sm,h,p);
-  if(x.source_url&&/^https:\/\//.test(x.source_url)){
-   const a=document.createElement('a');
-   a.href=x.source_url;
-   a.rel='noopener noreferrer';
-   a.target='_blank';
-   a.textContent='Pročitaj izvor';
-   el.append(a);
-  }
-  box.append(el);
- }
- const status=document.getElementById('status');
- status.style.display=arr.length?'none':'block';
- if(!arr.length)status.textContent=items.length?'Nema vesti za izabranu kategoriju ili pretragu.':'Trenutno nema dostupnih vesti.';
-}
-async function loadNews(){
- try{
-  const response=await fetch('./news.json',{cache:'no-store'});
-  if(!response.ok)throw new Error('HTTP '+response.status);
-  const data=await response.json();
-  if(!Array.isArray(data.articles))throw new Error('Neispravan format');
-  items=data.articles.filter(x=>x&&typeof x.title==='string'&&typeof x.summary==='string'&&typeof x.category==='string'&&typeof x.source_url==='string'&&/^https:\/\//.test(x.source_url));
-  render();
- }catch(error){
-  document.getElementById('status').textContent='Vesti trenutno nisu dostupne. Pokušajte ponovo kasnije.';
-  console.error('FOKUS 24:',error);
- }
-}
-loadNews();
-</script>
-</body>
-</html>
+function formatDate(v){if(!v)return '';const d=new Date(v);return Number.isNaN(d.getTime())?'':new Intl.DateTimeFormat('sr-RS',{timeZone:'Europe/Belgrade',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(d)}
+function category(c){return {'Opozicija':'Politika','Hapšenja i istrage':'Hronika','Alta banka':'Ekonomija'}[c]||c}
+function render(){const q=document.getElementById('search').value.toLocaleLowerCase('sr');const arr=items.filter(x=>(active==='Sve'||category(x.category)===active)&&[x.title,x.summary].join(' ').toLocaleLowerCase('sr').includes(q));const box=document.getElementById('articles');box.replaceChildren();for(const x of arr){const el=document.createElement('article');el.className='article';const meta=document.createElement('div');meta.className='meta';const cat=document.createElement('span');cat.className='category';cat.textContent=category(x.category);const date=document.createElement('span');date.textContent=formatDate(x.published_at);meta.append(cat,date);const h=document.createElement('h3');h.textContent=x.title;const p=document.createElement('p');p.textContent=(x.summary||'').replace(/^Prema objavi medija [^:]+:\s*/,'').replace(/\. Navodi nisu nezavisno potvrđeni od strane (FOKUS|TRAG) 24\.?$/,'');const source=document.createElement('div');source.className='source';const domain=domains[x.source]||new URL(x.source_url).hostname;const logo=document.createElement('img');logo.src='https://www.google.com/s2/favicons?domain='+encodeURIComponent(domain)+'&sz=64';logo.alt='Logo: '+(x.source||domain);logo.loading='lazy';const name=document.createElement('span');name.className='name';name.textContent=x.source||domain;const a=document.createElement('a');a.href=x.source_url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Originalna vest ↗';source.append(logo,name,a);el.append(meta,h,p,source);box.append(el)}const status=document.getElementById('status');status.style.display=arr.length?'none':'block';if(!arr.length)status.textContent=items.length?'Nema vesti za izabranu kategoriju ili pretragu.':'Trenutno nema dostupnih vesti.'}
+async function loadNews(){try{const r=await fetch('./news.json',{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();if(!Array.isArray(data.articles))throw Error('Format');items=data.articles.filter(x=>x&&typeof x.title==='string'&&typeof x.summary==='string'&&typeof x.category==='string'&&typeof x.source_url==='string'&&/^https:\/\//.test(x.source_url));render()}catch(e){document.getElementById('status').textContent='Vesti trenutno nisu dostupne. Pokušajte ponovo kasnije.';console.error('TRAG 24:',e)}}loadNews();
+</script></body></html>
