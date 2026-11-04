@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: fokus24-vesti
+  group: trag24-vesti
   cancel-in-progress: false
 
 jobs:
