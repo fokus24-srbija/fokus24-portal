@@ -1,4 +1,4 @@
-name: FOKUS 24 - automatske vesti
+name: TRAG 24 - automatske vesti
 
 on:
   workflow_dispatch:
