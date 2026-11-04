@@ -38,6 +38,22 @@ def category(title):
     return 'Društvo'
 
 
+SERBIA_TERMS = ('srbij', 'beograd', 'novi sad', 'niš', 'nisu', 'kragujev', 'smederev', 'subotic', 'pančev', 'pancev', 'čačak', 'cacak', 'kraljev', 'užic', 'uzic', 'valjev', 'zrenjanin', 'leskov', 'vranj', 'novi pazar', 'vojvodin', 'kosov', 'metohij', 'skupštin', 'vladа srbije', 'predsednik srbije', 'nbs', 'rts', 'rem', 'partizan', 'crvena zvezda', 'zvezda', 'dinara', 'dinar', 'sns', 'sps', 'vučić', 'vucic', 'brnabić', 'brnabic', 'đoković', 'djokovic', 'jokić', 'jokic')
+WORLD_TERMS = ('amerika', 'američ', 'americ', 'sad ', 'sjedinjen', 'tramp', 'trump', 'bajden', 'biden', 'rusij', 'ruski', 'putin', 'ukrajin', 'zelensk', 'kinа', 'kina ', 'kinesk', 'peking', 'izrael', 'gaza', 'palestin', 'iran', 'irak', 'sirij', 'liban', 'nemačk', 'nemack', 'berlin', 'francusk', 'pariz', 'britan', 'london', 'italij', 'rim ', 'španij', 'spanij', 'madrid', 'brisel', 'evropsk', 'eu ', 'nato', 'un ', 'tursk', 'istanbul', 'erdogan', 'hrvatsk', 'zagreb', 'bosn', 'sarajev', 'crnа gora', 'crna gora', 'podgoric', 'makedon', 'skoplje', 'albanij', 'tirana', 'japan', 'tokio', 'indij', 'delhi', 'afrika', 'azij', 'svetsko prvenstvo', 'liga šampiona', 'premijer liga')
+
+
+def region(title):
+    """Conservative headline-only heuristic; unknown stories are not forced into a region."""
+    s = ' ' + title.casefold() + ' '
+    domestic = any(term in s for term in SERBIA_TERMS)
+    foreign = any(term in s for term in WORLD_TERMS)
+    if domestic and not foreign:
+        return 'Srbija'
+    if foreign and not domestic:
+        return 'Svet'
+    return 'Neodređeno'
+
+
 def clean(value):
     return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]*>', ' ', value or ''))).strip()
 
@@ -51,10 +67,7 @@ def get_text(node, names):
 
 
 def safe_xml(data):
-    """Repair invalid XML control characters and unescaped ampersands."""
-    # XML feeds are expected to be UTF-8; preserve XML declaration for standard parser.
     text = data.decode('utf-8-sig', errors='replace')
-    # HTML pages are not RSS feeds; do not invent articles from them.
     if re.search(r'<!doctype\s+html|<html(?:\s|>)', text[:1500], flags=re.I):
         return ''
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\ufffe\uffff]', '', text)
@@ -73,14 +86,11 @@ def parse_entries(data):
             return entries, 'XML'
     except ET.ParseError as exc:
         print(f'  XML nije potpuno ispravan ({exc}); pokušavam oporavak pojedinačnih stavki')
-    # A broken item must not invalidate the entire feed. Parse RSS items separately.
     entries = []
     for raw in re.findall(r'<item(?:\s[^>]*)?>.*?</item\s*>', text, flags=re.I | re.S):
         try:
             entries.append(ET.fromstring(raw))
         except ET.ParseError:
-            # Some providers include undeclared namespace prefixes inside an item.
-            # Drop only invalid item rather than inventing data.
             continue
     if entries:
         return entries, 'oporavljeno'
@@ -136,8 +146,9 @@ def main():
                     continue
                 items[uid] = {
                     'id': uid, 'title': title[:220],
-                    'summary': f'Prema objavi medija {source}: {title[:240]}. Navodi nisu nezavisno potvrđeni od strane TRAG 24.',
-                    'category': category(title), 'source': source, 'source_url': link,
+                    'summary': '',
+                    'category': category(title), 'region': region(title),
+                    'source': source, 'source_url': link,
                     'published_at': date.isoformat(timespec='minutes'),
                     'verification_status': 'preneto_iz_izvora',
                 }
@@ -152,12 +163,16 @@ def main():
     for x in items.values():
         if isinstance(x.get('summary'), str):
             x['summary'] = x['summary'].replace('FOKUS 24', 'TRAG 24')
+            if x['summary'].startswith('Prema objavi medija ') and 'Navodi nisu nezavisno potvrđeni' in x['summary']:
+                x['summary'] = ''
         if x.get('category') == 'Hapšenja i istrage':
             x['category'] = 'Hronika'
         elif x.get('category') == 'Opozicija':
             x['category'] = 'Politika'
         elif x.get('category') == 'Alta banka':
             x['category'] = 'Ekonomija'
+        if x.get('region') not in ('Srbija', 'Svet'):
+            x['region'] = region(x.get('title', ''))
     articles = sorted(items.values(), key=lambda x: x.get('published_at', ''), reverse=True)[:300]
     FILE.write_text(json.dumps({'updated_at': now.isoformat(), 'articles': articles}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'Ukupno dodato {added}; sačuvano {len(articles)} vesti.')
