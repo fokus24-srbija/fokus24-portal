@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-04T01:54:41.152088+00:00",
+  "updated_at": "2026-11-04T02:44:42.074221+00:00",
   "articles": [
+    {
+      "id": "a89deaa0ecc26a34fd3e",
+      "title": "Stanković čestitao učenicima Matematičke gimnazije uspeh na 18. Olimpijadi znanja",
+      "summary": "Prema objavi medija Telegraf: Stanković čestitao učenicima Matematičke gimnazije uspeh na 18. Olimpijadi znanja. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Sport",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4426315-stankovic-cestitao-ucenicima-metematicke-gimnazije-uspeh-na-18-olimpijadi-znanja",
+      "published_at": "2026-11-04T02:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d41c5325005ff5396d64",
+      "title": "HARI KEJN OTKRIO ŠTA MU JE VAŽNIJE OD ZLATNE LOPTE! Zbog ovoga bi se odrekao svega!",
+      "summary": "Prema objavi medija Kurir: HARI KEJN OTKRIO ŠTA MU JE VAŽNIJE OD ZLATNE LOPTE! Zbog ovoga bi se odrekao svega!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/fudbal/10152147/hari-kejn-priznao-da-bi-zlatnu-loptu-menjao-za-trofej-lige-sampiona",
+      "published_at": "2026-11-04T02:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "7934dfefc5883d9b2734",
+      "title": "Linta: Odluka Vlade Srbije da izdvoji milion evra za Drvar važna za nova radna mesta",
+      "summary": "Prema objavi medija Telegraf: Linta: Odluka Vlade Srbije da izdvoji milion evra za Drvar važna za nova radna mesta. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/4426308-linta-odluka-vlade-srbije-da-izdvoji-milion-evra-za-drvar-vazna-za-nova-radna-mesta",
+      "published_at": "2026-11-04T02:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ec2364a477f9e952cbaf",
+      "title": "HAPŠENJE U BUDVI Policija upala mladiću (23) u stan i zatekla šok: Između kokaina i marihuane našli i DVA KLJUČNA DOKAZA koji ga šalju na robiju!",
+      "summary": "Prema objavi medija Kurir: HAPŠENJE U BUDVI Policija upala mladiću (23) u stan i zatekla šok: Između kokaina i marihuane našli i DVA KLJUČNA DOKAZA koji ga šalju na robiju!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Hronika",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/region/crna-gora/10151829/hapsenje-u-budvi-policija-zaplenila-drogu",
+      "published_at": "2026-11-04T02:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8d4ce7400d928395a489",
+      "title": "LUKA ZAPALIO NBA, JANIS OSTAO U ŠOKU! \"On je možda i najbolji strelac ikada!\"",
+      "summary": "Prema objavi medija Kurir: LUKA ZAPALIO NBA, JANIS OSTAO U ŠOKU! \"On je možda i najbolji strelac ikada!\". Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/kosarka/10152116/janis-adetokumbo-o-luki-doncicu",
+      "published_at": "2026-11-04T01:55+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "35e23b3cbbeaa89319d3",
       "title": "Демократе освојиле мандате у више савезних држава на изборима у САД",
@@ -2949,56 +2999,6 @@
       "source": "Novosti",
       "source_url": "https://www.novosti.rs/sport/fudbal/1667605/zoca-zbunilo-pitanje-otpisani-pre-nedelju-dana",
       "published_at": "2026-11-03T20:14+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "7079d0fac986cd5cd9a4",
-      "title": "PODGORICA ĆUTI, RUSKI „RIBAR“ SPREMA PROTIVUDAR: Zaplenjena oprema nije vraćena, Zvinčuk angažovao advokate",
-      "summary": "Prema objavi medija Novosti: PODGORICA ĆUTI, RUSKI „RIBAR“ SPREMA PROTIVUDAR: Zaplenjena oprema nije vraćena, Zvinčuk angažovao advokate. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/planeta/svet/1667604/podgorica-cuti-ruski-ribar-sprema-protivudar-zaplenjena-oprema-nije-vracena-zvincuk-angazovao-advokate",
-      "published_at": "2026-11-03T20:13+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "f5acca4354c5e4333b0e",
-      "title": "Из плуса у минус преко ноћи – нискоризични инвестициони фондови држали новац у Алта банци",
-      "summary": "Prema objavi medija RTS: Из плуса у минус преко ноћи – нискоризични инвестициони фондови држали новац у Алта банци. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "RTS",
-      "source_url": "https://www.rts.rs/vesti/ekonomija/6075342/alta-banka-investicioni-fondovi-banka-inteza-komisija-za-hartije-od-vrednosti.html",
-      "published_at": "2026-11-03T20:12+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "1ccced41890aa96c1a8d",
-      "title": "Америчка кардиолошка асоцијација: енергетска пића и суплементи повезани са озбиљним срчаним проблемима",
-      "summary": "Prema objavi medija Politika: Америчка кардиолошка асоцијација: енергетска пића и суплементи повезани са озбиљним срчаним проблемима. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/799517/americka-kardioloska-asocijacija-energetska-pica-i-suplementi-povezani-sa-ozbiljnim-srcanim-problemima",
-      "published_at": "2026-11-03T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "fcb0eee20d7ea541b3ed",
-      "title": "AMERIKA PRAVI FATALNU GREŠKU! Hteli da zabiju klin između Rusije i Kine, a ostaće BEZ EVROPE! Ovo je propast plana „Obrnuti Kisindžer”!",
-      "summary": "Prema objavi medija Novosti: AMERIKA PRAVI FATALNU GREŠKU! Hteli da zabiju klin između Rusije i Kine, a ostaće BEZ EVROPE! Ovo je propast plana „Obrnuti Kisindžer”!. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Ekonomija",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/planeta/svet/1667573/obrnuti-kisinger-sad-rusija-kina-evropa",
-      "published_at": "2026-11-03T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8e702fcf291e5cb42ab9",
-      "title": "Sindikat BioSens najavio štrajk upozorenja",
-      "summary": "Prema objavi medija Danas: Sindikat BioSens najavio štrajk upozorenja. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/drustvo/sindikat-biosens-novi-strajk-upozorenja/",
-      "published_at": "2026-11-03T20:10+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
