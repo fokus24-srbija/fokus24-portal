@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-04T00:53:43.762018+00:00",
+  "updated_at": "2026-11-04T01:54:41.152088+00:00",
   "articles": [
+    {
+      "id": "35e23b3cbbeaa89319d3",
+      "title": "Демократе освојиле мандате у више савезних држава на изборима у САД",
+      "summary": "Prema objavi medija Politika: Демократе освојиле мандате у више савезних држава на изборима у САД. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799572/demokrate-osvojile-mandate-u-vise-saveznih-drzava-na-izborima-u-sad",
+      "published_at": "2026-11-04T01:39+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a3bc3237d081997c9312",
+      "title": "Nar ili brusnica: Jedan sok ima prednost za krvni pritisak, ali pre kupovine proverite deklaraciju",
+      "summary": "Prema objavi medija Telegraf: Nar ili brusnica: Jedan sok ima prednost za krvni pritisak, ali pre kupovine proverite deklaraciju. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://ona.telegraf.rs/plantbased/4425691-nar-ili-brusnica-jedan-sok-ima-prednost-za-krvni-pritisak-ali-pre-kupovine-proverite-deklaraciju",
+      "published_at": "2026-11-04T01:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "ef3c9b5d4afc5e7d91fa",
+      "title": "Evo gde možete da gledate užvio TV prenos meča Mehelen - Zvezda u 4. kolu Evrolige",
+      "summary": "Prema objavi medija Telegraf: Evo gde možete da gledate užvio TV prenos meča Mehelen - Zvezda u 4. kolu Evrolige. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Sport",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/kosarka/4426351-evo-gde-mozete-da-gledate-uzvio-tv-prenos-meca-mehelen-zvezda-u-4-kolu-evrolige",
+      "published_at": "2026-11-04T01:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "19181e452570915d98d4",
+      "title": "Stižu prvi rezultati međuizbora u SAD: Demokrate odnele pobede",
+      "summary": "Prema objavi medija N1: Stižu prvi rezultati međuizbora u SAD: Demokrate odnele pobede. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Politika",
+      "source": "N1",
+      "source_url": "https://n1info.rs/svet/medjuizbori-sjedinjene-americke-drzave-2026-rezultati/",
+      "published_at": "2026-11-04T01:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0353ed81f2bc16be7636",
+      "title": "Облачно и хладно, понегде са кишом",
+      "summary": "Prema objavi medija Politika: Облачно и хладно, понегде са кишом. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799570/oblacno-i-hladno-ponegde-sa-kisom",
+      "published_at": "2026-11-04T01:09+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "221ef84d4f424fdea2c9",
+      "title": "Dok svet strepi od cena nafte, ovde se slivaju milijarde: Za tri meseca profit od 31,2 milijarde dolara",
+      "summary": "Prema objavi medija Telegraf: Dok svet strepi od cena nafte, ovde se slivaju milijarde: Za tri meseca profit od 31,2 milijarde dolara. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Ekonomija",
+      "source": "Telegraf",
+      "source_url": "https://biznis.telegraf.rs/info-biz/4426035-dok-svet-strepi-od-cena-nafte-ovde-se-slivaju-milijarde-za-tri-meseca-profit-od-312-milijarde-dolara",
+      "published_at": "2026-11-04T01:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "29931e693aa88a93b60d",
+      "title": "GRČKI LIST TVRDI: Novac prikupljen za lečenje dece preusmeravan na klađenje i privatne račune",
+      "summary": "Prema objavi medija Kurir: GRČKI LIST TVRDI: Novac prikupljen za lečenje dece preusmeravan na klađenje i privatne račune. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10152120/grcka-organizacija-pod-istragom-zbog-sumnje-u-zloupotrebu-donacija-za-decu",
+      "published_at": "2026-11-04T01:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a7c5c818618fe3895561",
+      "title": "Avion Er Srbije nakon bezbednosne provere svih putnika nastavio let za Moskvu",
+      "summary": "Prema objavi medija Telegraf: Avion Er Srbije nakon bezbednosne provere svih putnika nastavio let za Moskvu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4426398-avio-er-srbije-nakon-bezbednosne-provere-svih-putnika-nastavio-let-za-moskvu",
+      "published_at": "2026-11-04T00:59+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b4d8daeacb24e89a7d20",
+      "title": "Нападач из Париза покушао да се убије у затвору",
+      "summary": "Prema objavi medija Politika: Нападач из Париза покушао да се убије у затвору. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
+      "category": "Društvo",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799569/napadac-iz-pariza-pokusao-da-se-ubije-u-zatvoru",
+      "published_at": "2026-11-04T00:56+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "d7952ad257d573800cdc",
       "title": "Kako bi republikanci mogli da ostvare dobar rezultat na današnjim međuizborima? Ovo su najrealniji scenariji!",
@@ -2909,96 +2999,6 @@
       "source": "Danas",
       "source_url": "https://www.danas.rs/vesti/drustvo/sindikat-biosens-novi-strajk-upozorenja/",
       "published_at": "2026-11-03T20:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "16eae4a740c0515706df",
-      "title": "Победа фудбалера Галатасараја против Штутгарта",
-      "summary": "Prema objavi medija Politika: Победа фудбалера Галатасараја против Штутгарта. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/799516/sport/pobeda-fudbalera-galatasaraja-protiv-stutgarta",
-      "published_at": "2026-11-03T20:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "543f3390826690cfdb15",
-      "title": "\"ULTRAZVUK NIJE BAŽDAREN ZA BEBE OD 6 KILA!\" Ginekolog o tragediji u Novom Pazaru: \"Kad krene krvarenje, imamo manje od minut da izvadimo bebu!\" (VIDEO)",
-      "summary": "Prema objavi medija Blic: \"ULTRAZVUK NIJE BAŽDAREN ZA BEBE OD 6 KILA!\" Ginekolog o tragediji u Novom Pazaru: \"Kad krene krvarenje, imamo manje od minut da izvadimo bebu!\" (VIDEO). Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/drustvo/smrt-bebe-u-novom-pazaru-i-carski-rez-ginekolog-o-rizicima/g60766k",
-      "published_at": "2026-11-03T20:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "4bedd9af292e246f517e",
-      "title": "Ponoš podneo ostavku na mesto predsednika stranke, Predsedništvo SRCE je prihvatilo",
-      "summary": "Prema objavi medija Danas: Ponoš podneo ostavku na mesto predsednika stranke, Predsedništvo SRCE je prihvatilo. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/politika/ponos-podneo-ostavku/",
-      "published_at": "2026-11-03T20:09+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "38e8d6ea6b1cd263668f",
-      "title": "Zdravko Ponoš podneo ostavku na mesto predsednika stranke SRCE",
-      "summary": "Prema objavi medija Blic: Zdravko Ponoš podneo ostavku na mesto predsednika stranke SRCE. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/politika/zdravko-ponos-podneo-ostavku-na-mesto-predsednika-stranke-srce/6gymvy5",
-      "published_at": "2026-11-03T20:09+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "7b33c0b5602d5ecb69ce",
-      "title": "PONOŠ VIŠE NIJE PREDSEDNIK STRANKE SRCE: Podneo ostavku, Predsedništvo je prihvatilo",
-      "summary": "Prema objavi medija Novosti: PONOŠ VIŠE NIJE PREDSEDNIK STRANKE SRCE: Podneo ostavku, Predsedništvo je prihvatilo. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/vesti/politika/1667603/zdravko-ponos-srce-ostavka",
-      "published_at": "2026-11-03T20:08+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "d4da691b284538cc8b35",
-      "title": "“Ne o napretku, već o nazadovanju Srbije”: Šta možemo zaključiti iz nacrta izveštaja EK?",
-      "summary": "Prema objavi medija Danas: “Ne o napretku, već o nazadovanju Srbije”: Šta možemo zaključiti iz nacrta izveštaja EK?. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/politika/izvestaj-ek-o-srbiji-nacrt/",
-      "published_at": "2026-11-03T20:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8b0cd3a0388c06a1fe2f",
-      "title": "Ponoš podneo ostavku na mesto predsednika stranke SRCE: Predsedništvo je prihvatilo, prelaze u vanparlamentarnu borbu",
-      "summary": "Prema objavi medija Kurir: Ponoš podneo ostavku na mesto predsednika stranke SRCE: Predsedništvo je prihvatilo, prelaze u vanparlamentarnu borbu. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10152625/zdravko-ponos-podneo-ostavku-na-mesto-predsednika-stranke-srbija-centar-nakon-izbora",
-      "published_at": "2026-11-03T20:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "2dbfc325792b520bba48",
-      "title": "\"NIT MANJE ŽENE, NIT VEĆEG DETETA\" Jovana Jeremić u roze kompletiću i sa KRUNOM na glavi napravila pometnju na mrežama: \"Kod mene je sve u kontri\" (FOTO)",
-      "summary": "Prema objavi medija Blic: \"NIT MANJE ŽENE, NIT VEĆEG DETETA\" Jovana Jeremić u roze kompletiću i sa KRUNOM na glavi napravila pometnju na mrežama: \"Kod mene je sve u kontri\" (FOTO). Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Društvo",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/zabava/jovana-jeremic-u-roze-kompletu-i-sa-krunom-nit-manje-zene-nit-veceg-deteta/rc499w6",
-      "published_at": "2026-11-03T20:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "9aaa4681d3d16f2e159b",
-      "title": "Studenti u blokadi: Pripadnici romske zajednice posebno su bili izloženi izbornoj manipulaciji",
-      "summary": "Prema objavi medija N1: Studenti u blokadi: Pripadnici romske zajednice posebno su bili izloženi izbornoj manipulaciji. Navodi nisu nezavisno potvrđeni od strane TRAG 24.",
-      "category": "Politika",
-      "source": "N1",
-      "source_url": "https://n1info.rs/vesti/studenti-u-blokadi-pripadnici-romske-zajednice-posebno-su-bili-izlozeni-izbornoj-manipulaciji/",
-      "published_at": "2026-11-03T20:06+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
