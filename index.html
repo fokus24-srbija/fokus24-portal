@@ -21,6 +21,34 @@
 .tools{padding-top:0;border-top:0}.tools h2{font-size:14px}.tools input{border-radius:2px}
 @media(max-width:800px){.side{border-left:0}}
 @media(max-width:540px){.masthead{padding-top:20px;padding-bottom:20px}.main{padding-top:24px}.featured{padding:19px}.featured h2{font-size:29px}.category-nav button{padding:10px 12px}.story{padding:18px}.story h3{font-size:20px}.intro h1{font-size:34px}}
+
+/* TRAG 24: završna mobilna urednička korekcija */
+.category-nav{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px;overflow:visible;margin-right:0;padding-bottom:16px}
+.category-nav button{min-width:0;white-space:normal;text-align:center;border:1px solid #dce2e9;border-radius:4px;background:#fff;color:#344257;padding:11px 5px;font-size:12px;font-weight:700;line-height:1.25}
+.category-nav button.active{background:#15263b;border-color:#15263b;color:#fff}
+.featured{grid-template-columns:minmax(0,1.45fr) minmax(0,1fr)}
+.feature-main,.side-story,.story{min-width:0;overflow:hidden}
+.featured h2,.featured h3,.story h3{overflow-wrap:break-word;word-break:normal;text-transform:none;hyphens:auto}
+.feature-main h2{font-size:clamp(24px,2.8vw,34px);line-height:1.25}
+.featured img:not(.source img),.story img:not(.source img),.feature-image{display:none!important}
+.source{flex-wrap:wrap;row-gap:10px}.source a{margin-left:auto}
+@media(max-width:800px){.featured{grid-template-columns:1fr}}
+@media(max-width:540px){
+ .container{width:calc(100% - 32px)}
+ .category-nav{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-right:0}
+ .category-nav button{font-size:13px;padding:13px 6px}
+ .featured{padding:17px;display:block}
+ .featured[hidden]{display:none}
+ .feature-main h2{font-size:clamp(22px,6vw,27px);line-height:1.27;letter-spacing:-.2px}
+ .featured h3{font-size:18px}
+ .side{display:block;margin-top:17px;padding-top:17px}
+ .story{padding:17px}
+ .story h3{font-size:18px;line-height:1.35}
+ .tools{display:flex;flex-wrap:wrap;gap:12px}.tools input{width:100%;min-width:0;flex:1 1 100%}
+ .meta{flex-wrap:wrap;gap:8px}
+ .source a{white-space:normal}
+ .intro h1{font-size:32px}
+}
 </style></head><body>
 <div class="utility"><div class="container"><span>NEZAVISAN PREGLED MEDIJSKIH OBJAVA</span><span id="today"></span></div></div>
 <header class="container masthead"><div><div class="logo">TRAG <b>24</b></div><div class="tagline">SRBIJA · SVET · DOGAĐAJI</div></div><div class="edition">IZVORI UZ SVAKU VEST</div></header>
