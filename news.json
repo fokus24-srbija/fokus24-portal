@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-05T19:19:52.847843+00:00",
+  "updated_at": "2026-11-05T19:21:04.617145+00:00",
   "articles": [
+    {
+      "id": "7e2020b4a9503f1d3657",
+      "title": "Zvezdina bruka na Marakani, crveno-beli gube od tima iz Andore, ori se \"uprava napolje\"",
+      "summary": "",
+      "category": "Sport",
+      "region": "Neodređeno",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/sport/fudbal/crvena-zvezda-inter-eskaldes-uzivo-prenos-live-2026-2027-liga-konferencije-3-kolo/",
+      "published_at": "2026-11-05T19:20+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a7c98da77d285768ec75",
+      "title": "Otišla je na matursku ekskurziju i potpuno nestala: O ovom slučaju svi pričaju danima, šta se desilo s Natali?",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://ona.telegraf.rs/ona-price/4427663-otisla-je-na-matursku-ekskurziju-i-potpuno-nestala-o-ovom-slucaju-svi-pricaju-danima-sta-se-desilo-s-natali",
+      "published_at": "2026-11-05T19:20+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "194206ddcf87f003b94d",
       "title": "Ko je Vukša Dragović, branilac odlazećeg režima?",
@@ -2488,6 +2510,17 @@
       "verification_status": "preneto_iz_izvora"
     },
     {
+      "id": "efc50d5b1dc2008cf572",
+      "title": "Zašto Nemanja Šarović širi paniku?! Sledi krivična prijava: Oglasila se i Poštanska štedionica - čuvamo likvidnost",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/biznis/vesti/zasto-nemanja-sarovic-siri-paniku-oglasila-se-i-postanska-stedionica-cuvamo/5jp2mzp",
+      "published_at": "2026-11-05T17:34+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
       "id": "5503c23ea2543c4c0737",
       "title": "TUGA DO NEBA: Sahranjen fudbaler koji je preminuo posle stravičnog sudara na utakmici, poslednji pozdrav uputili mu De la Fuente i Perez",
       "summary": "",
@@ -3266,39 +3299,6 @@
       "source": "Kurir",
       "source_url": "https://www.kurir.rs/stars/10154562/jezivi-detalji-nesrece-dragana-lazica",
       "published_at": "2026-11-05T16:58+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5f4a3ac31efdcb545a41",
-      "title": "Konstrakta: Društvene okolnosti uvek utiču na naš rad, koncert smo počeli da pripremamo posle izbora",
-      "summary": "",
-      "category": "Zabava",
-      "region": "Srbija",
-      "source": "N1",
-      "source_url": "https://n1info.rs/magazin/showbiz/konstrakta-drustvene-okolnosti-uvek-uticu-na-nas-rad/",
-      "published_at": "2026-11-05T16:57+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "da6ba58bb2ebcaf96d3c",
-      "title": "Drama na jugu Srbije: Izvadio pištolj posle svađe, za dlaku izbegnuto krvoproliće",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Srbija",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/vesti/hronika/4427640-drama-na-jugu-srbije-izvadio-pistolj-posle-svadje-za-dlaku-izbegnuto-krvoprolice",
-      "published_at": "2026-11-05T16:57+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5e3a36e6f34b41016533",
-      "title": "Хиџиката победио Ечеверија за пласман у четвртфинале",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800118/sport/tenis/hidzikata-pobedio-eceverija-za-plasman-u-cetvrtfinale",
-      "published_at": "2026-11-05T16:57+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
