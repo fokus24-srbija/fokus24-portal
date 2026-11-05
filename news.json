@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-05T02:08:45.008258+00:00",
+  "updated_at": "2026-11-05T03:09:19.330277+00:00",
   "articles": [
+    {
+      "id": "404406b077920760e7af",
+      "title": "Vicepremijer Bavarske, pronađen mrtav u hotelu u Berlinu: Pokrenuta istraga",
+      "summary": "",
+      "category": "Hronika",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/svet/4427101-vicepremijer-bavarske-pronadjen-mrtav-u-hotelu-u-berlinu-pokrenuta-istraga",
+      "published_at": "2026-11-05T03:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "3bede32127e79fd92b5b",
+      "title": "ŠPANIJA DOBIJA NOVOG ŠEFA SAOBRAĆAJA: Sančez neće imenovati ministra, već će posao preuzeti njegov zamenik",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10153321/pedro-sancez-imenovao-svog-zamenika-za-vrsioca-duznosti-ministra-saobracaja",
+      "published_at": "2026-11-05T03:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0c98d420cf8ce334c789",
+      "title": "SAZNAJEMO: Uhapšen Milan Vuković Baka! Šef iz Okružnog zatvora sa načelnikom SAJ-a osumnjičen za mučenje",
+      "summary": "",
+      "category": "Hronika",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/hronika/4427042-uhapsen-milan-vukovic-baka",
+      "published_at": "2026-11-05T02:52+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9c012cd399d4a0195864",
+      "title": "Špigel: Nemačke penzije trebalo bi od jula 2027. da porastu za 4,09 odsto",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://biznis.telegraf.rs/info-biz/4427005-spigel-nemacke-penzije-trebalo-bi-od-jula-2027-da-porastu-za-409-odsto",
+      "published_at": "2026-11-05T02:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "8c7611dd6951fcef1829",
       "title": "Macura: Kompanije koje podržavaju porodicu ulažu u zadovoljnije zaposlene",
@@ -3255,50 +3299,6 @@
       "source": "RTS",
       "source_url": "https://www.rts.rs/vesti/drustvo/6076418/obranovac-gimnazija-plafon-prokisnjavanje-krov.html",
       "published_at": "2026-11-04T19:56+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "953e59d48c23d76088bc",
-      "title": "Murinjo se provukao protiv Nikolića! Golčina Valverdea u nadoknadi srušila AEK, asistencija Jovića (VIDEO)",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/sport/fudbal/1668016/murinjo-provukao-protiv-nikolica-golcina-valverdea-nadoknadi-srusila-aek-asistencija-jovica-video",
-      "published_at": "2026-11-04T19:55+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "bd21b689d218e3239c61",
-      "title": "Kakav meč u Ligi šampiona: Fenerbahče srušio Liverpul i upisao prvu pobedu (VIDEO)",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/sport/fudbal/1668020/fenerbahce-liverpul-liga-sampiona-senzacija-cudo-pobeda-izvestaj-rezultat-tabela-najnovije-vesti",
-      "published_at": "2026-11-04T19:55+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "fc7d301b29fd24071df8",
-      "title": "ĆERKA GOCE TRŽAN U PRVOM REDU NA MAMINOM KONCERTU Lena se odrekla očevog prezimena, upisala težak fakultet, pa zablistala u Sava centru u sivom (VIDEO)",
-      "summary": "",
-      "category": "Zabava",
-      "region": "Neodređeno",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/zabava/cerka-goce-trzan-u-prvom-redu-na-maminom-koncertu-odrekla-se-ocevog-prezimena/pffq8nb",
-      "published_at": "2026-11-04T19:53+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "c2091ea47fef23fbea64",
-      "title": "ЕУ спрема нове мере против Грузије, Калас упозорава на судар са Бриселом",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/799824/eu-sprema-nove-mere-protiv-gruzije-kalas-upozorava-na-sudar-sa-briselom",
-      "published_at": "2026-11-04T19:53+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
