@@ -1,6 +1,127 @@
 {
-  "updated_at": "2026-11-05T03:09:19.330277+00:00",
+  "updated_at": "2026-11-05T04:16:02.546087+00:00",
   "articles": [
+    {
+      "id": "8d9eefdb0d17061a32cd",
+      "title": "Danas oblačno i suvo, tek ponegde sa slabom kišom: Najviša dnevna do 13 °C",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4427020-danas-oblacno-i-suvo-tek-ponegde-sa-slabom-kisom-najvisa-dnevna-do-13-c",
+      "published_at": "2026-11-05T04:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "1394d5ced19bc333841d",
+      "title": "DVE OPASNE ZAMKE NA PUTEVIMA Vozači često ne shvataju koliko mogu da budu opasne, a to je kao da vozite po ledu",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/drustvo/mokro-lisce-i-blato-na-kolovozu-kao-led-saveti-za-voznju-po-kisi/b819t0j",
+      "published_at": "2026-11-05T04:12+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9dafe59b34cdbb6fe1a9",
+      "title": "PLJUŠTE OSTAVKE U OPOZICIJI NAKON IZBORA Bežanija u stranci SRCE, Stefanović udario na vrh SSP-a, lider Novog DSS-a otišao u ilegalu",
+      "summary": "",
+      "category": "Politika",
+      "region": "Neodređeno",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/politika/pljuste-ostavke-u-opoziciji-nakon-izbora-beg-u-ilegalu-odlasci-i-izbacivanje-iz/h4kg36e",
+      "published_at": "2026-11-05T04:02+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "eb2b5d1cea426b40435b",
+      "title": "\"Ima fetiš da prijateljicama skida momke\" Laura se poljubila se sa Terzom pred svima, Glorija odmah reagovala",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/jetset/rijaliti/4425924-ima-fetis-da-prijateljicama-skida-momke-laura-se-poljubila-se-sa-terzom-pred-svima-glorija-odmah-reagovala",
+      "published_at": "2026-11-05T04:01+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "554b2caea77912603503",
+      "title": "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4427017-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv",
+      "published_at": "2026-11-05T04:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b1fe68870ec485510e46",
+      "title": "Zimnica se sprema u novembru: Kupus jeftiniji nego pre dve godine, paprika 200 dinara po kilogramu",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Srbija",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/drustvo/10152981/kako-se-sprema-zimnica-troskovi-i-cene-povrca",
+      "published_at": "2026-11-05T04:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "5ff0585275814dcf49b8",
+      "title": "Građani kupuju od nekoliko stotina do više hiljada evra: Oglasili se menjači o limitu od 250 evra i kursu dinara (VIDEO)",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Srbija",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/biznis/moj-novcanik/ima-li-evra-u-menjacnicama-istina-o-ogranicenju-prodaje-na-250-evra-i-kursu-dinara/1d109mx",
+      "published_at": "2026-11-05T03:49+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "cd3888f380cbf03bed1b",
+      "title": "Izglasano 8 najlepših božićnih marketa u Evropi: Jedan je nadomak Srbije, a neke destinacije su pravo iznenađenje",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Srbija",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/drustvo/najlepsi-bozicni-marketi-u-evropi-za-zimu-202627/cqhztmd",
+      "published_at": "2026-11-05T03:37+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f6c0a86e3aa8d79285af",
+      "title": "Muzej savremene Vojvodine: Gosti iz Italije u programu Urbani rituali",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/pop-i-kultura/art/4426894-muzej-savremene-vojvodine-gosti-iz-italije-u-programu-urbani-rituali",
+      "published_at": "2026-11-05T03:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "53efd8bcee3d2f9b64e2",
+      "title": "Nvora pred Olimpijakos: \"Čuću se sa Kodijem, on je moj brat, nismo pričali mnogo...\"",
+      "summary": "",
+      "category": "Sport",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4427069-nvora-pred-olimmpijakos-cucu-se-sa-kodijem-on-je-moj-brat-nismo-pricali-mnogo",
+      "published_at": "2026-11-05T03:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "30676432e624dfff8a48",
+      "title": "(FOTO) Širi krila od 52 metra, a na skeneru je manji od vrapca! Otkrivena najveća tajna NEVIDLJIVOG UBICE koji gospodari nebom",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/svet/grdosija-od-70-tona-seje-strah-a-pvo-ga-vidi-kao-vrapca-otkrivena-tajna-bombardera-b/56m520y",
+      "published_at": "2026-11-05T03:24+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "404406b077920760e7af",
       "title": "Vicepremijer Bavarske, pronađen mrtav u hotelu u Berlinu: Pokrenuta istraga",
@@ -3178,127 +3299,6 @@
       "source": "Politika",
       "source_url": "https://www.politika.rs/scc/clanak/799827/banka-amerike-promena-vlasti-u-srbiji-ne-nosi-rizik-po-ekonomsku-stabilnost",
       "published_at": "2026-11-04T20:01+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "a6862a72f115df840cba",
-      "title": "Global fokus: Međuizbori u SAD (3.11.2026)",
-      "summary": "",
-      "category": "Politika",
-      "region": "Svet",
-      "source": "N1",
-      "source_url": "https://n1info.rs/video/global-fokus/global-fokus-medjuizbori-u-sad-3112026/",
-      "published_at": "2026-11-04T20:00+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "15e076de6ff335d19987",
-      "title": "„Nova“ piše: \"Ruski ljudi\" kao Vučićeva izvidnica",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/vesti/drustvo/nova-pise-ruski-ljudi-kao-vuciceva-izvidnica/",
-      "published_at": "2026-11-04T20:00+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "9d069e8056940dc8c579",
-      "title": "Top 5 estradnih preletača koji su \"preko noći\" podržali studente",
-      "summary": "",
-      "category": "Zabava",
-      "region": "Neodređeno",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/zabava/showbiz/top-5-estradnih-preletaca-koji-su-preko-noci-podrzali-studente/",
-      "published_at": "2026-11-04T20:00+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8fc0cb1ad024b037ea7e",
-      "title": "ŽENE VEČERAS U PONOĆ jednu stvar treba da urade za sreću: Sutra je veliki praznik, a ovaj običaj je najbitniji",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Telegraf",
-      "source_url": "https://ona.telegraf.rs/porodica-deca/4426984-zene-veceras-u-ponoc-jednu-stvar-treba-da-urade-za-srecu-sutra-je-veliki-praznik-a-ovaj-obicaj-je-najbitniji",
-      "published_at": "2026-11-04T20:00+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "a07c5b430cb0cc0fd464",
-      "title": "MISTERIOZNI OKRET, HILJADE PRAĆENJA U SVETU, POZNATI POLITIČARI, NAVODNI KOFERI SA ZLATOM Ovo je filmska priča o letu koji bi Srbiju mogao da košta milion evra",
-      "summary": "",
-      "category": "Zabava",
-      "region": "Srbija",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10153476/misterija-leta-beograd-moskva-ko-ce-da-plati-stetu-od-milion-evra",
-      "published_at": "2026-11-04T20:00+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "0aab064dd4d415e0078a",
-      "title": "БИА: Тврдње о наводно противправном поступању лажне, тенденциозне и злонамерне",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "RTS",
-      "source_url": "https://www.rts.rs/vesti/hronika/6076588/bia-prisluskivanje-saopstenje.html",
-      "published_at": "2026-11-04T20:00+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "3b830886d9a0940f50be",
-      "title": "„Potpuni poraz Trampove politike“: Sagovornici Danasa o pobedi demokrata na izborima za Kongres SAD",
-      "summary": "",
-      "category": "Politika",
-      "region": "Svet",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/svet/sagovornici-danasa-o-pobedi-demokrata-na-izborima-za-kongres-sad-tramp/",
-      "published_at": "2026-11-04T19:59+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "1f50e6b1df96b2c421c4",
-      "title": "KOMENTAR SENZACIONALNOG DANA U PARIZU: Šta se to desilo sa favoritima?",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Svet",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/tenis/10153642/sta-se-to-desilo-danas-u-teniskom-parizu",
-      "published_at": "2026-11-04T19:59+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "f3308be524365d2e7326",
-      "title": "Амерички суд одбацио све оптужбе против руске истраживачице Ксеније Петрове",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/799826/americki-sud-odbacio-sve-optuzbe-protiv-ruske-istrazivacice-ksenije-petrove",
-      "published_at": "2026-11-04T19:59+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "54131fd60afd36d54a15",
-      "title": "Evroligaš napustio Beograd i poslao oproštajnu poruku, evo gde će ubuduće biti \"domaćin\"",
-      "summary": "",
-      "category": "Ekonomija",
-      "region": "Srbija",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/sport/kosarka/makabi-tel-aviv-napustio-beograd-poslao-oprostajnu-poruku-domacin-kipar/",
-      "published_at": "2026-11-04T19:57+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "dc1a98d7b57d8a904f50",
-      "title": "Сала без плафона, мокри зидови и кофе као спас – због чега су ђаци обреновачке гимназије на онлајн настави",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "RTS",
-      "source_url": "https://www.rts.rs/vesti/drustvo/6076418/obranovac-gimnazija-plafon-prokisnjavanje-krov.html",
-      "published_at": "2026-11-04T19:56+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
