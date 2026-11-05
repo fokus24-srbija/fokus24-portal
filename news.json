@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-11-04T23:57:14.224563+00:00",
+  "updated_at": "2026-11-05T00:59:07.401812+00:00",
   "articles": [
+    {
+      "id": "af65c0e46f16dbeb4f1a",
+      "title": "Казахстан: до 2035. изградња две нуклеарне електране",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799883/kazahstan-do-2035-izgradnja-dve-nuklearne-elektrane",
+      "published_at": "2026-11-05T00:43+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "183fb6063cc651f61869",
+      "title": "VELIKE VESTI ZA DARKA RAJAKOVIĆA! Lenard završio terapije, Toronto čeka povratak najveće zvezde!",
+      "summary": "",
+      "category": "Sport",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/kosarka/10153069/lenard-sve-blizi-povratku-na-parket",
+      "published_at": "2026-11-05T00:33+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "5abbed9a082e73175694",
+      "title": "Studenti u Albaniji menjaju strategiju protesta: Zna se kada je sledeće veliko okupljanje",
+      "summary": "",
+      "category": "Politika",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/svet/4427021-studenti-u-albaniji-menjaju-strategiju-protesta-zna-se-kada-je-sledece-veliko-okupljanje",
+      "published_at": "2026-11-05T00:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0f41dec2e80269dfbcc2",
+      "title": "Inflacija u evrozoni oborila rekord: Skočila na 4 odsto, najviši nivo u poslednje tri godine",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://biznis.telegraf.rs/info-biz/4426809-inflacija-u-evrozoni-oborila-rekord-skocila-na-4-odsto-najvisi-nivo-u-poslednje-tri-godine",
+      "published_at": "2026-11-05T00:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "db3be930122ea2e36499",
+      "title": "Kupusijada u Glogonju: Žene iz Opova osvojile pobednički pehar",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/srbija/10153130/glogonjska-jesen-2026-opovcanke-osvojile-prvo-mesto-za-najlepsi-stand",
+      "published_at": "2026-11-05T00:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "397b88e6175770039b12",
+      "title": "Јулија Мендел: Зеленски не жели да се рат заврши",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799879/julija-mendel-zelenski-ne-zeli-da-se-rat-zavrsi",
+      "published_at": "2026-11-05T00:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "9593ccfd613a7a3b424f",
+      "title": "„Пустињски пацови” вежбају да спреме савезнике за завршетак рата са Русијом",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/799877/pustinjski-pacovi-vezbaju-da-spreme-saveznike-za-zavrsetak-rata-sa-rusijom",
+      "published_at": "2026-11-04T23:58+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "03bde99993132ec46839",
+      "title": "Makron: \"Sastanci EU su depresivni, nedostaju mi Angela Merkel i Mario Dragi\"",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/svet/4427095-makron-sastanci-eu-su-depresivni-nedostaju-mi-angela-merkel-i-mario-dragi",
+      "published_at": "2026-11-04T23:57+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "ddff6e43ad2e345ef4b6",
       "title": "Ostalo vam je drva od prošle zime? Nikako ne kupujte nova dok ne proverite ovo",
@@ -20,6 +108,17 @@
       "region": "Srbija",
       "source": "Danas",
       "source_url": "https://www.danas.rs/vesti/drustvo/vreme-danas-oblacno-i-uglavnom-suvo/",
+      "published_at": "2026-11-04T23:51+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "c6c296adab701028cf9a",
+      "title": "AMERIČKI MARINAC POGINUO U JAPANU! Tragedija nakon incidenta na Okinavi",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10153284/americki-marinac-poginuo-nakon-incidenta-na-obuci-u-japanu",
       "published_at": "2026-11-04T23:51+00:00",
       "verification_status": "preneto_iz_izvora"
     },
@@ -757,6 +856,17 @@
       "region": "Svet",
       "source": "Novosti",
       "source_url": "https://www.novosti.rs/sport/fudbal/1668060/komo-ispisao-istoriju-lige-sampiona-italijani-razbili-lans-postavili-impresivan-rekord",
+      "published_at": "2026-11-04T22:17+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "65a9aa7a035ab1280e13",
+      "title": "Totalna ludnica u Ligi šampiona i veče za pamćenje: Komo sa devet golova ponizio Lans, Siti posle drame srušio Lajpcig",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/sport/fudbal/uzivo-prenos-liga-sampiona-4-kolo-sezona-2026-27-lajpcig-mancester-siti/",
       "published_at": "2026-11-04T22:17+00:00",
       "verification_status": "preneto_iz_izvora"
     },
@@ -2653,6 +2763,17 @@
       "verification_status": "preneto_iz_izvora"
     },
     {
+      "id": "8172cbb37c8b4048ae07",
+      "title": "Око: Брисел очекује заокрет, али Београд и даље дели питање Косова и Метохије од реформи",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "RTS",
+      "source_url": "https://www.rts.rs/vesti/politika/6076614/oko-brisel-ocekuje-zaokret-ali-beograd-i-dalje-deli-pitanje-kosova-i-metohije-od-reformi.html",
+      "published_at": "2026-11-04T20:16+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
       "id": "25ee29763b2aca981886",
       "title": "Šumer: Demokrate će okončati rat u Iranu kroz ovlašćenje odlučivanja o američkom budžetu",
       "summary": "",
@@ -3178,127 +3299,6 @@
       "source": "Telegraf",
       "source_url": "https://www.telegraf.rs/vesti/svet/4425937-tamara-imran-ubijena-u-akri-verenik-osumnjicen-za-zlocin",
       "published_at": "2026-11-04T19:51+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "c2787f0c31072d76dc67",
-      "title": "U Srbiji od migrene boluje milion građana",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Srbija",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/zivot/zdravlje/u-srbiji-od-migrene-boluje-milion-gradjana/",
-      "published_at": "2026-11-04T19:49+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "12e7c47586bb40f751b3",
-      "title": "Tuga Marka Nikolića protiv Real Madrida: Dva puta vodio, na kraju poražen u nadoknadi vremena...",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/sport/fudbal/4427039-tuga-marka-nikolica-protiv-real-madrida-dva-puta-vodio-na-kraju-porazen-u-nadoknadi-vremena",
-      "published_at": "2026-11-04T19:46+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "cb64a51dc4ef66ab20c2",
-      "title": "GOLMAN KOJI JE IZAZVAO NEZAPAMĆENU TRAGEDIJU SE OGLASIO PRVI PUT! Njegove reči ODJEKUJU PLANETOM, evo šta je rekao posle SMRTI mladog fudbalera!",
-      "summary": "",
-      "category": "Sport",
-      "region": "Neodređeno",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/fudbal/10153637/hesus-ovono-se-oglasio-prvi-put-posle-tragedije",
-      "published_at": "2026-11-04T19:46+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "5ff8bf45430992386acb",
-      "title": "Бум вештачке интелигенције: амерички произвођач чипова готово удвостручио добит",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/799823/bum-vestacke-inteligencije-americki-proizvodac-cipova-gotovo-udvostrucio-dobit",
-      "published_at": "2026-11-04T19:46+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "e3ce516f1ab9186ddaf0",
-      "title": "Glumac Lazar Dragojević optužio direktorku Gradskog pozorišta za klevetu: Tvrdi da ga je nazvala narkomanom i alkoholičarem, skandal u Crnoj Gori!",
-      "summary": "",
-      "category": "Hronika",
-      "region": "Srbija",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/zabava/kultura/10153634/glumac-lazar-dragojevic-reakcija-na-uvrede-direktorke-gradskog-pozorista-podgorica",
-      "published_at": "2026-11-04T19:45+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "9c6cd6da8f79ddbe90df",
-      "title": "PAVLOVIĆ PRESKAČE FERENCVAROŠ: Srpski reprezentativac propušta meč Lige Evrope, evo o čemu se radi...",
-      "summary": "",
-      "category": "Ekonomija",
-      "region": "Neodređeno",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/fudbal/10153635/pavlovic-propustio-trening-milana",
-      "published_at": "2026-11-04T19:45+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6a14a8cb94f0044fbc8c",
-      "title": "MITROVIĆ STIGAO KOD TRAMPA! Mitrović otkrio šta će raditi u njegovoj rezidenciji: Imam tri važna sastanka",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Svet",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/stars/10153632/zeljko-mitrovic-stigao-kod-trampa",
-      "published_at": "2026-11-04T19:45+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "b612030fa599181e7cc3",
-      "title": "\"SRBIJA POSTALA BANANA DRŽAVA\" Vučić navodi da je napravljeno milion evra štete",
-      "summary": "",
-      "category": "Ekonomija",
-      "region": "Srbija",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/vesti/politika/1668017/srbija-postala-banana-drzava-vucic-navodi-napravljeno-milion-evra-stete",
-      "published_at": "2026-11-04T19:43+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "2318d0d16d734e64f4f4",
-      "title": "Liga šampiona: AEK-u nedovoljno ni to što je dva puta vodio protiv Reala, dok je Fener šokirao šestostrukog prvaka DEvrope",
-      "summary": "",
-      "category": "Sport",
-      "region": "Svet",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/sport/liga-sampiona-aek-real-fener-liverpul/",
-      "published_at": "2026-11-04T19:42+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "61eb487e23284c0a76f3",
-      "title": "\"NADAM SE DA ĆE NOVA VLADA ISPUNITI SVOJA OBEĆANJA\" Ambasador EU o izborima u Srbiji i evrointegracijama: \"Uslovi za članstvo ostaju isti\"",
-      "summary": "",
-      "category": "Ekonomija",
-      "region": "Neodređeno",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/politika/ambasador-eu-o-izborima-u-srbiji-nadam-se-da-ce-nova-vlada-ispuniti-obecanja/d4zx8yx",
-      "published_at": "2026-11-04T19:42+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "299d5de60dd1b4eec826",
-      "title": "\"U SLEDEĆIH MESEC DANA IMAĆEMO SKUPŠTINU I VLADU\" Šoškić o mogućnosti da postane premijer: \"Razmislio bih o funkciji mandatara ako me predlože studenti\"",
-      "summary": "",
-      "category": "Politika",
-      "region": "Srbija",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/politika/soskic-o-mogucnosti-da-postane-premijer-za-mesec-dana-cemo-imati-skupstinu-i-vladu/dbnmhll",
-      "published_at": "2026-11-04T19:42+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
