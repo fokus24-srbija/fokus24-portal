@@ -25,6 +25,8 @@ FEEDS = {
 
 def category(title):
     s = title.casefold()
+    if any(w in s for w in ('vremenska prognoza', 'vremenske prilike', 'vreme danas', 'vreme sutra', 'temperatur', 'meteorolo', 'rhmz', 'nevreme', 'pljuskov', 'grmljavin', 'sneg', 'mraz', 'toplotni talas')):
+        return 'Vreme'
     if any(w in s for w in ('uhap', 'hapšen', 'hapsen', 'pritvor', 'tužila', 'tuzila', 'policij', 'istrag', 'optuž', 'optuz', 'ubist', 'nesreć', 'nesrec', 'požar', 'pozar', 'sud')):
         return 'Hronika'
     if any(w in s for w in ('fudbal', 'košark', 'kosark', 'tenis', 'đoković', 'djokovic', 'jokić', 'jokic', 'zvezd', 'partizan', 'utakmic', 'liga šampion', 'olimpij', 'sport')):
