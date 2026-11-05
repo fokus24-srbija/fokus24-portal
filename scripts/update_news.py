@@ -20,6 +20,7 @@ FEEDS = {
     'Kurir': 'https://www.kurir.rs/rss',
     'Novosti': 'https://www.novosti.rs/rss/57%7C25%7C49%7C56%7C33%7C19%7C34%7C20%7C18%7C32%7C58%7C45%7C16%7C31%7C50%7C5%7C1%7C3%7C26%7C52%7C2%7C6%7C55%7C35%7C4%7C9%7C8%7C7%7C51%7C12%7C47%7C46%7C30%7C53%7C14%7C13%7C11%7C15%7C10%7C48%7C36%7C54%7C61-Sve%20vesti',
     'Politika': 'https://www.politika.rs/rss',
+    'Informer': 'https://informer.rs/rss',
 }
 
 
