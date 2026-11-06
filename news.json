@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-06T02:09:33.202921+00:00",
+  "updated_at": "2026-11-06T03:08:52.676132+00:00",
   "articles": [
+    {
+      "id": "ddde0ac6bbc5e163f5d7",
+      "title": "AMERIKA VELIKA PRETNJA ZA SVETSKI MIR? Britanci izneli stav: SAD opasniji od Kine, a evo gde je Rusija na ovoj listi!",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10153762/britanci-smatraju-sad-najvecom-pretnjom-miru",
+      "published_at": "2026-11-06T03:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "0cc0061f81f34eb90240",
+      "title": "Obuka pripadnika vojne policije u rukovanju daljinski pilotiranim vazduhoplovima",
+      "summary": "",
+      "category": "Hronika",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4427679-obuka-pripadnika-vojne-policije-u-rukovanju-daljinski-pilotiranim-vazduhoplovima",
+      "published_at": "2026-11-06T02:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "3a411fa58d552315b88a",
       "title": "SRBIN BLISTA KOD SAŠE OBRADOVIĆA! Pohvalio bivšeg trenera Zvezde, pa progovorio o reprezentaciji: \"Ako stigne, odazvaću se!\"",
@@ -3277,28 +3299,6 @@
       "source": "Politika",
       "source_url": "https://www.politika.rs/scc/clanak/800180/u-srbiji-ima-skoro-deset-hiljada-elektricnih-vozila",
       "published_at": "2026-11-05T20:06+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "c4500468e524de36e619",
-      "title": "VIDEO Evo kako je Zvezda u nadoknadi srušila tim iz Andore: Mnogo sreće za crveno-bele i autogol koji će se pamtiti",
-      "summary": "",
-      "category": "Sport",
-      "region": "Srbija",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/sport/fudbal/video-crvena-zvezda-inter-eskaldes-gol-za-pobedu/",
-      "published_at": "2026-11-05T20:05+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "bae19a144d2edef61c97",
-      "title": "OD VEČERAS POČINJE ODBROJAVANJE Ispunjen prvi korak ka formiranju Skupštine i Vlade, evo šta dalje sledi: Dva roka, Dontov sistem i jedno važno pravilo",
-      "summary": "",
-      "category": "Politika",
-      "region": "Neodređeno",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10154660/rokovi-za-formiranje-vlade-i-skupstine",
-      "published_at": "2026-11-05T20:04+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
