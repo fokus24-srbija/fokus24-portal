@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-11-06T01:00:26.966351+00:00",
+  "updated_at": "2026-11-06T02:09:33.202921+00:00",
   "articles": [
+    {
+      "id": "3a411fa58d552315b88a",
+      "title": "SRBIN BLISTA KOD SAŠE OBRADOVIĆA! Pohvalio bivšeg trenera Zvezde, pa progovorio o reprezentaciji: \"Ako stigne, odazvaću se!\"",
+      "summary": "",
+      "category": "Sport",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/kosarka/10154186/miletic-o-pozivu-srbije-i-saradnji-sa-sasom-obradovicem",
+      "published_at": "2026-11-06T02:04+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "344bc662b92fec7e0db6",
+      "title": "Macura: Podrška ženama koje su preživele nasilje važan korak ka bezbednijem društvu",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/4427674-macura-podrska-zenama-koje-su-prezivele-nasilje-vazan-korak-ka-bezbednijem-drustvu",
+      "published_at": "2026-11-06T02:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "cc8759dfc32c7827d32d",
+      "title": "PAŠINJAN PORUČIO: \"Interesovanje Jermenije za ODKB je prošlo\", stigao mu odgovor! Moguća kontramera primenom člana 25 Povelje ovog vojnog saveza na tu zemlju",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10154279/pasinjan-interesovanje-jermenije-za-odkb-je-proslo",
+      "published_at": "2026-11-06T02:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "3f50cf203f5b4240336a",
+      "title": "Ovih 6 pića može imati više šećera od krofne: Jedno mnogi piju misleći da je zdravo",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://ona.telegraf.rs/fitnes-i-zdravlje/4425679-ovih-6-pica-moze-imati-vise-secera-od-krofne-jedno-mnogi-piju-misleci-da-je-zdravo",
+      "published_at": "2026-11-06T01:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b873d5c890b6baf13ae9",
+      "title": "Rafinja produžio ugovor sa Barselonom do 2030. godine: \"Hoću ovde da završim karijeru\"",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/fudbal/4427633-rafinja-produzio-ugovor-sa-barselonom-do-2030-godine-hocu-ovde-da-zavrsim-karijeru",
+      "published_at": "2026-11-06T01:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "82cb0af8a195c781af48",
+      "title": "Пре подне облачно, потом разведравање, температуре до 14 степени",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/800238/pre-podne-oblacno-potom-razvedravanje-temperature-do-14-stepeni",
+      "published_at": "2026-11-06T01:07+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "966e383b1721f0fbcf6a",
+      "title": "Banka Engleske povećala kamatnu stopu zbog rasta inflacije",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://biznis.telegraf.rs/info-biz/4427530-banka-engleske-povecala-kamatnu-stopu-zbog-rasta-inflacije",
+      "published_at": "2026-11-06T01:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "820a366ed1f9e1702a3e",
+      "title": "BIVŠI ČLAN POLITBIROA PRED TUŽIOCIMA Terete ga da je zloupotrebio položaj i primao mito - Velika akcija u Kini",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10153936/bivsi-clan-kineskog-politbiroa-ma-singrui-optuzen-za-primanje-mita",
+      "published_at": "2026-11-06T01:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "1feb43ee8666a1ba20b1",
       "title": "Зеленски о безбедносним гаранцијама",
@@ -3211,94 +3299,6 @@
       "source": "Kurir",
       "source_url": "https://www.kurir.rs/vesti/politika/10154660/rokovi-za-formiranje-vlade-i-skupstine",
       "published_at": "2026-11-05T20:04+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "0f08f47960fbdf341640",
-      "title": "\"HAPSITE POLICAJCE, A NE REKETAŠE KOJI SE BAVE KRIMINALOM\" Vučić: Tako izgleda ta vaša \"vladavina prava\"",
-      "summary": "",
-      "category": "Politika",
-      "region": "Srbija",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/politika/10154658/aleksandar-vucic-o-hapsenju-policajaca",
-      "published_at": "2026-11-05T20:04+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "c44c5f8c064511535b0d",
-      "title": "Fudbaleri Zvezde pred Severom: Evo šta su Delije tražile od njih! (VIDEO)",
-      "summary": "",
-      "category": "Sport",
-      "region": "Neodređeno",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/sport/fudbal/1668445/zvezda-delije-poruka-posle-pobeda-inter-eskaldes-igraci-crveno-belih-izasli-pred-navijace-evo-sta-trazili",
-      "published_at": "2026-11-05T20:04+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8a8c301cc5520b18ed11",
-      "title": "Liga konferencija: Komičan autogol zapečatio blamažu Hajduka",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/sport/liga-konferencija-komican-autogol-zapecatio-blamazu-hajduka/",
-      "published_at": "2026-11-05T20:03+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "91628fe3b006fa9f2a2e",
-      "title": "Lučić blista nakon pobede: Jedva sam čekao trenerov poziv, molio sam Boga da lopta uđe u gol",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/sport/fudbal/4427727-lucic-blista-nakon-pobede-jedva-sam-cekao-trenerov-poziv-molio-sam-boga-da-lopta-udje-u-gol",
-      "published_at": "2026-11-05T20:03+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "d39e726da9d7bd78c2da",
-      "title": "Нови талас незадовољства у Француској – десетине хиљада грађана тражи веће плате и боље образовање",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "RTS",
-      "source_url": "https://www.rts.rs/vesti/svet/6077495/novi-talas-nezadovoljstva-u-francuskoj--desetine-hiljada-gradjana-trazi-vece-plate-i-bolje-obrazovanje.html",
-      "published_at": "2026-11-05T20:02+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "90ce5a803cd4c1a0f1ed",
-      "title": "Vojska Nigerije: Nema primirja sa Islamskom državom i Boko Haramom",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/svet/vojska-nigerija-islamska-drzava-boko-haram/",
-      "published_at": "2026-11-05T20:02+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "53b77282e236bf8e4151",
-      "title": "(VIDEO) \"SA PAŽNJOM SAM ČITAO NOVI PROGRAM U ZDRAVSTVU\" Vučić: \"Ako se ovakvo ponašanje nastavi, liste čekanja nikada neće biti rešene\"",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Srbija",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/drustvo/vucic-o-programu-studentske-liste-za-zdravstvo-liste-cekanja-nece-biti-resene-video/wp6wcfb",
-      "published_at": "2026-11-05T20:02+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "4aa280ba1025725a4495",
-      "title": "Svih 548 osuđenika na smrt u Kaliforniji dobiće doživotu robiju! Guverner Njusom preinačio kazne",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/vesti/svet/4427702-svih-548-osudjenika-na-smrt-u-kaliforniji-dobice-dozivotu-robiju-guverner-njusom-preinacio-kazne",
-      "published_at": "2026-11-05T20:02+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
