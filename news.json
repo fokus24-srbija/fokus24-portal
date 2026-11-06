@@ -1,6 +1,116 @@
 {
-  "updated_at": "2026-11-06T03:08:52.676132+00:00",
+  "updated_at": "2026-11-06T04:14:59.466822+00:00",
   "articles": [
+    {
+      "id": "3ff59bd50fc04f5c20dd",
+      "title": "HITNO: Nestao Boban Đorđević (10) u Sm. Palanci, aktiviran „Pronađi me“! Ako ga vidite, zovite 192",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4427792-hitno-nestao-boban-djordjevic-10-u-sm-palanci-aktiviran-pronadji-me-ako-ga-vidite-zovite-192",
+      "published_at": "2026-11-06T04:13+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "7d099eedf116cc6ec640",
+      "title": "NESTAO DEČAK U SMEDEREVSKOJ PALANCI, AKTIVIRAN SISTEM \"PRONAĐI ME\"! Mali Boban Đorđević (10) išetao iz dečijeg dispanzera, od tada mu se gubi svaki trag",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/vesti/drustvo/10154761/nestao-decak-boban-djordjevic-aktiviran-sistem-pronadji-me",
+      "published_at": "2026-11-06T04:08+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "b76d9bd3e9a04a4a743b",
+      "title": "(FOTO) Zabeležen neverovatan fenomen u Deliblatskoj peščari: Nakon požara DRVEĆE POČELO DA \"KRVARI\": Stručnjaci otkrivaju kako do ovoga dolazi",
+      "summary": "",
+      "category": "Hronika",
+      "region": "Neodređeno",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/drustvo/drvece-pocelo-da-krvari-snimljen-neverovatan-fenomen-u-deliblatskoj-pescari/vzj1pm8",
+      "published_at": "2026-11-06T04:04+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "8b1c42b576a26c09ddee",
+      "title": "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4427680-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv",
+      "published_at": "2026-11-06T04:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "7de82c84446c3288946f",
+      "title": "MEDVED UBIO MAJKU I KĆERKU TOKOM ŠETNJE PO ŠUMI: Ista zver iskasapila đake prošle godine? U toku velika potera, oglasili se nadležni",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10153801/medved-ubio-dve-zene-u-kanadi-ista-zver-napala-i-djake-prosle-godine",
+      "published_at": "2026-11-06T04:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "c14d5bf1c0cd062cf88f",
+      "title": "Spor oko taksi kvota u Beogradu: Tvrde da se dele preko veze: \"Dok mi godinama čekamo na tablice, firme preko noći dobijaju stotine dozvola\"",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Srbija",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/biznis/vesti/kvote-za-taksi-vozila-u-beogradu-kako-se-izdaju-dozvole/djrhx3x",
+      "published_at": "2026-11-06T03:54+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "334b7d00585698b61d75",
+      "title": "Ovo je PUTINOVA NAJVEĆA OPSESIJA i sada preti da ZAPALI celu Evropu",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Svet",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/svet/zasto-putin-kaze-da-bi-rusija-prestala-da-postoji-ako-izgubi-u-ukrajini/pn9q5jq",
+      "published_at": "2026-11-06T03:38+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f3c5575338eba03b9548",
+      "title": "Partizanska knjiga saopštila tri rukopisa u najužem izboru za nagradu \"Jovan Popović\"",
+      "summary": "",
+      "category": "Sport",
+      "region": "Srbija",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/pop-i-kultura/knjige-stripovi/4427392-partizanska-knjiga-saopstila-tri-rukopisa-u-najuzem-izboru-za-nagradu-jovan-popovic",
+      "published_at": "2026-11-06T03:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "bcc6de381e9420f94e2b",
+      "title": "Jubilarno 50. prvenstvo sveta u sambu u znaku Fjodora Jemeljanjenka i Islama Mahačeva",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/fight-club/4427632-jubilarno-50-prvenstvo-sveta-u-sambu-u-znaku-fjodora-jemeljanjenka-i-islama-mahaceva",
+      "published_at": "2026-11-06T03:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "51e64ac7ad2206abf31e",
+      "title": "(VIDEO) \"NEMA TIH PARA...\" Saša bi radije ostao beskućnik nego se odrekao svoje KOKO: Kada je završio u bolnici, nepomično ga je čekala na ulici koja je njihov dom",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Blic",
+      "source_url": "https://www.blic.rs/vesti/drustvo/sasa-bi-radije-ostao-beskucnik-nego-se-odrekao-svog-psa-koko-prica-iz-novog-sada-koja/kqn3wqj",
+      "published_at": "2026-11-06T03:24+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "ddde0ac6bbc5e163f5d7",
       "title": "AMERIKA VELIKA PRETNJA ZA SVETSKI MIR? Britanci izneli stav: SAD opasniji od Kine, a evo gde je Rusija na ovoj listi!",
@@ -3189,116 +3299,6 @@
       "source": "N1",
       "source_url": "https://n1info.rs/vesti/clan-rik-a-nadlezna-tuzilastva-i-policija-da-ispitaju-sumnje-u-mogucu-kupovinu-glasova/",
       "published_at": "2026-11-05T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "651fbd83178426e0bd91",
-      "title": "Rade Krunić nikada opširniji posle drame na Marakani: \"Iskreno, da ne uvredim sada nikoga...\"",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/sport/fudbal/4427732-rade-krunic-nikada-opsirniji-posle-drame-na-marakani-iskreno-da-ne-uvredim-sada-nikoga",
-      "published_at": "2026-11-05T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "0d0c539dd314efd61978",
-      "title": "ESTRADNI KREM NA CRVENOM TEPIHU Pevačica pokazala 10 godina mlađeg momka, njoj trebalo 3,5 sata da se spremi, a tek da vidite ostale...",
-      "summary": "",
-      "category": "Zabava",
-      "region": "Srbija",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/stars/10154667/estrada-na-crvenom-tepihu",
-      "published_at": "2026-11-05T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6716a0c92da56fdfa829",
-      "title": "MASAKR U TRI SELA U TURSKOJ: Napadač ubio osam osoba, pa pobegao (VIDEO)",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Svet",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/planeta/10154665/masakr-u-tri-sela-u-turskoj-osmoro-poginulih",
-      "published_at": "2026-11-05T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "62b1ae9c0c14cf1f3320",
-      "title": "Hrvati se propisno obrukali na Gibraltaru: Presudio im komičan autogol reprezentativca BiH",
-      "summary": "",
-      "category": "Hronika",
-      "region": "Neodređeno",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/sport/fudbal/4427730-hrvati-se-propisno-obrukali-na-gibraltaru-presudio-im-komican-autogol-reprezentativca-bih",
-      "published_at": "2026-11-05T20:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "e71fcdef037132187e7a",
-      "title": "Krunić nezadovoljan posle pobede Zvezde: „Tužan sam što smo ovako završili utakmicu“",
-      "summary": "",
-      "category": "Sport",
-      "region": "Neodređeno",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/sport/fudbal/1668446/krunic-nezadovoljan-posle-pobede-zvezde-tuzan-sam-sto-smo-ovako-zavrsili-utakmicu",
-      "published_at": "2026-11-05T20:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "73bdd283163820ad5cbb",
-      "title": "Војска Нигерије: Нема примирја са Боко Харамом и Исламском државом",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800181/vojska-nigerije-nema-primirja-sa-boko-haramom-i-islamskom-drzavom",
-      "published_at": "2026-11-05T20:09+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "df16ae0802d82d8f09df",
-      "title": "Sledi seča stranačkih kadrova u državnim firmama: Na meti direktori i članovi nadzornih odbora u Srbijagasu, Pošti, Er Srbiji, Jugoimportu…",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Srbija",
-      "source": "Nova.rs",
-      "source_url": "https://nova.rs/vesti/biznis/mol-dobio-dozvolu-ofac-a-za-pocetak-preuzimanja-nis-a/",
-      "published_at": "2026-11-05T20:08+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "4bafe4c90df64c6cecd6",
-      "title": "\"DOŠLA SAM NA ŠTAKAMA DA POGLEDAM U OČI ČOVEKA ZBOG KOG MOJE ISKRE VIŠE NEMA\" Potresno svedočenje majke devojčice (3) koja je poginula kod Niša: \"Vozio je 150 NA SAT!\" (FOTO)",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Srbija",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/hronika/majka-devojcice-iskre-koja-je-poginula-kod-nisa-na-stakama-dosla-u-sud-da-bi/veng6wj",
-      "published_at": "2026-11-05T20:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "8e1593960a4435fa1769",
-      "title": "OVO SU KONAČNI REZULTATI IZBORA U SRBIJI Oglasio se RIK: Evo koliko tačno mandata ima \"Studentska lista\", a koliko \"Ujedinjena Srbija\" (VIDEO)",
-      "summary": "",
-      "category": "Politika",
-      "region": "Srbija",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/politika/rik-objavio-konacne-rezultate-izbora-u-srbiji/ej67fke",
-      "published_at": "2026-11-05T20:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "3a02aa4157e334f2cd29",
-      "title": "У Србији има скоро десет хиљада електричних возила",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800180/u-srbiji-ima-skoro-deset-hiljada-elektricnih-vozila",
-      "published_at": "2026-11-05T20:06+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
