@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-11-07T03:22:28.088002+00:00",
+  "updated_at": "2026-11-07T04:26:13.779979+00:00",
   "articles": [
+    {
+      "id": "7f4c43c051158300d2a0",
+      "title": "Subotnje jutro donosi mraz i maglu, popodne nas čeka PREOKRET",
+      "summary": "",
+      "category": "Vreme",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4428460-subotnje-jutro-donosi-mraz-i-maglu-popodne-nas-ceka-preokret",
+      "published_at": "2026-11-07T04:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "75607d6b58a1840a4027",
+      "title": "DRAMA U RIJECI: Muškarcu oteli telefon, pretili mu muškarac, žena i maloletnik, pa ga odvezli u drugi stan",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/region/hrvatska/10155296/istraga-o-protivpravnom-lisenju-slobode-u-rijeci",
+      "published_at": "2026-11-07T04:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "2672a4ed4b5215d75d57",
+      "title": "Učinite dobro delo! Evo gde danas možete dati krv",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4428399-ucinite-dobro-delo-evo-gde-danas-mozete-dati-krv",
+      "published_at": "2026-11-07T04:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "f9370b5511ae258b695f",
+      "title": "IRAK DEMANTOVAO TVRDNJE O VAZDUŠNOM PROSTORU: Nije bilo zatvaranja, u pitanju vojna vežba",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10155231/irak-demantuje-zatvaranje-vazdusnog-prostora",
+      "published_at": "2026-11-07T04:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "aa1c6a8165f78af54bcd",
+      "title": "Do 29. novembra u Galeriji Štab izlaže 16 umetnika iz Srbije i Mađarske",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Srbija",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/pop-i-kultura/art/4428278-do-29-novembra-u-galeriji-stab-izlaze-16-umetnika-iz-srbije-i-madjarske",
+      "published_at": "2026-11-07T03:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "61fce9d6525fd3f5dd03",
+      "title": "Beograd domaćin Evropskog prvenstva u novembru!",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/ostali-sportovi/4428413-beograd-domacin-evropskog-prvenstva-u-novembru",
+      "published_at": "2026-11-07T03:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "676e853fbd66089ecbe2",
       "title": "POLICIJSKA AKCIJA U SARAJEVU: Uhapšen mladić",
@@ -3233,72 +3299,6 @@
       "source": "Kurir",
       "source_url": "https://www.kurir.rs/sport/tenis/10155661/pegula-izvredjala-andrejevu",
       "published_at": "2026-11-06T20:15+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "b7ef85f5d544a62c9c6d",
-      "title": "MOSKVA NAORUŽAVA TEHERAN MOĆNIM PVO SISTEMIMA: Iran i Rusija vode pregovore o isporuci naprednih S-400",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Svet",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/planeta/10155662/iran-i-rusija-vode-pregovore-o-isporuci-pvo-sistema-s-400",
-      "published_at": "2026-11-06T20:15+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "7234db124a13e4e5fc8b",
-      "title": "Studenti Akademije umetnosti u Novom Sadu traže ostavku dekana",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/drustvo/studenti-akademije-umetnosti-u-novom-sadu-traze-ostavku-dekana/",
-      "published_at": "2026-11-06T20:14+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "626fb4cb35774e44b97b",
-      "title": "Јанковић: Нема аналогије у стању Алта банке пре стечаја и Банке Поштанска штедионица",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800511/jankovic-nema-analogije-u-stanju-alta-banke-pre-stecaja-i-banke-postanska-stedionica",
-      "published_at": "2026-11-06T20:13+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "24e77bdd5c25155e0a16",
-      "title": "Tijafo preko tuđih leđa stigao do istorijske vize za Torino, ostalo još samo jedno mesto",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/sport/tenis/4428446-tijafo-preko-tudjih-ledja-stigao-do-istorijskog-vize-za-torino-ostalo-jos-samo-jedno-mesto",
-      "published_at": "2026-11-06T20:12+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "305c5ade09ed65df8680",
-      "title": "TRAMP OTPUSTIO ŠEFICU KABINETA BELE KUĆE Bura u SAD nakon debakla republikanaca na izborima: Evo ko preuzima funkciju",
-      "summary": "",
-      "category": "Politika",
-      "region": "Svet",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/vesti/svet/tramp-otpustio-seficu-kabineta-bele-kuce-suzi-vajls/vvjm3mv",
-      "published_at": "2026-11-06T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "15e7907b2a4cefa0ac99",
-      "title": "Naša poznata glumica RODILA BLIZANCE U 45. GODINI, a sad pokazala koliko su porasli! Đurđa i Momčilo napunili 8 meseci: Slika iz doma topi srca",
-      "summary": "",
-      "category": "Zabava",
-      "region": "Svet",
-      "source": "Blic",
-      "source_url": "https://www.blic.rs/zabava/nasa-glumica-rodila-blizance-u-45-godini-djurdja-i-momcilo-napunili-8-meseci/w562tm4",
-      "published_at": "2026-11-06T20:11+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
