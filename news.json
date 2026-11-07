@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-07T01:36:24.270233+00:00",
+  "updated_at": "2026-11-07T02:23:52.026356+00:00",
   "articles": [
+    {
+      "id": "5f5f88195082685ef1d7",
+      "title": "U Domu garde promovisana nova generacija podoficira Vojske Srbije",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Srbija",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/srbija/4428397-u-domu-garde-promovisana-nova-generacija-podoficira-vojske-srbije",
+      "published_at": "2026-11-07T02:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "e65911714f1dce7dfe0c",
+      "title": "NIJE VIĐENA 11 DANA, NEMA JE U KANALU, SAMO JE NESTALA! Popularna ajkula \"Bukangi\" privukla je 1,7 miliona posetilaca, evo gde bi mogla da bude",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10154837/ajkula-u-busanu-nije-vidjena-11-dana-moguce-da-je-otisla-ka-otvorenom-moru",
+      "published_at": "2026-11-07T02:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "17b874c5f8df2add558b",
+      "title": "ČUVENI LUIS HAMILTON IZNENADIO IZJAVOM! Misli da se njegov timski kolega protiv njgea trka mnogo agresivnije nego protiv drugih vozača!",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/ostali-sportovi/10155135/hamilton-lekler-se-protiv-mene-trka-mnogo-agresivnije-nego-protiv-drugih-vozaca",
+      "published_at": "2026-11-07T01:36+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "05abe92aebad5b78e282",
       "title": "Čaj za smirenje onima koji su stalno kao na iglama: Nervoza, stres i nemir u duši neće proći sami od sebe",
@@ -3266,39 +3299,6 @@
       "source": "Novosti",
       "source_url": "https://www.novosti.rs/sport/fudbal/1668871/srpski-vezista-dobio-ugovor-karijere-crno-beli-vezali-nisliju-paok-zavrsio-transfer-clana-orlova-najnovije-vesti-andrija-zivkovic",
       "published_at": "2026-11-06T20:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "a935422394236e499ff6",
-      "title": "Korona virus potvrđen u srpskom gradu! Poseban apel poslat jednom delu stanovništva",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Srbija",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/vesti/srbija/4428449-korona-virus-potvrdjen-u-srpskom-gradu-poseban-apel-poslat-jednom-delu-stanovnistva",
-      "published_at": "2026-11-06T20:10+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "0abb1ca8a4dab313cd5b",
-      "title": "Европски парламент покренуо проверу двојице посланика због контаката са Русијом",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800510/evropski-parlament-pokrenuo-proveru-dvojice-poslanika-zbog-kontakata-sa-rusijom",
-      "published_at": "2026-11-06T20:08+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "4f0990939225e6b39aa8",
-      "title": "Tramp proglasio novi nacionalni spomenik: Da li će ovaj kič ostati zauvek budućim generacijama?",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Svet",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/vesti/svet/4428423-tramp-proglasio-novi-nacionalni-spomenik-da-li-ce-ovaj-kic-ostati-zauvek-buducim-generacijama",
-      "published_at": "2026-11-06T20:08+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
