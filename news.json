@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-11-07T00:22:19.196467+00:00",
+  "updated_at": "2026-11-07T01:36:24.270233+00:00",
   "articles": [
+    {
+      "id": "05abe92aebad5b78e282",
+      "title": "Čaj za smirenje onima koji su stalno kao na iglama: Nervoza, stres i nemir u duši neće proći sami od sebe",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://ona.telegraf.rs/fitnes-i-zdravlje/4428506-caj-za-smirenje-onima-koji-su-stalno-kao-na-iglama-nervoza-stres-i-nemir-u-dusi-nece-proci-sami-od-sebe",
+      "published_at": "2026-11-07T01:31+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a02ddfee1c27cb97bd01",
+      "title": "Milenko, Marko i Lazar osvojili bronzanu medalju na Svetskom prvenstvu!",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/sport/ostali-sportovi/4428412-milenko-marko-i-lazar-osvojili-bronzanu-medalju-na-svetskom-prvenstvu",
+      "published_at": "2026-11-07T01:15+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "c4a7b54c12f7f883f3e3",
+      "title": "Снимци потврдили да руски ловци Су-35 прелазе на потпуно модернизован арсенал ракета ваздух-ваздух",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/800569/snimci-potvrdili-da-ruski-lovci-su-35-prelaze-na-potpuno-modernizovan-arsenal-raketa-vazduh-vazduh",
+      "published_at": "2026-11-07T01:06+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "caf4c4324fea4186a07c",
+      "title": "Francuska razmatra povećanje minimalne zarade za oko 30 evra",
+      "summary": "",
+      "category": "Ekonomija",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://biznis.telegraf.rs/info-biz/4428283-francuska-razmatra-povecanje-minimalne-zarade-za-oko-30-evra",
+      "published_at": "2026-11-07T01:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d20a1417e7060314e759",
+      "title": "PAPA LAV KRENUO U TURNEJU PO LATINSKOJ AMERICI: Ova zemlja biće mu prva stanica",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/planeta/10154809/papa-lav-xiv-zapoceo-putovanje-po-latinskoj-americi",
+      "published_at": "2026-11-07T01:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "c2e9a972204931b262b9",
+      "title": "Калас: ЕУ мора да учествује у сваком договору о миру у Украјини",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Politika",
+      "source_url": "https://www.politika.rs/scc/clanak/800568/kalas-eu-mora-da-ucestvuje-u-svakom-dogovoru-o-miru-u-ukrajini",
+      "published_at": "2026-11-07T00:40+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "64b36e44fe512108135f",
+      "title": "NEMA PRAŠTANJA Zelenski: \"Ukrajina je već pripremila odgovore na ruske napade na energetiku\"",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/svet/4428478-nema-prastanja-zelenski-ukrajina-je-vec-pripremila-odgovore-na-ruske-napade-na-energetiku",
+      "published_at": "2026-11-07T00:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "0e9bf999c3b0090dc383",
       "title": "Украјински оператери погодили систем „бук-М3” током операције „Вивалди”",
@@ -1384,6 +1461,17 @@
       "region": "Srbija",
       "source": "Novosti",
       "source_url": "https://www.novosti.rs/sport/kosarka/1668888/nije-bilo-lako-penjaroja-izneo-prve-utiske-nakon-pobede-partizana",
+      "published_at": "2026-11-06T21:50+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "d7e60f5893cb7ebd3a21",
+      "title": "Oslabljeni Partizan razbio Makabi za prekid loše serije: Stivens blistao kao nikad pre, novajlije oduševile",
+      "summary": "",
+      "category": "Sport",
+      "region": "Srbija",
+      "source": "Nova.rs",
+      "source_url": "https://nova.rs/sport/evroliga/uzivo-prenos-livestream-partizan-makabi-tel-aviv-10-kolo-evrolige/",
       "published_at": "2026-11-06T21:50+00:00",
       "verification_status": "preneto_iz_izvora"
     },
@@ -3005,6 +3093,17 @@
       "verification_status": "preneto_iz_izvora"
     },
     {
+      "id": "264a4b6386de4ab045ec",
+      "title": "Последњи осуђени руководилац „Наменске“ помилован – родитељи страдалог радника говоре о девет година борбе за правду",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "RTS",
+      "source_url": "https://www.rts.rs/vesti/drustvo/6078431/eksplozija-lucani-milan-blagojevic-namenska.html",
+      "published_at": "2026-11-06T20:21+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
       "id": "17947954b5caa6063ae7",
       "title": "\"Sve more oko Paga bilo je crveno od krvi\": Hrvatska \"Slobodna Dalmacija\" objavila jeziva svedočenja o ustaškim zločinima nad Srbima",
       "summary": "",
@@ -3200,105 +3299,6 @@
       "source": "Telegraf",
       "source_url": "https://www.telegraf.rs/vesti/svet/4428423-tramp-proglasio-novi-nacionalni-spomenik-da-li-ce-ovaj-kic-ostati-zauvek-buducim-generacijama",
       "published_at": "2026-11-06T20:08+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "2ffe3253d13d88d73f8a",
-      "title": "DEJAN NESTAO U KRAGUJEVCU! Poslednji put viđen u četvrtak ujutru u Bresnici - ako imate bilo kakvu informaciju, pozovite policiju",
-      "summary": "",
-      "category": "Hronika",
-      "region": "Srbija",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/vesti/drustvo/10155656/nestao-muskarac-u-kragujevcu",
-      "published_at": "2026-11-06T20:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "a11f7f15ac65f764b0c0",
-      "title": "Mina priznala da je bila u prodavnici iz koje je izašla sa neplaćenom garderobom: \"To je samo 10.000 dinara\"",
-      "summary": "",
-      "category": "Ekonomija",
-      "region": "Srbija",
-      "source": "Telegraf",
-      "source_url": "https://www.telegraf.rs/jetset/vesti-jetset/4428447-mina-priznala-da-je-bila-u-prodavnici-iz-koje-je-izasla-sa-neplacenom-garderobom-to-je-samo-10000-dinara",
-      "published_at": "2026-11-06T20:07+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "6af3e17b9d6caf006a54",
-      "title": "Zašto Danska deli građane na \"zapadne\" i \"nezapadne\"?",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "N1",
-      "source_url": "https://n1info.rs/svet/zasto-danska-deli-gradjane-na-zapadne-i-nezapadne/",
-      "published_at": "2026-11-06T20:06+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "50064d6212a442902c62",
-      "title": "Pomilovani napadači u slučaju \"porše\": Srdić očekivao ishod, ali to nije umanjilo bol - porodica se nada pravdi nakon promene vlasti",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "N1",
-      "source_url": "https://n1info.rs/vesti/lazar-srdic-svedocenje-gazenje-novi-sad-slucaj-porse/",
-      "published_at": "2026-11-06T20:05+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "ae2bc33154c72cf64a1a",
-      "title": "Evropski aviosaobraćaj i medijski emiteri danas bili na meti dojava o podmetnutim bombama",
-      "summary": "",
-      "category": "Ekonomija",
-      "region": "Svet",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/svet/evropski-avioni-medijski-emiteri-dojave-o-bombama/",
-      "published_at": "2026-11-06T20:05+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "533b97d02d8a7f086a3f",
-      "title": "Цена нафте Брент пала испод 98 долара за барел",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800509/cena-nafte-brent-pala-ispod-98-dolara-za-barel",
-      "published_at": "2026-11-06T20:04+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "d9d36368b09b43ddba85",
-      "title": "Er Srbija razmatra polovne Drimlajnere: Manja potrošnja goriva, ali skuplji zakup",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Srbija",
-      "source": "Telegraf",
-      "source_url": "https://aero.telegraf.rs/avio-kompanije/4428436-er-srbija-razmatra-polovne-drimlajnere-manja-potrosnja-goriva-ali-skuplji-zakup",
-      "published_at": "2026-11-06T20:04+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "17e64af6982f22a8a17a",
-      "title": "Kad ostanu bez para biće bezopasni",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Danas",
-      "source_url": "https://www.danas.rs/vesti/drustvo/kad-ostanu-bez-para-bice-bezopasni/",
-      "published_at": "2026-11-06T20:01+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "70a8d8ad0f14bcb8e0db",
-      "title": "ĐOKOVIĆ BODRI ZVEZDU U ATINI: Novak stigao da pruži podršku crveno-belima...",
-      "summary": "",
-      "category": "Sport",
-      "region": "Srbija",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/sport/kosarka/evroliga/10155655/djokovic-bodri-zvezdu-u-atini",
-      "published_at": "2026-11-06T20:01+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
