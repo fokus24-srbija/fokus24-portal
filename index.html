@@ -4,6 +4,17 @@
 
 <link rel="manifest" href="/trag24-portal/manifest.webmanifest">
 
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/trag24-portal/service-worker.js')
+      .catch(function(error) {
+        console.error('Service worker:', error);
+      });
+  });
+}
+</script>
+
 <meta property="og:title" content="TRAG 24 | Srbija i svet">
 <meta property="og:description" content="Najnovije vesti iz Srbije i sveta. Jasno navedeni izvori.">
 <meta property="og:image" content="https://trag24-srbija.github.io/trag24-portal/share.jpg">
