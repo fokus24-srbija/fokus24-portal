@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-07T02:23:52.026356+00:00",
+  "updated_at": "2026-11-07T03:22:28.088002+00:00",
   "articles": [
+    {
+      "id": "676e853fbd66089ecbe2",
+      "title": "POLICIJSKA AKCIJA U SARAJEVU: Uhapšen mladić",
+      "summary": "",
+      "category": "Hronika",
+      "region": "Svet",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/region/bosna-i-hercegovina/10154873/hapsenje-mladica-zbog-teske-kradje-u-sarajevu",
+      "published_at": "2026-11-07T03:10+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "fef4e29e95f2abc2f55a",
+      "title": "Sud Trampu naneo novi udarac: Blokirana izgradnja njegove Trijumfalne kapije u Vašingtonu",
+      "summary": "",
+      "category": "Hronika",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/svet/4428433-sud-trampu-naneo-novi-udarac-blokirana-izgradnja-njegove-trijumfalne-kapije-u-vasingtonu",
+      "published_at": "2026-11-07T03:00+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "a6f7a2f92a530eb57056",
+      "title": "OGLASIO SE NOVI ŠAMPION FORMULE 1: Kimi Antoneli poslao moćnu poruku pred poslednju trku u sezoni: \"Ovo je dobra prilika da...\"",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Neodređeno",
+      "source": "Kurir",
+      "source_url": "https://www.kurir.rs/sport/ostali-sportovi/10155158/kimi-antoneli-pred-poslednju-trku-u-sezoni",
+      "published_at": "2026-11-07T02:55+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
+    {
+      "id": "847de2b498faeca965ba",
+      "title": "Pogledajte da li je vaša ulica na spisku: Bez vode delovi opština Zemun i Voždovac",
+      "summary": "",
+      "category": "Društvo",
+      "region": "Svet",
+      "source": "Telegraf",
+      "source_url": "https://www.telegraf.rs/vesti/beograd/4428439-pogledajte-da-li-je-vasa-ulica-na-spisku-bez-vode-delovi-opstina-zemun-i-vozdovac",
+      "published_at": "2026-11-07T02:30+00:00",
+      "verification_status": "preneto_iz_izvora"
+    },
     {
       "id": "5f5f88195082685ef1d7",
       "title": "U Domu garde promovisana nova generacija podoficira Vojske Srbije",
@@ -3255,50 +3299,6 @@
       "source": "Blic",
       "source_url": "https://www.blic.rs/zabava/nasa-glumica-rodila-blizance-u-45-godini-djurdja-i-momcilo-napunili-8-meseci/w562tm4",
       "published_at": "2026-11-06T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "f7bec4a64db96f5c0f25",
-      "title": "Test ličnosti od samo 7 pitanja otkriće vam kakva ste osoba: Objašnjenja posle vaših odgovora ostaviće vas bez teksta",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Kurir",
-      "source_url": "https://www.kurir.rs/zabava/zanimljivosti/10155658/test-licnosti-od-7-pitanja-otkrice-vam-kakva-ste-osoba",
-      "published_at": "2026-11-06T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "a6ca3b6531a0b62bf0b1",
-      "title": "Протести против дата-центара захватили Европу, активисти упали на градилиште у Амстердаму",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800512/protesti-protiv-data-centara-zahvatili-evropu-aktivisti-upali-na-gradiliste-u-amsterdamu",
-      "published_at": "2026-11-06T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "84fcfc068224cf65eb85",
-      "title": "Протести против дата-центара захватили Европу",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Politika",
-      "source_url": "https://www.politika.rs/scc/clanak/800512/protesti-protiv-data-centara-zahvatili-evropu",
-      "published_at": "2026-11-06T20:11+00:00",
-      "verification_status": "preneto_iz_izvora"
-    },
-    {
-      "id": "3fcbb2900391c497ecbb",
-      "title": "Kraj među crno-belima! Ugovor karijere za Srbina!",
-      "summary": "",
-      "category": "Društvo",
-      "region": "Neodređeno",
-      "source": "Novosti",
-      "source_url": "https://www.novosti.rs/sport/fudbal/1668871/srpski-vezista-dobio-ugovor-karijere-crno-beli-vezali-nisliju-paok-zavrsio-transfer-clana-orlova-najnovije-vesti-andrija-zivkovic",
-      "published_at": "2026-11-06T20:10+00:00",
       "verification_status": "preneto_iz_izvora"
     }
   ]
